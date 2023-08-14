@@ -23,11 +23,12 @@ The Randy Lewis qqcd program in FORTRAN. This version uses the new method of for
 The quark matrix comes in the form $`M = I - kB`$, where $`B`$ is the hopping matrix. The hopping matrix from FORTRAN can be exported to a .LOG file, which can then can then be converted to a .mat file for Matlab using `hoppingconvert.m` in our FORTRAN utilities repository: [https://github.com/lashombpLQCD/LQCDUtilities](https://github.com/lashombpLQCD/LQCDUtilities). 
 
 To print the .LOG file, use the following steps: 
-1. In `qqcd/andyworkinglagfib/qqcd-test/user/latsize.f90`, set the dimensions of the lattice used (nx, ny, nz, nt) and how many processors are used for each dimension (npx, npy, npz, npt).
-2. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file.
-3. In `qqcd/andyworkinglagfib/qqcd-test/user/sbin#`, edit the *make* file to match the directories used, and then compile the program by running the `make` command.
-4. Edit your job submission file in `qqcd/andyworklagfig/qqcd-test/bin` if needed, and submit the job to the cluster.
-5. Repeat each step for the remaining configurations. 
+1. In `qqcd/andyworkinglagfib/qqcd-test/cfgsprops/cfgsprops.f90`, uncomment the line "printH". 
+2. In `qqcd/andyworkinglagfib/qqcd-test/user/latsize.f90`, set the dimensions of the lattice used (nx, ny, nz, nt) and how many processors are used for each dimension (npx, npy, npz, npt).
+3. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file.
+4. In `qqcd/andyworkinglagfib/qqcd-test/user/sbin#`, edit the *make* file to match the directories used, and then compile the program by running the `make` command.
+5. Edit your job submission file in `qqcd/andyworklagfig/qqcd-test/bin` if needed, and submit the job to the cluster.
+6. Repeat each step for the remaining configurations. 
 
 
 Once the .mat file has been made from the .LOG file, import the .mat file into Matlab by simply loading the .mat file and creating the quark matrix via, 
