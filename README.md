@@ -24,7 +24,10 @@ The quark matrix comes in the form $`M = I - kB`$, where $`B`$ is the hopping ma
 
 To print the .LOG file, use the following steps: 
 1. In `qqcd/andyworkinglagfib/qqcd-test/user/latsize.f90`, set the dimensions of the lattice used (nx, ny, nz, nt) and how many processors are used for each dimension (npx, npy, npz, npt).
-2. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file. 
+2. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file.
+3. In `qqcd/andyworkinglagfib/qqcd-test/user/sbin#`, edit the *make* file to match the directories used, and then compile the program by running the `make` command.
+4. Edit your job submission file in `qqcd/andyworklagfig/qqcd-test/bin` if needed, and submit the job to the cluster.
+5. Repeat each step for the remaining configurations. 
 
 
 Once the .mat file has been made from the .LOG file, import the .mat file into Matlab by simply loading the .mat file and creating the quark matrix via, 
