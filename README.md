@@ -27,7 +27,7 @@ To print the .LOG file, use the following steps:
 2. In `qqcd/andyworkinglagfib/qqcd-test/user/latsize.f90`, set the dimensions of the lattice used (nx, ny, nz, nt) and how many processors are used for each dimension (npx, npy, npz, npt).
 3. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file.
 4. In `qqcd/andyworkinglagfib/qqcd-test/user/sbin#`, edit the *make* file to match the directories used, and then compile the program by running the `make` command.
-5. Edit your job submission file in `qqcd/andyworklagfig/qqcd-test/bin` if needed, and submit the job to the cluster.
+5. Edit your job submission file in `qqcd/andyworklagfig/qqcd-test/bin` if needed, and submit the job to the cluster. Use the .sh file, `qqcd/andyworkinglagfib/qqcd-test/bin/job_sub.sh` as a template file and edit as needed. 
 6. Repeat each step for the remaining configurations. 
 
 
