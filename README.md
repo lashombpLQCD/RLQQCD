@@ -42,6 +42,7 @@ A = I - kB;
 
 clear B; 
 ```
+**Note**: if the configuration file is placed in a different directory, replace the `load` statement with `load(["file_absolute_path\h01_24242424.mat"]);`.
 
 ### Running the Subtraction Routines 
 The main subtraction routines are within the file `qqcd/andyworkinglagfib/qqcd-test/cfgsprops/quark/disconloops.f90`. The Monte Carlo trace calculation is performed within the subroutine `subroutine testFUNC`. 
