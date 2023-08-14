@@ -20,7 +20,14 @@ The Randy Lewis qqcd program in FORTRAN. This version uses the new method of for
 
 ## Common Operations
 ### Printing the Hopping Matrix 
-The quark matrix comes in the form $`M = I - kB`$, where $`B`$ is the hopping matrix. The hopping matrix from FORTRAN can be exported to a .LOG file, which can then can then be converted to a .mat file for Matlab using `hoppingconvert.m` in our FORTRAN utilities repository: [https://github.com/lashombpLQCD/LQCDUtilities](https://github.com/lashombpLQCD/LQCDUtilities). To use the .mat file in Matlab, simply load the .mat file and create the quark matrix via, 
+The quark matrix comes in the form $`M = I - kB`$, where $`B`$ is the hopping matrix. The hopping matrix from FORTRAN can be exported to a .LOG file, which can then can then be converted to a .mat file for Matlab using `hoppingconvert.m` in our FORTRAN utilities repository: [https://github.com/lashombpLQCD/LQCDUtilities](https://github.com/lashombpLQCD/LQCDUtilities). 
+
+To print the .LOG file, use the following steps: 
+1. In `qqcd/andyworkinglagfib/qqcd-test/user/latsize.f90`, set the dimensions of the lattice used (nx, ny, nz, nt) and how many processors are used for each dimension (npx, npy, npz, npt).
+2. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file. 
+
+
+Once the .mat file has been made from the .LOG file, import the .mat file into Matlab by simply loading the .mat file and creating the quark matrix via, 
 ```
 load h01_24242424.mat
 
@@ -31,9 +38,6 @@ A = I - kB;
 
 clear B; 
 ```
-Use the following steps to print the .LOG file: 
-1. In `qqcd/andyworkinglagfib/qqcd-test/user/latsize.f90`, set the dimensions of the lattice used (nx, ny, nz, nt) and how many processors are used for each dimension (npx, npy, npz, npt).
-2. In `qqcd/andyworkinglagfib/qqcd-test/user/cfgspropsmain.f90`, set the variable `rwdir` to the desired directory for printing the .LOG file. 
 
 ### Running the Subtraction Routines 
 The main subtraction routines are within the file `qqcd/andyworkinglagfib/qqcd-test/cfgsprops/quark/disconloops.f90`. The Monte Carlo trace calculation is performed within the subroutine `subroutine testFUNC`. 
