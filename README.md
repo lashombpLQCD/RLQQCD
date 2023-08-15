@@ -33,7 +33,7 @@ To print the .LOG file, use the following steps:
 6. Repeat each step for the remaining configurations. 
 
 
-Once the .mat file has been made from the .LOG file, import the .mat file into Matlab by simply loading the .mat file and creating the quark matrix via, 
+Once the .mat file has been made from the `hopping-matrix.LOG` file using `hoppingconvert.m`, import the .mat file into Matlab by simply loading the .mat file and creating the quark matrix via, 
 ```
 load h01_24242424.mat
 
