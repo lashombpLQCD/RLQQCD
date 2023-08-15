@@ -7,7 +7,9 @@ The Randy Lewis qqcd program in FORTRAN. This version uses the new method of for
 - `qqcd/andyworkinglagfib/qqcd-test/`: Base directory of program 
   - `cfgsprops/`
     - `cfgsprops.f90`: Performs all calculations from generating/loading gauge configurations to calling subroutines in `quark/` to perform subtraction calculations. 
-    - `quark/`: Contains all of the subtraction source files 
+    - `quark/`: Contains all of the subtraction source files
+      - `disconloops.f90`: Source file where Monte Carlo subtraction program is performed
+      - `preconditioner.f90`: Source file where all high-degree polynomial subroutines are contained. 
   - `glue/`: Where gauge configurations are generated, saved, and read in
   - `user/`: Settings for a particular run (e.g. configuration directories, lattice size, etc.). The FORTRAN program starts in `cfgspropsmain.f90`. 
   - `bin/`: Directory for compiled program and batch submission files for running on HPC cluster
