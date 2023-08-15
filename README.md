@@ -1,6 +1,6 @@
 # RLQQCD
 
-The Randy Lewis qqcd program in FORTRAN. This version uses the new method of forming the subtraction polynomial, as outlined in out [High-degree subtraction polynomials](https://arxiv.org/pdf/2306.06188.pdf) paper.
+The Randy Lewis qqcd program in FORTRAN. This version uses the new method of forming the subtraction polynomial, as outlined in our [High-degree subtraction polynomials](https://arxiv.org/pdf/2306.06188.pdf) paper.
 
 
 ### Basic File Structure
