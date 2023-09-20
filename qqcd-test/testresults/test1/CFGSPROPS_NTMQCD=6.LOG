@@ -1,0 +1,309 @@
+ 
+USER INPUTS:
+ 
+nx,ny,nz,nt =              8         8         8         8
+npx,npy,npz,npt =          2         2         2         2
+nk1 =                      1
+KI, KR, KR2 =              4         8         8
+newcalc =            2
+ifilesave =          1
+cfgfile =   cfgfiles/G00001000qwilson-8-8-b6-new                            
+iseed =             13
+ncold =              1
+nsweep =             1
+n0sweep =        20000
+n1sweep =         2000
+nhit =               1
+gaction =            1         1         1         1
+alat =       1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+beta =       6.0000000000E+00
+tad =        1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+tadupdate =          0
+tadpole =            1
+tadlandau =          0
+landimp =            0         0         0         0
+alpha =      1.0000000000E-01
+omega =      1.7000000000E+00
+thetamax =   1.0000000000E-05
+nwilo =              0
+npaths =             6
+nfuzz =              0
+epsfuzz =    3.0000000000E-01
+src(0,:) =           1         1         1         4
+bc =                 1         1         1         1
+resmax =     1.0000000000E-15
+itermin =           50
+nsmear =             0
+asmear =     1.0000000000E-01
+nkappa =             1
+wilsonmm =           0
+hopton =             2
+i,kappa(i) =       1 1.4000000000E-01
+omegaM3R =   1.0000000000E+00
+ntmqcd =             6
+i,mtmqcd(i,:) =      1 1.5300000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      2 1.5500000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      3 1.5580000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      4 1.6500000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      5 1.6750000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      6 1.7000000000E-01 1.0000000000E-05
+i,src(i,:) =      1         1         1         1         4
+i,src(i,:) =      2         1         1         1         4
+i,src(i,:) =      3         1         1         1         4
+i,src(i,:) =      4         1         1         1         4
+i,src(i,:) =      5         1         1         1         4
+i,src(i,:) =      6         1         1         1         4
+ ntmqcdloop =            0
+cSWtmqcd =   0.0000000000E+00
+inverter =           5
+nGMRES =           100        60
+opSST =              0
+tSST =              44
+pSST =               0         0         0
+nSST =               1         1
+i,mSST(i,:) =        1 1.5700000000E-01 0.0000000000E+00
+cSWSST =     0.0000000000E+00
+invSST =             0
+numnoises =         20
+kappaloop =  1.5700000000E-01 0.0000000000E+00
+cSWloop =    0.0000000000E+00
+docorr =             0
+nkappacorr =         1
+ntmqcdcorr =         6
+ntmqcdloop =         0
+nucleonparti         3
+gitest =             0
+nirloop=             1
+            
+OUTPUTS:    
+            
+ Just did GFread
+ Entering sweep loop
+ isweep =            1
+ Updated sweepnum
+    sweepnum =     1
+ Just did a read
+         1 plaq:        5.9551977928E-01
+         1 ux,uy,uz,ut: 8.8096420625E-01 8.7892862700E-01 8.8104834723E-01 8.7521351547E-01
+     gmresdr      100 1.9813871723E-05
+  gmresdr-or      100 7.5788059340E-07
+     gmresdr      140 3.4700171293E-08
+  gmresdr-or      140 1.3272815520E-09
+     gmresdr      180 1.5544371381E-11
+  gmresdr-or      180 5.9457220534E-13
+     gmresdr      220 2.8363386719E-14
+  gmresdr-or      220 1.0848995420E-15
+     gmresdr      260 2.8296949635E-14
+  gmresdr-or      260 1.0823583235E-15
+     gmresdr      300 2.8296951042E-14
+  gmresdr-or      300 1.0823583773E-15
+     gmresdr      340 2.8296951072E-14
+  gmresdr-or      340 1.0823583785E-15
+     gmresdr      380 2.8296951088E-14
+  gmresdr-or      380 1.0823583791E-15
+     gmresdr      420 2.8296951089E-14
+  gmresdr-or      420 1.0823583792E-15
+     gmresdr      460 2.8296951088E-14
+  gmresdr-or      460 1.0823583791E-15
+     gmresdr      500 2.8296951088E-14
+  gmresdr-or      500 1.0823583791E-15
+     gmresdr      540 2.8296951088E-14
+  gmresdr-or      540 1.0823583791E-15
+     gmresdr      580 2.8296951088E-14
+  gmresdr-or      580 1.0823583791E-15
+     gmresdr      620 2.8296951088E-14
+  gmresdr-or      620 1.0823583791E-15
+     gmresdr      660 2.8296951088E-14
+  gmresdr-or      660 1.0823583791E-15
+     gmresdr      700 2.8296951088E-14
+  gmresdr-or      700 1.0823583791E-15
+     gmresdr      740 2.8296951088E-14
+  gmresdr-or      740 1.0823583791E-15
+     gmresdr      780 2.8296951088E-14
+  gmresdr-or      780 1.0823583791E-15
+     gmresdr      820 2.8296951088E-14
+  gmresdr-or      820 1.0823583791E-15
+     gmresdr      860 2.8296951088E-14
+  gmresdr-or      860 1.0823583791E-15
+     gmresdr      900 2.8296951088E-14
+  gmresdr-or      900 1.0823583791E-15
+     gmresdr      940 2.8296951088E-14
+  gmresdr-or      940 1.0823583791E-15
+     gmresdr      980 2.8296951088E-14
+  gmresdr-or      980 1.0823583791E-15
+     gmresdr     1020 2.8296951088E-14
+  gmresdr-or     1020 1.0823583791E-15
+     gmresdr     1060 2.8296951088E-14
+  gmresdr-or     1060 1.0823583791E-15
+     gmresdr     1100 2.8296951088E-14
+  gmresdr-or     1100 1.0823583791E-15
+     gmresdr     1140 2.8296951088E-14
+  gmresdr-or     1140 1.0823583791E-15
+     gmresdr     1180 2.8296951088E-14
+  gmresdr-or     1180 1.0823583791E-15
+     gmresdr     1220 2.8296951088E-14
+  gmresdr-or     1220 1.0823583791E-15
+     gmresdr     1260 2.8296951088E-14
+  gmresdr-or     1260 1.0823583791E-15
+     gmresdr     1300 2.8296951088E-14
+  gmresdr-or     1300 1.0823583791E-15
+     gmresdr     1340 2.8296951088E-14
+  gmresdr-or     1340 1.0823583791E-15
+     gmresdr     1380 2.8296951088E-14
+  gmresdr-or     1380 1.0823583791E-15
+     gmresdr     1420 2.8296951088E-14
+  gmresdr-or     1420 1.0823583791E-15
+     gmresdr     1460 2.8296951088E-14
+  gmresdr-or     1460 1.0823583791E-15
+     gmresdr     1500 2.8296951088E-14
+  gmresdr-or     1500 1.0823583791E-15
+     gmresdr     1540 2.8296951088E-14
+  gmresdr-or     1540 1.0823583791E-15
+     gmresdr     1580 2.8296951088E-14
+  gmresdr-or     1580 1.0823583791E-15
+     gmresdr     1620 2.8296951088E-14
+  gmresdr-or     1620 1.0823583791E-15
+     gmresdr     1660 2.8296951088E-14
+  gmresdr-or     1660 1.0823583791E-15
+     gmresdr     1700 2.8296951088E-14
+  gmresdr-or     1700 1.0823583791E-15
+     gmresdr     1740 2.8296951088E-14
+  gmresdr-or     1740 1.0823583791E-15
+     gmresdr     1780 2.8296951088E-14
+  gmresdr-or     1780 1.0823583791E-15
+     gmresdr     1820 2.8296951088E-14
+  gmresdr-or     1820 1.0823583791E-15
+     gmresdr     1860 2.8296951088E-14
+  gmresdr-or     1860 1.0823583791E-15
+     gmresdr     1900 2.8296951088E-14
+  gmresdr-or     1900 1.0823583791E-15
+     gmresdr     1940 2.8296951088E-14
+  gmresdr-or     1940 1.0823583791E-15
+     gmresdr     1980 2.8296951088E-14
+  gmresdr-or     1980 1.0823583791E-15
+     gmresdr     2020 2.8296951088E-14
+  gmresdr-or     2020 1.0823583791E-15
+     gmresdr     2060 2.8296951088E-14
+  gmresdr-or     2060 1.0823583791E-15
+     gmresdr     2100 2.8296951088E-14
+  gmresdr-or     2100 1.0823583791E-15
+     gmresdr     2140 2.8296951088E-14
+  gmresdr-or     2140 1.0823583791E-15
+     gmresdr     2180 2.8296951088E-14
+  gmresdr-or     2180 1.0823583791E-15
+     gmresdr     2220 2.8296951088E-14
+  gmresdr-or     2220 1.0823583791E-15
+     gmresdr     2260 2.8296951088E-14
+  gmresdr-or     2260 1.0823583791E-15
+     gmresdr     2300 2.8296951088E-14
+  gmresdr-or     2300 1.0823583791E-15
+     gmresdr     2340 2.8296951088E-14
+  gmresdr-or     2340 1.0823583791E-15
+     gmresdr     2380 2.8296951088E-14
+  gmresdr-or     2380 1.0823583791E-15
+     gmresdr     2420 2.8296951088E-14
+  gmresdr-or     2420 1.0823583791E-15
+     gmresdr     2460 2.8296951088E-14
+  gmresdr-or     2460 1.0823583791E-15
+     gmresdr     2500 2.8296951088E-14
+  gmresdr-or     2500 1.0823583791E-15
+     gmresdr     2540 2.8296951088E-14
+  gmresdr-or     2540 1.0823583791E-15
+     gmresdr     2580 2.8296951088E-14
+  gmresdr-or     2580 1.0823583791E-15
+     gmresdr     2620 2.8296951088E-14
+  gmresdr-or     2620 1.0823583791E-15
+     gmresdr     2660 2.8296951088E-14
+  gmresdr-or     2660 1.0823583791E-15
+     gmresdr     2700 2.8296951088E-14
+  gmresdr-or     2700 1.0823583791E-15
+     gmresdr     2740 2.8296951088E-14
+  gmresdr-or     2740 1.0823583791E-15
+     gmresdr     2780 2.8296951088E-14
+  gmresdr-or     2780 1.0823583791E-15
+     gmresdr     2820 2.8296951088E-14
+  gmresdr-or     2820 1.0823583791E-15
+     gmresdr     2860 2.8296951088E-14
+  gmresdr-or     2860 1.0823583791E-15
+     gmresdr     2900 2.8296951088E-14
+  gmresdr-or     2900 1.0823583791E-15
+     gmresdr     2940 2.8296951088E-14
+  gmresdr-or     2940 1.0823583791E-15
+     gmresdr     2980 2.8296951088E-14
+  gmresdr-or     2980 1.0823583791E-15
+     gmresdr     3020 2.8296951088E-14
+  gmresdr-or     3020 1.0823583791E-15
+     gmresdr     3060 2.8296951088E-14
+  gmresdr-or     3060 1.0823583791E-15
+     gmresdr     3100 2.8296951088E-14
+  gmresdr-or     3100 1.0823583791E-15
+     gmresdr     3140 2.8296951088E-14
+  gmresdr-or     3140 1.0823583791E-15
+     gmresdr     3180 2.8296951088E-14
+  gmresdr-or     3180 1.0823583791E-15
+     gmresdr     3220 2.8296951088E-14
+  gmresdr-or     3220 1.0823583791E-15
+     gmresdr     3260 2.8296951088E-14
+  gmresdr-or     3260 1.0823583791E-15
+     gmresdr     3300 2.8296951088E-14
+  gmresdr-or     3300 1.0823583791E-15
+     gmresdr     3340 2.8296951088E-14
+  gmresdr-or     3340 1.0823583791E-15
+     gmresdr     3380 2.8296951088E-14
+  gmresdr-or     3380 1.0823583791E-15
+     gmresdr     3420 2.8296951088E-14
+  gmresdr-or     3420 1.0823583791E-15
+     gmresdr     3460 2.8296951088E-14
+  gmresdr-or     3460 1.0823583791E-15
+     gmresdr     3500 2.8296951088E-14
+  gmresdr-or     3500 1.0823583791E-15
+     gmresdr     3540 2.8296951088E-14
+  gmresdr-or     3540 1.0823583791E-15
+     gmresdr     3580 2.8296951088E-14
+  gmresdr-or     3580 1.0823583791E-15
+     gmresdr     3620 2.8296951088E-14
+  gmresdr-or     3620 1.0823583791E-15
+     gmresdr     3660 2.8296951088E-14
+  gmresdr-or     3660 1.0823583791E-15
+     gmresdr     3700 2.8296951088E-14
+  gmresdr-or     3700 1.0823583791E-15
+     gmresdr     3740 2.8296951088E-14
+  gmresdr-or     3740 1.0823583791E-15
+     gmresdr     3780 2.8296951088E-14
+  gmresdr-or     3780 1.0823583791E-15
+     gmresdr     3820 2.8296951088E-14
+  gmresdr-or     3820 1.0823583791E-15
+     gmresdr     3860 2.8296951088E-14
+  gmresdr-or     3860 1.0823583791E-15
+     gmresdr     3900 2.8296951088E-14
+  gmresdr-or     3900 1.0823583791E-15
+     gmresdr     3940 2.8296951088E-14
+  gmresdr-or     3940 1.0823583791E-15
+     gmresdr     3980 2.8296951088E-14
+  gmresdr-or     3980 1.0823583791E-15
+     gmresdr     4020 2.8296951088E-14
+  gmresdr-or     4020 1.0823583791E-15
+     gmresdr     4060 2.8296951088E-14
+  gmresdr-or     4060 1.0823583791E-15
+     gmresdr     4100 2.8296951088E-14
+  gmresdr-or     4100 1.0823583791E-15
+     gmresdr     4140 2.8296951088E-14
+  gmresdr-or     4140 1.0823583791E-15
+     gmresdr     4180 2.8296951088E-14
+  gmresdr-or     4180 1.0823583791E-15
+     gmresdr     4220 2.8296951088E-14
+  gmresdr-or     4220 1.0823583791E-15
+     gmresdr     4260 2.8296951088E-14
+  gmresdr-or     4260 1.0823583791E-15
+     gmresdr     4300 2.8296951088E-14
+  gmresdr-or     4300 1.0823583791E-15
+     gmresdr     4340 2.8296951088E-14
+  gmresdr-or     4340 1.0823583791E-15
+     gmresdr     4380 2.8296951088E-14
+  gmresdr-or     4380 1.0823583791E-15
+     gmresdr     4420 2.8296951088E-14
+  gmresdr-or     4420 1.0823583791E-15
+     gmresdr     4460 2.8296951088E-14
+  gmresdr-or     4460 1.0823583791E-15
+     gmresdr     4500              NaN
+  gmresdr-or     4500              NaN

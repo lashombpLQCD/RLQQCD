@@ -1,0 +1,105 @@
+cat: c477-[064,071],c489-[111,113],c490-024,c491-091,c493-122,c494-004,c495-134,c496-[062,071,092-093,131],c497-[003,014,113-114],c498-[041,082,084,101-102,132,134],c499-134,c500-[064,073,084],c501-[064,083,113],c502-[014,021],c503-[022,051]: No such file or directory
+/tmp/slurmd/job4160409/slurm_script: line 22: num: command not found
+Requested processors: 
+Node(s):
+uniq: c477-[064,071],c489-[111,113],c490-024,c491-091,c493-122,c494-004,c495-134,c496-[062,071,092-093,131],c497-[003,014,113-114],c498-[041,082,084,101-102,132,134],c499-134,c500-[064,073,084],c501-[064,083,113],c502-[014,021],c503-[022,051]: No such file or directory
+
+Cleaning scratch files
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/es.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfes.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/ns.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp7.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp4.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/esps.dat’: No such file or directory
+
+Job starting at Wed Aug 14 16:26:34 CDT 2019
+
+[mpiexec@c477-064.stampede2.tacc.utexas.edu] HYD_pmcd_pmi_alloc_pg_scratch (pm/pmiserv/pmiserv_utils.c:527): assert (pg->pg_process_count * sizeof(struct HYD_pmcd_pmi_ecount)) failed
+[mpiexec@c477-064.stampede2.tacc.utexas.edu] HYD_pmci_launch_procs (pm/pmiserv/pmiserv_pmci.c:108): error allocating pg scratch space
+*** Error in `mpiexec': free(): invalid pointer: 0x00000000006b47f8 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x81489)[0x2b5542171489]
+mpiexec[0x40bf5e]
+mpiexec[0x404d13]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2b55421123d5]
+mpiexec[0x404069]
+======= Memory map: ========
+00400000-004b2000 r-xp 00000000 fd:00 201757215                          /opt/apps/intel18/mvapich2/2.3.1/bin/mpiexec.hydra
+006b1000-006b3000 r--p 000b1000 fd:00 201757215                          /opt/apps/intel18/mvapich2/2.3.1/bin/mpiexec.hydra
+006b3000-006b5000 rw-p 000b3000 fd:00 201757215                          /opt/apps/intel18/mvapich2/2.3.1/bin/mpiexec.hydra
+006b5000-00736000 rw-p 00000000 00:00 0 
+018c9000-018ea000 rw-p 00000000 00:00 0                                  [heap]
+2b5540deb000-2b5540e0d000 r-xp 00000000 fd:00 201338690                  /usr/lib64/ld-2.17.so
+2b5540e0d000-2b5540e10000 rw-p 00000000 00:00 0 
+2b5540e2d000-2b5540e34000 rw-p 00000000 00:00 0 
+2b554100c000-2b554100d000 r--p 00021000 fd:00 201338690                  /usr/lib64/ld-2.17.so
+2b554100d000-2b554100e000 rw-p 00022000 fd:00 201338690                  /usr/lib64/ld-2.17.so
+2b554100e000-2b554100f000 rw-p 00000000 00:00 0 
+2b554100f000-2b5541038000 r-xp 00000000 fd:00 253566                     /opt/apps/xalt/2.6.5/lib64/libxalt_init.so
+2b5541038000-2b5541238000 ---p 00029000 fd:00 253566                     /opt/apps/xalt/2.6.5/lib64/libxalt_init.so
+2b5541238000-2b5541239000 r--p 00029000 fd:00 253566                     /opt/apps/xalt/2.6.5/lib64/libxalt_init.so
+2b5541239000-2b554123a000 rw-p 0002a000 fd:00 253566                     /opt/apps/xalt/2.6.5/lib64/libxalt_init.so
+2b554123a000-2b554123b000 rw-p 00000000 00:00 0 
+2b554123b000-2b5541252000 r-xp 00000000 fd:00 201457263                  /usr/lib64/libpthread-2.17.so
+2b5541252000-2b5541451000 ---p 00017000 fd:00 201457263                  /usr/lib64/libpthread-2.17.so
+2b5541451000-2b5541452000 r--p 00016000 fd:00 201457263                  /usr/lib64/libpthread-2.17.so
+2b5541452000-2b5541453000 rw-p 00017000 fd:00 201457263                  /usr/lib64/libpthread-2.17.so
+2b5541453000-2b5541457000 rw-p 00000000 00:00 0 
+2b5541457000-2b5541558000 r-xp 00000000 fd:00 202819437                  /usr/lib64/libm-2.17.so
+2b5541558000-2b5541757000 ---p 00101000 fd:00 202819437                  /usr/lib64/libm-2.17.so
+2b5541757000-2b5541758000 r--p 00100000 fd:00 202819437                  /usr/lib64/libm-2.17.so
+2b5541758000-2b5541759000 rw-p 00101000 fd:00 202819437                  /usr/lib64/libm-2.17.so
+2b5541759000-2b5541763000 r-xp 00000000 fd:00 201653532                  /usr/lib64/libnuma.so.1
+2b5541763000-2b5541963000 ---p 0000a000 fd:00 201653532                  /usr/lib64/libnuma.so.1
+2b5541963000-2b5541964000 r--p 0000a000 fd:00 201653532                  /usr/lib64/libnuma.so.1
+2b5541964000-2b5541965000 rw-p 0000b000 fd:00 201653532                  /usr/lib64/libnuma.so.1
+2b5541965000-2b554196e000 r-xp 00000000 fd:00 201824621                  /usr/lib64/libpciaccess.so.0.11.1
+2b554196e000-2b5541b6d000 ---p 00009000 fd:00 201824621                  /usr/lib64/libpciaccess.so.0.11.1
+2b5541b6d000-2b5541b6e000 r--p 00008000 fd:00 201824621                  /usr/lib64/libpciaccess.so.0.11.1
+2b5541b6e000-2b5541b6f000 rw-p 00009000 fd:00 201824621                  /usr/lib64/libpciaccess.so.0.11.1
+2b5541b6f000-2b5541cce000 r-xp 00000000 fd:00 201338818                  /usr/lib64/libxml2.so.2.9.1
+2b5541cce000-2b5541ecd000 ---p 0015f000 fd:00 201338818                  /usr/lib64/libxml2.so.2.9.1
+2b5541ecd000-2b5541ed5000 r--p 0015e000 fd:00 201338818                  /usr/lib64/libxml2.so.2.9.1
+2b5541ed5000-2b5541ed7000 rw-p 00166000 fd:00 201338818                  /usr/lib64/libxml2.so.2.9.1
+2b5541ed7000-2b5541ed9000 rw-p 00000000 00:00 0 
+2b5541ed9000-2b5541eef000 r-xp 00000000 fd:00 219123885                  /opt/apps/gcc/6.3.0/lib64/libgcc_s.so.1
+2b5541eef000-2b55420ee000 ---p 00016000 fd:00 219123885                  /opt/apps/gcc/6.3.0/lib64/libgcc_s.so.1
+2b55420ee000-2b55420ef000 r--p 00015000 fd:00 219123885                  /opt/apps/gcc/6.3.0/lib64/libgcc_s.so.1
+2b55420ef000-2b55420f0000 rw-p 00016000 fd:00 219123885                  /opt/apps/gcc/6.3.0/lib64/libgcc_s.so.1
+2b55420f0000-2b55422b2000 r-xp 00000000 fd:00 202819430                  /usr/lib64/libc-2.17.so
+2b55422b2000-2b55424b2000 ---p 001c2000 fd:00 202819430                  /usr/lib64/libc-2.17.so
+2b55424b2000-2b55424b6000 r--p 001c2000 fd:00 202819430                  /usr/lib64/libc-2.17.so
+2b55424b6000-2b55424b8000 rw-p 001c6000 fd:00 202819430                  /usr/lib64/libc-2.17.so
+2b55424b8000-2b55424bd000 rw-p 00000000 00:00 0 
+2b55424bd000-2b55424bf000 r-xp 00000000 fd:00 202819435                  /usr/lib64/libdl-2.17.so
+2b55424bf000-2b55426bf000 ---p 00002000 fd:00 202819435                  /usr/lib64/libdl-2.17.so
+2b55426bf000-2b55426c0000 r--p 00002000 fd:00 202819435                  /usr/lib64/libdl-2.17.so
+2b55426c0000-2b55426c1000 rw-p 00003000 fd:00 202819435                  /usr/lib64/libdl-2.17.so
+2b55426c1000-2b55426d6000 r-xp 00000000 fd:00 201338798                  /usr/lib64/libz.so.1.2.7
+2b55426d6000-2b55428d5000 ---p 00015000 fd:00 201338798                  /usr/lib64/libz.so.1.2.7
+2b55428d5000-2b55428d6000 r--p 00014000 fd:00 201338798                  /usr/lib64/libz.so.1.2.7
+2b55428d6000-2b55428d7000 rw-p 00015000 fd:00 201338798                  /usr/lib64/libz.so.1.2.7
+2b55428d7000-2b55428fc000 r-xp 00000000 fd:00 201338816                  /usr/lib64/liblzma.so.5.2.2
+2b55428fc000-2b5542afb000 ---p 00025000 fd:00 201338816                  /usr/lib64/liblzma.so.5.2.2
+2b5542afb000-2b5542afc000 r--p 00024000 fd:00 201338816                  /usr/lib64/liblzma.so.5.2.2
+2b5542afc000-2b5542afd000 rw-p 00025000 fd:00 201338816                  /usr/lib64/liblzma.so.5.2.2
+2b5542afd000-2b5542b09000 r-xp 00000000 fd:00 201457255                  /usr/lib64/libnss_files-2.17.so
+2b5542b09000-2b5542d08000 ---p 0000c000 fd:00 201457255                  /usr/lib64/libnss_files-2.17.so
+2b5542d08000-2b5542d09000 r--p 0000b000 fd:00 201457255                  /usr/lib64/libnss_files-2.17.so
+2b5542d09000-2b5542d0a000 rw-p 0000c000 fd:00 201457255                  /usr/lib64/libnss_files-2.17.so
+2b5542d0a000-2b5542d10000 rw-p 00000000 00:00 0 
+2b5544000000-2b5544021000 rw-p 00000000 00:00 0 
+2b5544021000-2b5548000000 ---p 00000000 00:00 0 
+7ffe61740000-7ffe61765000 rw-p 00000000 00:00 0                          [stack]
+7ffe61786000-7ffe61788000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/tmp/slurmd/job4160409/slurm_script: line 93: 13725 Aborted                 mpiexec -n $num -machinefile $SLURM_JOB_NODELIST ./qqcd-test1 > quick1.out
+
+Job finished at Wed Aug 14 16:26:34 CDT 2019
+
+Total Execution time: 0 seconds

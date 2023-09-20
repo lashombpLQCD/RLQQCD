@@ -1,0 +1,11 @@
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/es.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/hfes.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/ns.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/pp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/pp7.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/pp4.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch1/esps.dat’: No such file or directory

@@ -1,0 +1,32 @@
+Loading mpi version 2021.6.0
+Loading compiler version 2022.1.0
+Loading tbb version 2021.6.0
+Loading compiler-rt version 2022.1.0
+Loading oclfpga version 2022.1.0
+  Load "debugger" to debug DPC++ applications with the gdb-oneapi debugger.
+  Load "dpl" for additional DPC++ APIs: https://github.com/oneapi-src/oneDPL
+
+Loading compiler/latest
+  Loading requirement: tbb/latest compiler-rt/latest oclfpga/latest
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/DUBLIN.OUT': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/EIGEN_VALS.LOG': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/CFGSPROPS.LOG': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/DUBLIN.OUT': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/es.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/esps.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/hfes.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/hfespoly.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/hfesps.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/linearresidual.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/ns.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/pp4.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/pp7.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/pp.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/ps.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/newpp.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/newhfespoly.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/newpp_noise-1.LOG': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/newdoublepp.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/newhfesdoublepoly.dat': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/oldpp_noise-1.LOG': No such file or directory
+rm: cannot remove '/data/lashombp/qqcd/24242448_configs_TEST/prepp_noise-1.LOG': No such file or directory

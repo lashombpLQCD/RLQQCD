@@ -1,0 +1,8 @@
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/newpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/newdoublepp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/newhfesdoublepoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/oldpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/prepp_noise-1.LOG’: No such file or directory

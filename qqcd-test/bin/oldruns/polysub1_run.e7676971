@@ -1,0 +1,204 @@
+forrtl: File exists
+forrtl: severe (10): cannot overwrite existing file, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/EIGEN_VALS.LOG
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B43860F6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B438611A78F  for_open              Unknown  Unknown
+qqcd-testout       00000000009FDE4C  cfgsprops_mp_gene         517  cfgsprops.f90
+qqcd-testout       0000000000A29482  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B43886213D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1A0FAE43EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1A0F6525D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1A120CB20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B1A169E6EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B1A0F64ADD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1A120D5EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFB223EA3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFB21F585D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFB249D120D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002AFB292ECEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFB21F50DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFB249DBEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0EDF5FB3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0EDF1695D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0EE1BE220D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B0EE64FDEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B0EDF161DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0EE1BECEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFCF119F3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFCF0D0D5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFCF378620D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002AFCF80A1EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFCF0D05DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFCF3790EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6659F913EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B6659AFF5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B665C57820D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B6660E93EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B6659AF7DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B665C582EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC6E57033EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC6E52715D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC6E7CEA20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002AC6EC605EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AC6E5269DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC6E7CF4EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6F33E7E3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B6F339EC5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6F3646520D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B6F3AD80EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B6F339E4DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6F3646FEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9599C833EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B95997F15D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B959C26A20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B95A0B85EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B95997E9DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B959C274EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B348E5163EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B348E0845D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3490AFD20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B3495418EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B348E07CDD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3490B07EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B84ACF0F3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B84ACA7D5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B84AF4F620D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B84B3E11EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B84ACA75DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B84AF500EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8646BDE3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B864674C5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B86491C520D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B864DAE0EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B8646744DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B86491CFEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B77475DA3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B77471485D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7749BC120D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B774E4DCEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B7747140DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7749BCBEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B11F8A0B3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B11F85795D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B11FAFF220D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B11FF90DEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B11F8571DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B11FAFFCEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0E42E5F3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0E429CD5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0E4544620D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B0E49D61EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B0E429C5DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0E45450EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B13E1A2F3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B13E159D5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B13E401620D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B13E8931EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B13E1595DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B13E4020EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B80015CE3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B800113C5D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8003BB520D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B80084D0EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B8001134DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8003BBFEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B19C14A33EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B19C10115D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B19C3A8A20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B19C83A5EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B19C1009DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B19C3A94EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE01A62B3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE01A1995D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE01CC1220D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002AE02152DEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AE01A191DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE01CC1CEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B95718A23EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B95714105D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9573E8920D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B95787A4EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9571408DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9573E93EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0CE4FE63EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0CE4B545D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0CE75CD20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B0CEBEE8EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B0CE4B4CDD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0CE75D7EAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B263DD483EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B263D8B65D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B264032F20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B2644C4AEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B263D8AEDD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2640339EAD  clone                 Unknown  Unknown
+forrtl: Bad file descriptor
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AABC9D5A3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AABC98C85D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002AABCC34120D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002AABD0C5CEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AABC98C0DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002AABCC34BEAD  clone                 Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3EF5BAA3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3EF57185D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3EF819120D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002B3EFCAACEDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B3EF5710DD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3EF819BEAD  clone                 Unknown  Unknown
+forrtl: Bad file descriptor
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA2CD2973EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA2CCE055D0  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA2CF87E20D  __poll                Unknown  Unknown
+libpsm2.so.2.1     00002BA2D4199EDD  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA2CCDFDDD5  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA2CF888EAD  clone                 Unknown  Unknown

@@ -1,0 +1,108 @@
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/newpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/oldpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/qqcd_scratch/8888/prepp_noise-1.LOG’: No such file or directory
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B7415  inverters_mp_newd       21896  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B736E  inverters_mp_newd       21896  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B7374  inverters_mp_newd       21896  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B72ED  inverters_mp_newd       21893  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B736E  inverters_mp_newd       21896  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAAD011F70  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAAD81B48A  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAAD8A4A66  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAAD8A2B35  MPI_Reduce            Unknown  Unknown
+libmpifort.so.12.  00002AAAAB77914E  pmpi_reduce__         Unknown  Unknown
+qqcd-testout1      00000000008596C9  inverters_mp_vecd       17669  inverters.f90
+qqcd-testout1      00000000008B5AFC  inverters_mp_newd       21921  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B7349  inverters_mp_newd       21893  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000008B72ED  inverters_mp_newd       21893  inverters.f90
+qqcd-testout1      00000000009DAD88  disconloops_mp_ei        3300  disconloops.f90
+qqcd-testout1      000000000096FE34  disconloops_mp_te        2654  disconloops.f90
+qqcd-testout1      0000000000A94DE7  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout1      0000000000AADF24  MAIN__                    833  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown

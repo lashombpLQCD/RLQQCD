@@ -1,0 +1,15 @@
+cat: c477-[061,083,102],c478-[022,031],c479-133,c480-022,c481-[062,064,082-083],c482-111,c484-[023,044,064],c485-061,c486-[033,133],c487-062,c489-064,c493-124,c494-041,c495-[074,111],c496-031,c497-[083,121],c498-012,c501-124,c502-[082,112],c503-[033,044,053,071-072]: File name too long
+Finished outputting nodelist
+Requested processors: 
+Node(s):
+uniq: c477-[061,083,102],c478-[022,031],c479-133,c480-022,c481-[062,064,082-083],c482-111,c484-[023,044,064],c485-061,c486-[033,133],c487-062,c489-064,c493-124,c494-041,c495-[074,111],c496-031,c497-[083,121],c498-012,c501-124,c502-[082,112],c503-[033,044,053,071-072]: File name too long
+
+Cleaning scratch files
+
+Job starting at Mon Sep  2 14:15:35 CDT 2019
+
+srun: error: Invalid numeric value "-m" for number of tasks.
+
+Job finished at Mon Sep  2 14:15:35 CDT 2019
+
+Total Execution time: 0 seconds

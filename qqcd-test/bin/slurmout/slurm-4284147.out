@@ -1,0 +1,32 @@
+Requested processors: 
+Node(s):
+uniq: c479-[071,122,124],c480-[011,024,122],c483-[061,063,102,122,124],c484-[104,134],c485-[021,023,044,121,123-124],c486-021,c488-013,c491-[022,091,122],c493-052,c498-133,c499-001,c500-043,c501-134,c504-[084,121],c505-[061,064],c506-[103-104,113]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Wed Sep  4 21:36:36 CDT 2019
+
+Incorrect number of arguments.
+usage: mpirun_rsh [-v] [-sg group] [-rsh|-ssh] [-debug] -[tv] [-xterm] [-show] [-legacy] [-export|-export-all] -np N (-hostfile hfile | h1 h2 ... hN) a.out args | -config configfile (-hostfile hfile | h1 h2 ... hN)]
+Where:
+	sg         => execute the processes as different group ID
+	rsh        => to use rsh for connecting
+	ssh        => to use ssh for connecting
+	debug      => run each process under the control of gdb
+	tv         => run each process under the control of totalview
+	xterm      => run remote processes under xterm
+	show       => show command for remote execution but don't run it
+	legacy     => use old startup method (1 ssh/process)
+	export     => automatically export environment to remote processes
+	export-all => automatically export environment to remote processes even if already set remotely
+	np         => specify the number of processes
+	h1 h2...   => names of hosts where processes should run
+or	hostfile   => name of file containing hosts, one per line
+	a.out      => name of MPI binary
+	args       => arguments for MPI binary
+	config     => name of file containing the exe information: each line has the form -n numProc : exe args
+
+
+Job finished at Wed Sep  4 21:36:36 CDT 2019
+
+Total Execution time: 0 seconds

@@ -1,0 +1,210 @@
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_intel_lp64.so: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:7@c429-031.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+[proxy:0:27@c456-134.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_intel_thread.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_intel_thread.so: cannot map zero-fill pages: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: failed to map segment from shared object: Cannot allocate memory
+[proxy:0:33@c458-121.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_intel_thread.so: cannot create shared object descriptor: Cannot allocate memory
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmpifort.so.12: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_intel_thread.so: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:12@c435-073.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmpifort.so.12: failed to map segment from shared object: Cannot allocate memory
+[proxy:0:26@c456-111.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmpifort.so.12: cannot map zero-fill pages: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libiomp5.so: cannot map zero-fill pages: Cannot allocate memory
+slurmstepd: error: *** JOB 7616853 ON c403-091 CANCELLED AT 2021-04-21T19:17:11 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB1416833EF  for__signal_handl     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3F4FB3D3EF  for__signal_handl     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B49068383EF  for__signal_handl     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9286D8D3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B92868FB5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B92868FA6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B918A56A3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B918A0D85D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B918A0D76DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AEC41AFA3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AEC416685D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AEC416676DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B687A5923EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B687A1005D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B687A0FF6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B96556AE3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B965521C5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B965521B6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B71631EF3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B7162D5D5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B7162D5C6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD2BB5B73EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD2BB1255D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AD2BB1246DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B555FA293EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B555F5975D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B555F5966DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AED54D6D3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AED548DB5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AED548DA6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD9888853EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD9883F35D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AD9883F26DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B60DB3303EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B60DAE9E5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B60DAE9D6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3EC1F263EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3EC1A945D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B3EC1A936DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B014A62B3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B014A1995D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B014A1986DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA459DC13EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA45992F5D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002BA459DC0E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA45992F5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA45992E6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF7280373EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF727BA55D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF727BA46DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9195D723EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B91958E05D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B91958DF6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B2C0FF213EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2C0FA8F5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2C0FA8E6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFB9C4123EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFB9BF805D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFB9BF7F6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B30819DF3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B308154D5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B308154C6DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B590F62A3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B590F1985D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B590F1976DE  read                  Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B36B0D693EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B36B08D75D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B36B08D66DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B36AFCB74E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B36AFCB0E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B36AFCB6A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B36AFB84B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B36AFB25AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B36AFB1307B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B36AF567240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B36B327F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B12167193EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B12162875D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B12162866DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B12156674E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1215660E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1215666A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1215534B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B12154D5AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B12154C307B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B1214F17240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1218C2F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown

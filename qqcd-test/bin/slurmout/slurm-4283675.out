@@ -1,0 +1,195 @@
+Finished outputting nodelist
+Requested processors: 
+Node(s):
+uniq: c477-122,c483-073,c485-071,c486-133,c487-132,c489-[091,122],c490-041,c491-082,c492-111,c494-013,c495-044,c496-041,c497-[032,094,103,111],c498-[002,011-012,014,022,044,051,053,133-134],c499-123,c500-064,c501-[101,123,134],c502-[024,133],c503-[003,083]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Wed Sep  4 18:52:17 CDT 2019
+
+srun: cluster configuration lacks support for cpu binding
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+slurmstepd: error: execve(): arbitrary: No such file or directory
+srun: error: c477-122: tasks 0-3: Exited with exit code 2
+srun: Terminating job step 4283675.0
+srun: error: c485-071: tasks 8-11: Exited with exit code 2
+srun: error: c503-083: tasks 140-143: Exited with exit code 2
+srun: error: c498-012: tasks 76-79: Exited with exit code 2
+srun: error: c490-041: tasks 28-31: Exited with exit code 2
+srun: error: c500-064: tasks 112-115: Exited with exit code 2
+srun: error: c498-053: tasks 96-99: Exited with exit code 2
+srun: error: c486-133: tasks 12-15: Exited with exit code 2
+srun: error: c502-133: tasks 132-135: Exited with exit code 2
+srun: error: c489-091: tasks 20-23: Exited with exit code 2
+srun: error: c494-013: tasks 40-43: Exited with exit code 2
+srun: error: c495-044: tasks 44-47: Exited with exit code 2
+srun: error: c503-003: tasks 136-139: Exited with exit code 2
+srun: error: c492-111: tasks 36-39: Exited with exit code 2
+srun: error: c498-044: tasks 88-91: Exited with exit code 2
+srun: error: c497-032: tasks 52-55: Exited with exit code 2
+srun: error: c489-122: tasks 24-27: Exited with exit code 2
+srun: error: c497-103: tasks 60-63: Exited with exit code 2
+srun: error: c498-134: tasks 104-107: Exited with exit code 2
+srun: error: c487-132: tasks 16-19: Exited with exit code 2
+srun: error: c498-002: tasks 68-71: Exited with exit code 2
+srun: error: c501-134: tasks 124-127: Exited with exit code 2
+srun: error: c498-011: tasks 72-75: Exited with exit code 2
+srun: error: c491-082: tasks 32-35: Exited with exit code 2
+srun: error: c501-101: tasks 116-119: Exited with exit code 2
+srun: error: c502-024: tasks 128-131: Exited with exit code 2
+srun: error: c498-051: tasks 92-95: Exited with exit code 2
+srun: error: c483-073: tasks 4-7: Exited with exit code 2
+srun: error: c498-133: tasks 100-103: Exited with exit code 2
+srun: error: c499-123: tasks 108-111: Exited with exit code 2
+srun: error: c498-014: tasks 80-83: Exited with exit code 2
+srun: error: c498-022: tasks 84-87: Exited with exit code 2
+srun: error: c497-094: tasks 56-59: Exited with exit code 2
+srun: error: c501-123: tasks 120-123: Exited with exit code 2
+srun: error: c496-041: tasks 48-51: Exited with exit code 2
+srun: error: c497-111: tasks 64-67: Exited with exit code 2
+
+Job finished at Wed Sep  4 18:52:18 CDT 2019
+
+Total Execution time: 1 seconds

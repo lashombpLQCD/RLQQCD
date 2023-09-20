@@ -1,0 +1,1284 @@
+TACC:  Starting up job 7445082 
+TACC:  Starting parallel tasks... 
+ myid,cfgfile=          48 
+ cfgfiles/G00009048qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         100 
+ cfgfiles/G00009100qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          12 
+ cfgfiles/G00009012qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          49 
+ cfgfiles/G00009049qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          52 
+ cfgfiles/G00009052qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          64 
+ cfgfiles/G00009064qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          72 
+ cfgfiles/G00009072qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         101 
+ cfgfiles/G00009101qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          13 
+ cfgfiles/G00009013qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          28 
+ cfgfiles/G00009028qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          50 
+ cfgfiles/G00009050qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          53 
+ cfgfiles/G00009053qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          65 
+ cfgfiles/G00009065qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          73 
+ cfgfiles/G00009073qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         104 
+ cfgfiles/G00009104qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         102 
+ cfgfiles/G00009102qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          14 
+ cfgfiles/G00009014qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          29 
+ cfgfiles/G00009029qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          51 
+ cfgfiles/G00009051qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          54 
+ cfgfiles/G00009054qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          66 
+ cfgfiles/G00009066qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          74 
+ cfgfiles/G00009074qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         105 
+ cfgfiles/G00009105qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         103 
+ cfgfiles/G00009103qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          24 
+ cfgfiles/G00009024qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          15 
+ cfgfiles/G00009015qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          30 
+ cfgfiles/G00009030qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          56 
+ cfgfiles/G00009056qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          55 
+ cfgfiles/G00009055qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          67 
+ cfgfiles/G00009067qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          75 
+ cfgfiles/G00009075qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         106 
+ cfgfiles/G00009106qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          88 
+ cfgfiles/G00009088qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          92 
+ cfgfiles/G00009092qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          27 
+ cfgfiles/G00009027qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          31 
+ cfgfiles/G00009031qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          57 
+ cfgfiles/G00009057qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=         107 
+ cfgfiles/G00009107qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          89 
+ cfgfiles/G00009089qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          93 
+ cfgfiles/G00009093qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          25 
+ cfgfiles/G00009025qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          58 
+ cfgfiles/G00009058qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          90 
+ cfgfiles/G00009090qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          94 
+ cfgfiles/G00009094qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          26 
+ cfgfiles/G00009026qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          59 
+ cfgfiles/G00009059qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          91 
+ cfgfiles/G00009091qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          95 
+ cfgfiles/G00009095qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          80 
+ cfgfiles/G00009080qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          81 
+ cfgfiles/G00009081qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          82 
+ cfgfiles/G00009082qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          83 
+ cfgfiles/G00009083qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          96 
+ cfgfiles/G00009096qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          40 
+ cfgfiles/G00009040qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          97 
+ cfgfiles/G00009097qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          32 
+ cfgfiles/G00009032qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          41 
+ cfgfiles/G00009041qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          98 
+ cfgfiles/G00009098qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          33 
+ cfgfiles/G00009033qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          42 
+ cfgfiles/G00009042qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          99 
+ cfgfiles/G00009099qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          34 
+ cfgfiles/G00009034qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          43 
+ cfgfiles/G00009043qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          35 
+ cfgfiles/G00009035qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           4 
+ cfgfiles/G00009004qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           5 
+ cfgfiles/G00009005qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           6 
+ cfgfiles/G00009006qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           7 
+ cfgfiles/G00009007qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           8 
+ cfgfiles/G00009008qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           9 
+ cfgfiles/G00009009qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          11 
+ cfgfiles/G00009011qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          10 
+ cfgfiles/G00009010qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          76 
+ cfgfiles/G00009076qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          79 
+ cfgfiles/G00009079qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          77 
+ cfgfiles/G00009077qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          78 
+ cfgfiles/G00009078qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           1 
+ cfgfiles/G00009001qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           2 
+ cfgfiles/G00009002qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          84 
+ cfgfiles/G00009084qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           3 
+ cfgfiles/G00009003qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          85 
+ cfgfiles/G00009085qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          86 
+ cfgfiles/G00009086qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          87 
+ cfgfiles/G00009087qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          60 
+ cfgfiles/G00009060qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          61 
+ cfgfiles/G00009061qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          62 
+ cfgfiles/G00009062qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          63 
+ cfgfiles/G00009063qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          68 
+ cfgfiles/G00009068qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          69 
+ cfgfiles/G00009069qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          70 
+ cfgfiles/G00009070qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          71 
+ cfgfiles/G00009071qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          37 
+ cfgfiles/G00009037qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          38 
+ cfgfiles/G00009038qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          39 
+ cfgfiles/G00009039qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          36 
+ cfgfiles/G00009036qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          20 
+ cfgfiles/G00009020qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          21 
+ cfgfiles/G00009021qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          22 
+ cfgfiles/G00009022qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          23 
+ cfgfiles/G00009023qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          44 
+ cfgfiles/G00009044qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          45 
+ cfgfiles/G00009045qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          46 
+ cfgfiles/G00009046qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          47 
+ cfgfiles/G00009047qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          18 
+ cfgfiles/G00009018qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          19 
+ cfgfiles/G00009019qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          16 
+ cfgfiles/G00009016qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=          17 
+ cfgfiles/G00009017qwilson-12-16-b6-new                                         
+                                                  
+ myid,cfgfile=           0 
+ cfgfiles/G00009000qwilson-12-16-b6-new                                         
+                                                  
+ icfgsave=           9
+           1 : calling testFUNC
+           2 : calling testFUNC
+           8 : calling testFUNC
+          24 : calling testFUNC
+           4 : calling testFUNC
+          16 : calling testFUNC
+          12 : calling testFUNC
+          20 : calling testFUNC
+          28 : calling testFUNC
+          36 : calling testFUNC
+          44 : calling testFUNC
+          56 : calling testFUNC
+          52 : calling testFUNC
+          68 : calling testFUNC
+          64 : calling testFUNC
+          60 : calling testFUNC
+          76 : calling testFUNC
+          80 : calling testFUNC
+          85 : calling testFUNC
+         104 : calling testFUNC
+          89 : calling testFUNC
+         100 : calling testFUNC
+          92 : calling testFUNC
+          96 : calling testFUNC
+           3 : calling testFUNC
+           9 : calling testFUNC
+          25 : calling testFUNC
+           5 : calling testFUNC
+          17 : calling testFUNC
+          13 : calling testFUNC
+          21 : calling testFUNC
+          29 : calling testFUNC
+          37 : calling testFUNC
+          40 : calling testFUNC
+          45 : calling testFUNC
+          57 : calling testFUNC
+          53 : calling testFUNC
+          69 : calling testFUNC
+          65 : calling testFUNC
+          61 : calling testFUNC
+          77 : calling testFUNC
+          81 : calling testFUNC
+          86 : calling testFUNC
+         105 : calling testFUNC
+          90 : calling testFUNC
+         101 : calling testFUNC
+          93 : calling testFUNC
+          97 : calling testFUNC
+          10 : calling testFUNC
+          26 : calling testFUNC
+           6 : calling testFUNC
+          18 : calling testFUNC
+          14 : calling testFUNC
+          22 : calling testFUNC
+          30 : calling testFUNC
+          38 : calling testFUNC
+          41 : calling testFUNC
+          46 : calling testFUNC
+          58 : calling testFUNC
+          54 : calling testFUNC
+          70 : calling testFUNC
+          66 : calling testFUNC
+          62 : calling testFUNC
+          78 : calling testFUNC
+          82 : calling testFUNC
+          87 : calling testFUNC
+         106 : calling testFUNC
+          91 : calling testFUNC
+         102 : calling testFUNC
+          94 : calling testFUNC
+          98 : calling testFUNC
+          11 : calling testFUNC
+          27 : calling testFUNC
+           7 : calling testFUNC
+          19 : calling testFUNC
+          15 : calling testFUNC
+          23 : calling testFUNC
+          31 : calling testFUNC
+          39 : calling testFUNC
+          42 : calling testFUNC
+          47 : calling testFUNC
+          48 : calling testFUNC
+          59 : calling testFUNC
+          55 : calling testFUNC
+          71 : calling testFUNC
+          67 : calling testFUNC
+          63 : calling testFUNC
+          72 : calling testFUNC
+          79 : calling testFUNC
+          83 : calling testFUNC
+          84 : calling testFUNC
+         107 : calling testFUNC
+          88 : calling testFUNC
+         103 : calling testFUNC
+          95 : calling testFUNC
+          99 : calling testFUNC
+           0 : calling testFUNC
+          43 : calling testFUNC
+          49 : calling testFUNC
+          73 : calling testFUNC
+          50 : calling testFUNC
+          74 : calling testFUNC
+          51 : calling testFUNC
+          75 : calling testFUNC
+          32 : calling testFUNC
+          33 : calling testFUNC
+          34 : calling testFUNC
+          35 : calling testFUNC
+ File does not exist. Creating it.
+ calling eigmodesofMprime
+ ntotal aaj k din=          12
+ just entered  eigmodesofMprime
+ just entered gmresdr5EIG
+ the value of kappa in gmresdr5EIG is =   0.157000000000000     
+ starting while loop
+ evalue5EIG:     1     -0.00576907440           0.00000000000
+ evalue5EIG:     2     -0.01487139638           0.00000000000
+ evalue5EIG:     3      0.01026034318          -0.00000000000
+ evalue5EIG:     4      0.01435955298           0.00000000000
+ evalue5EIG:     5     -0.02004202022           0.00000000000
+ evalue5EIG:     6      0.01636543995           0.00000000000
+ evalue5EIG:     7     -0.02435639971           0.00000000000
+ evalue5EIG:     8      0.02494069052           0.00000000000
+ evalue5EIG:     9     -0.02666212562           0.00000000000
+ evalue5EIG:    10     -0.03203387821           0.00000000000
+ evalue5EIG:    11      0.02748433579           0.00000000000
+ evalue5EIG:    12      0.03007376655           0.00000000000
+ evalue5EIG:    13     -0.03625220748          -0.00000000000
+ evalue5EIG:    14      0.03400803134           0.00000000000
+ evalue5EIG:    15      0.03564621106           0.00000000000
+ evalue5EIG:    16     -0.03879665818          -0.00000000000
+ evalue5EIG:    17     -0.04057855778          -0.00000000000
+ evalue5EIG:    18     -0.04490995732          -0.00000000000
+ evalue5EIG:    19     -0.04165660245           0.00000000000
+ evalue5EIG:    20      0.04056977579           0.00000000000
+ evalue5EIG:    21     -0.04754340787           0.00000000000
+ evalue5EIG:    22     -0.04895857727          -0.00000000000
+ evalue5EIG:    23      0.04216698114          -0.00000000000
+ evalue5EIG:    24     -0.05236808954           0.00000000000
+ evalue5EIG:    25      0.04782120450           0.00000000000
+ evalue5EIG:    26      0.05568826769           0.00000000000
+ evalue5EIG:    27     -0.05407585039          -0.00000000000
+ evalue5EIG:    28      0.04296694525           0.00000000000
+ evalue5EIG:    29      0.05838364085           0.00000000000
+ evalue5EIG:    30      0.05265819646           0.00000000000
+ evalue5EIG:    31      0.06861131692           0.00000000000
+ evalue5EIG:    32     -0.07044544961          -0.00000000000
+ evalue5EIG:    33     -0.05651182486          -0.00000000000
+ evalue5EIG:    34      0.06081090161           0.00000000000
+ evalue5EIG:    35     -0.06521724605          -0.00000000000
+ evalue5EIG:    36     -0.06715323190          -0.00000000000
+ evalue5EIG:    37      0.04630902642           0.00000000000
+ evalue5EIG:    38     -0.07804350125          -0.00000000000
+ evalue5EIG:    39     -0.06138048951          -0.00000000000
+ evalue5EIG:    40      0.05004537835           0.00000000000
+ evalue5EIG:    41     -0.07307665045           0.00000000000
+ evalue5EIG:    42      0.07747590762           0.00000000000
+ evalue5EIG:    43      0.07143819958           0.00000000000
+ evalue5EIG:    44     -0.05936013544          -0.00000000000
+ evalue5EIG:    45     -0.07544680777          -0.00000000000
+ evalue5EIG:    46      0.08007092593           0.00000000000
+ evalue5EIG:    47      0.06653088388           0.00000000000
+ evalue5EIG:    48     -0.09793870835          -0.00000000000
+ evalue5EIG:    49      0.08573697387           0.00000000000
+ evalue5EIG:    50     -0.09223081811          -0.00000000000
+ evalue5EIG:    51      0.06321336532           0.00000000000
+ evalue5EIG:    52     -0.08622248374          -0.00000000000
+ evalue5EIG:    53     -0.09527597638          -0.00000000000
+ evalue5EIG:    54     -0.08954937945          -0.00000000000
+ evalue5EIG:    55      0.07429353137           0.00000000000
+ evalue5EIG:    56     -0.10729273851          -0.00000000000
+ evalue5EIG:    57     -0.08127639534           0.00000000000
+ evalue5EIG:    58     -0.08392394927          -0.00000000000
+ evalue5EIG:    59     -0.10362731113          -0.00000000000
+ evalue5EIG:    60     -0.11524438502           0.00000000000
+ evalue5EIG:    61     -0.10114415003          -0.00000000000
+ evalue5EIG:    62     -0.12139675218          -0.00000000000
+ evalue5EIG:    63      0.08265814242           0.00000000000
+ evalue5EIG:    64     -0.11239433676          -0.00000000000
+ evalue5EIG:    65      0.09133555345           0.00000000000
+ evalue5EIG:    66     -0.12724462961          -0.00000000000
+ evalue5EIG:    67     -0.13293668238          -0.00000000000
+ evalue5EIG:    68     -0.13587372449          -0.00000000000
+ evalue5EIG:    69     -0.10971454562          -0.00000000000
+ evalue5EIG:    70      0.10256946580           0.00000000000
+ evalue5EIG:    71     -0.11825652383          -0.00000000000
+ evalue5EIG:    72      0.08852217594          -0.00000000000
+ evalue5EIG:    73     -0.13041621439          -0.00000000000
+ evalue5EIG:    74     -0.14781480669          -0.00000000000
+ evalue5EIG:    75     -0.15089919641          -0.00000000000
+ evalue5EIG:    76     -0.12395225945          -0.00000000000
+ evalue5EIG:    77      0.10557119722           0.00000000000
+ evalue5EIG:    78      0.09460568056           0.00000000000
+ evalue5EIG:    79      0.09685567281           0.00000000000
+ evalue5EIG:    80      0.11154219721           0.00000000000
+ evalue5EIG:    81     -0.13895467344          -0.00000000000
+ evalue5EIG:    82     -0.14471665156          -0.00000000000
+ evalue5EIG:    83      0.10823887407           0.00000000000
+ evalue5EIG:    84     -0.16851287542          -0.00000000000
+ evalue5EIG:    85      0.12021745128           0.00000000000
+ evalue5EIG:    86      0.14939850484           0.00000000000
+ evalue5EIG:    87     -0.14197544417          -0.00000000000
+ evalue5EIG:    88      0.12297007734           0.00000000000
+ evalue5EIG:    89      0.11723527063           0.00000000000
+ evalue5EIG:    90     -0.15383758622          -0.00000000000
+ evalue5EIG:    91      0.12601325913           0.00000000000
+ evalue5EIG:    92      0.14623763501           0.00000000000
+ evalue5EIG:    93     -0.17446076887          -0.00000000000
+ evalue5EIG:    94     -0.17161950517          -0.00000000000
+ evalue5EIG:    95     -0.18067583941          -0.00000000000
+ evalue5EIG:    96      0.11444935324           0.00000000000
+ evalue5EIG:    97     -0.17760002122           0.00000000000
+ evalue5EIG:    98     -0.16540084761          -0.00000000000
+ evalue5EIG:    99     -0.15679225651          -0.00000000000
+ evalue5EIG:   100      0.13470790581           0.00000000000
+ evalue5EIG:   101      0.13176378671           0.00000000000
+ evalue5EIG:   102      0.12887725521           0.00000000000
+ evalue5EIG:   103      0.13744678212           0.00000000000
+ evalue5EIG:   104     -0.24236074076          -0.00000000000
+ evalue5EIG:   105     -0.15947809005          -0.00000000000
+ evalue5EIG:   106     -0.22622644118           0.00000000000
+ evalue5EIG:   107      0.14315947743           0.00000000000
+ evalue5EIG:   108     -0.23900737431           0.00000000000
+ evalue5EIG:   109     -0.16260409986          -0.00000000000
+ evalue5EIG:   110      0.09980229462           0.00000000000
+ evalue5EIG:   111     -0.19562380907          -0.00000000000
+ evalue5EIG:   112     -0.20160893880          -0.00000000000
+ evalue5EIG:   113      0.16435586390           0.00000000000
+ evalue5EIG:   114     -0.21986488464          -0.00000000000
+ evalue5EIG:   115     -0.24575347183          -0.00000000000
+ evalue5EIG:   116     -0.22951922204          -0.00000000000
+ evalue5EIG:   117      0.15842326002           0.00000000000
+ evalue5EIG:   118     -0.19258468649          -0.00000000000
+ evalue5EIG:   119     -0.18961816587          -0.00000000000
+ evalue5EIG:   120     -0.23268029911          -0.00000000000
+ evalue5EIG:   121     -0.18655700761           0.00000000000
+ evalue5EIG:   122     -0.18348376604           0.00000000000
+ evalue5EIG:   123     -0.20466454889          -0.00000000000
+ evalue5EIG:   124     -0.23562543569          -0.00000000000
+ evalue5EIG:   125     -0.20775290764          -0.00000000000
+ evalue5EIG:   126     -0.19856574380           0.00000000000
+ evalue5EIG:   127      0.15270375927           0.00000000000
+ evalue5EIG:   128      0.14050468208           0.00000000000
+ evalue5EIG:   129     -0.22313595908          -0.00000000000
+ evalue5EIG:   130     -0.21385439948          -0.00000000000
+ evalue5EIG:   131     -0.21671029057           0.00000000000
+ evalue5EIG:   132     -0.21077954165          -0.00000000000
+ evalue5EIG:   133      0.17595452517           0.00000000000
+ evalue5EIG:   134      0.18226561270           0.00000000000
+ evalue5EIG:   135      0.16140039442           0.00000000000
+ evalue5EIG:   136      0.15546001098           0.00000000000
+ evalue5EIG:   137      0.17298246804           0.00000000000
+ evalue5EIG:   138      0.16750892997           0.00000000000
+ evalue5EIG:   139      0.17025545761           0.00000000000
+ evalue5EIG:   140      0.17945084460          -0.00000000000
+ evalue5EIG:   141      0.18544892940           0.00000000000
+ evalue5EIG:   142      0.19424966523           0.00000000000
+ evalue5EIG:   143      0.20333258877          -0.00000000000
+ evalue5EIG:   144      0.20020219040           0.00000000000
+ evalue5EIG:   145      0.19131266468          -0.00000000000
+ evalue5EIG:   146      0.18826331655          -0.00000000000
+ evalue5EIG:   147      0.20654268774          -0.00000000000
+ evalue5EIG:   148      0.20931771958          -0.00000000000
+ evalue5EIG:   149      0.19727420737          -0.00000000000
+ evalue5EIG:   150      0.21568821787           0.00000000000
+ evalue5EIG:   151      0.21236134123          -0.00000000000
+ evalue5EIG:   152      0.22177572192          -0.00000000000
+ evalue5EIG:   153      0.22782659894          -0.00000000000
+ evalue5EIG:   154      0.22485544682           0.00000000000
+ evalue5EIG:   155      0.21857251902          -0.00000000000
+ evalue5EIG:   156      0.24051947636          -0.00000000000
+ evalue5EIG:   157      0.23109293734           0.00000000000
+ evalue5EIG:   158      0.23427238905          -0.00000000000
+ evalue5EIG:   159      0.23744893966          -0.00000000000
+ evalue5EIG:   160      0.24408733737          -0.00000000000
+ finished gmresdr5EIG
+ just done with gmresdr5EIG
+ L/R Orthoganality test for Mprime
+           1           1   1.00000000000000       0.000000000000000E+000
+           2           2   1.00000000000000       0.000000000000000E+000
+           3           3   1.00000000000000       0.000000000000000E+000
+           4           4   1.00000000000000       0.000000000000000E+000
+           5           5   1.00000000000000       0.000000000000000E+000
+           6           6   1.00000000000000       0.000000000000000E+000
+ gmresdrprinttest1
+ L/R Orthoganlity test for modes of M
+           1           1   1.00000000000000      -2.602085213965211E-017
+           2           2   1.00000000000000       3.989863994746656E-017
+           3           3   1.00000000000000       2.775557561562891E-017
+           4           4   1.00000000000000      -1.387778780781446E-017
+           5           5   1.00000000000000       0.000000000000000E+000
+           6           6   1.00000000000000      -2.081668171172169E-017
+           7           7   1.00000000000000       3.469446951953614E-017
+           8           8   1.00000000000000       4.510281037539698E-017
+           9           9   1.00000000000000       4.597017211338539E-017
+          10          10   1.00000000000000      -9.020562075079397E-017
+          11          11   1.00000000000000       5.724587470723463E-017
+          12          12   1.00000000000000      -5.204170427930421E-018
+          13          13   1.00000000000000      -3.122502256758253E-017
+          14          14   1.00000000000000       2.602085213965211E-017
+          15          15   1.00000000000000       0.000000000000000E+000
+          16          16   1.00000000000000       6.938893903907228E-018
+          17          17   1.00000000000000      -3.989863994746656E-017
+          18          18   1.00000000000000       2.602085213965211E-017
+          19          19   1.00000000000000      -5.551115123125783E-017
+          20          20   1.00000000000000       4.510281037539698E-017
+          21          21   1.00000000000000      -4.163336342344337E-017
+          22          22   1.00000000000000       4.163336342344337E-017
+          23          23   1.00000000000000       6.245004513516506E-017
+          24          24   1.00000000000000       1.387778780781446E-017
+          25          25   1.00000000000000      -1.734723475976807E-017
+          26          26   1.00000000000000       1.040834085586084E-017
+          27          27   1.00000000000000      -1.162264728904461E-016
+          28          28   1.00000000000000      -5.377642775528102E-017
+          29          29   1.00000000000000       6.938893903907228E-017
+          30          30   1.00000000000000      -1.700029006457271E-016
+          31          31   1.00000000000000       4.163336342344337E-017
+          32          32   1.00000000000000      -8.153200337090993E-017
+          33          33   1.00000000000000       1.110223024625157E-016
+          34          34   1.00000000000000       3.816391647148976E-017
+          35          35   1.00000000000000      -1.665334536937735E-016
+          36          36   1.00000000000000       1.665334536937735E-016
+          37          37   1.00000000000000      -2.081668171172169E-017
+          38          38   1.00000000000000       2.428612866367530E-017
+          39          39   1.00000000000000       1.040834085586084E-016
+          40          40   1.00000000000000      -9.714451465470120E-017
+          41          41   1.00000000000000      -1.179611963664229E-016
+          42          42   1.00000000000000      -8.326672684688674E-017
+          43          43   1.00000000000000       2.775557561562891E-017
+          44          44   1.00000000000000      -2.255140518769849E-017
+          45          45   1.00000000000000       1.318389841742373E-016
+          46          46   1.00000000000000      -9.020562075079397E-017
+          47          47   1.00000000000000       1.075528555105620E-016
+          48          48   1.00000000000000      -1.179611963664229E-016
+          49          49   1.00000000000000      -4.163336342344337E-017
+          50          50   1.00000000000000       8.326672684688674E-017
+          51          51   1.00000000000000      -4.510281037539698E-017
+          52          52   1.00000000000000       8.673617379884035E-018
+          53          53   1.00000000000000      -5.551115123125783E-017
+          54          54   1.00000000000000       6.938893903907228E-017
+          55          55   1.00000000000000      -1.058181320345852E-016
+          56          56   1.00000000000000       1.908195823574488E-017
+          57          57   1.00000000000000      -9.714451465470120E-017
+          58          58   1.00000000000000       1.179611963664229E-016
+          59          59   1.00000000000000      -5.637851296924623E-017
+          60          60   1.00000000000000       3.122502256758253E-017
+          61          61   1.00000000000000      -2.775557561562891E-017
+          62          62   1.00000000000000       1.214306433183765E-017
+          63          63   1.00000000000000      -6.938893903907228E-018
+          64          64   1.00000000000000      -2.775557561562891E-017
+          65          65   1.00000000000000       3.469446951953614E-017
+          66          66   1.00000000000000      -1.595945597898663E-016
+          67          67   1.00000000000000      -6.071532165918825E-017
+          68          68   1.00000000000000       4.510281037539698E-017
+          69          69   1.00000000000000       3.469446951953614E-017
+          70          70   1.00000000000000      -1.092875789865388E-016
+          71          71   1.00000000000000      -7.632783294297951E-017
+          72          72   1.00000000000000       7.459310946700271E-017
+          73          73   1.00000000000000       6.591949208711867E-017
+          74          74   1.00000000000000      -6.591949208711867E-017
+          75          75   1.00000000000000      -4.857225732735060E-017
+          76          76   1.00000000000000       1.006139616066548E-016
+          77          77   1.00000000000000       8.153200337090993E-017
+          78          78   1.00000000000000      -8.500145032286355E-017
+          79          79   1.00000000000000      -1.249000902703301E-016
+          80          80   1.00000000000000       1.283695372222837E-016
+          81          81   1.00000000000000      -3.469446951953614E-017
+          82          82   1.00000000000000       2.775557561562891E-017
+          83          83   1.00000000000000       5.898059818321144E-017
+          84          84   1.00000000000000      -2.428612866367530E-017
+          85          85   1.00000000000000       3.642919299551295E-017
+          86          86   1.00000000000000       1.040834085586084E-017
+          87          87   1.00000000000000      -5.204170427930421E-017
+          88          88   1.00000000000000       1.144917494144693E-016
+          89          89   1.00000000000000       0.000000000000000E+000
+          90          90   1.00000000000000       0.000000000000000E+000
+          91          91   1.00000000000000       1.387778780781446E-017
+          92          92   1.00000000000000       6.938893903907228E-018
+          93          93   1.00000000000000       1.804112415015879E-016
+          94          94   1.00000000000000      -8.326672684688674E-017
+          95          95   1.00000000000000      -2.081668171172169E-017
+          96          96   1.00000000000000      -6.938893903907228E-018
+          97          97   1.00000000000000       1.387778780781446E-016
+          98          98   1.00000000000000      -2.775557561562891E-017
+          99          99   1.00000000000000      -3.122502256758253E-017
+         100         100   1.00000000000000      -1.092875789865388E-016
+         101         101   1.00000000000000       6.938893903907228E-018
+         102         102   1.00000000000000       4.163336342344337E-017
+         103         103   1.00000000000000       4.336808689942018E-017
+         104         104   1.00000000000000      -1.127570259384925E-016
+         105         105   1.00000000000000      -1.561251128379126E-017
+         106         106   1.00000000000000       1.387778780781446E-017
+         107         107   1.00000000000000       1.908195823574488E-016
+         108         108   1.00000000000000      -1.838806884535416E-016
+         109         109   1.00000000000000       1.561251128379126E-017
+         110         110   1.00000000000000       2.602085213965211E-017
+         111         111   1.00000000000000      -1.526556658859590E-016
+         112         112   1.00000000000000       1.318389841742373E-016
+         113         113   1.00000000000000      -3.469446951953614E-017
+         114         114   1.00000000000000       9.020562075079397E-017
+         115         115   1.00000000000000      -2.081668171172169E-017
+         116         116   1.00000000000000      -1.318389841742373E-016
+         117         117   1.00000000000000       1.734723475976807E-017
+         118         118   1.00000000000000       1.387778780781446E-017
+         119         119   1.00000000000000      -8.326672684688674E-017
+         120         120   1.00000000000000       9.714451465470120E-017
+         121         121   1.00000000000000      -1.561251128379126E-017
+         122         122   1.00000000000000       3.816391647148976E-017
+         123         123   1.00000000000000       3.989863994746656E-017
+         124         124   1.00000000000000       7.112366251504909E-017
+ NUMEV:                  124
+ NUMEVPRIME:               6
+ eigstart:                 1
+ eigstep:                  1
+ 
+ 
+ --- Eigenvalues ---
+           1  3.273115872634791E-003  1.978703416060686E-002
+           2  3.273115872634791E-003 -1.978703416060688E-002
+           3  1.168926292445172E-002 -2.447001370724703E-002
+           4  1.168926292445160E-002  2.447001370724724E-002
+           5  3.586616027485445E-003 -2.748359412641614E-002
+           6  3.586616027486111E-003  2.748359412641607E-002
+           7  1.294554178262408E-003  3.576953017456455E-002
+           8  1.294554178262852E-003 -3.576953017456470E-002
+           9  2.588051975241368E-003  4.179935625502471E-002
+          10  2.588051975241590E-003 -4.179935625502473E-002
+          11  1.294761064513106E-002 -4.690582569344630E-002
+          12  1.294761064513072E-002  4.690582569344688E-002
+          13  3.089980847275520E-003 -4.967796488076836E-002
+          14  3.089980847275631E-003  4.967796488076886E-002
+          15  9.024250314471738E-003  5.226220681113108E-002
+          16  9.024250314471738E-003 -5.226220681113124E-002
+          17  4.189539197415604E-003  5.637303836158699E-002
+          18  4.189539197415271E-003 -5.637303836158741E-002
+          19  3.526277941919842E-003  6.245232848862521E-002
+          20  3.526277941919731E-003 -6.245232848862620E-002
+          21  9.664396087370908E-003  6.252221038143799E-002
+          22  9.664396087370797E-003 -6.252221038143937E-002
+          23  2.358479276530989E-003 -6.350062984462021E-002
+          24  2.358479276530767E-003  6.350062984462067E-002
+          25  5.926113264539512E-003  6.750513710868507E-002
+          26  5.926113264539734E-003 -6.750513710868519E-002
+          27  6.455223724830761E-003 -6.962955095569051E-002
+          28  6.455223724830428E-003  6.962955095569091E-002
+          29  4.276556342307170E-003 -7.129167484269039E-002
+          30  4.276556342307281E-003  7.129167484269103E-002
+          31  3.028948566646594E-003  7.305952910707840E-002
+          32  3.028948566646594E-003 -7.305952910707865E-002
+          33  1.525966410169910E-002  7.181753361376786E-002
+          34  1.525966410169921E-002 -7.181753361376809E-002
+          35  7.522645082591928E-003  7.366342714417722E-002
+          36  7.522645082592483E-003 -7.366342714417790E-002
+          37  9.398044084914958E-003  7.703767933307738E-002
+          38  9.398044084916068E-003 -7.703767933307895E-002
+          39  6.798679275124342E-003 -7.749149555594820E-002
+          40  6.798679275125230E-003  7.749149555594827E-002
+          41  1.106585646816705E-002 -8.071902381481162E-002
+          42  1.106585646816549E-002  8.071902381481232E-002
+          43  7.113112479151806E-003 -8.154771743385461E-002
+          44  7.113112479152139E-003  8.154771743385501E-002
+          45  1.327141706010693E-002 -8.129983724009629E-002
+          46  1.327141706010726E-002  8.129983724009912E-002
+          47  3.138072415265536E-003  8.312797007541943E-002
+          48  3.138072415265647E-003 -8.312797007542072E-002
+          49  1.577972492540980E-002 -8.551884305781075E-002
+          50  1.577972492541146E-002  8.551884305781152E-002
+          51  8.755648282340212E-003 -8.693056414916665E-002
+          52  8.755648282339989E-003  8.693056414916769E-002
+          53  1.829378407346538E-002  8.680324375687494E-002
+          54  1.829378407346749E-002 -8.680324375687580E-002
+          55  6.266658895003108E-003 -8.941541128908324E-002
+          56  6.266658895003663E-003  8.941541128908329E-002
+          57  1.276546277180568E-002  9.103516054839335E-002
+          58  1.276546277180590E-002 -9.103516054839554E-002
+          59  9.107766099028636E-003 -9.151370554919386E-002
+          60  9.107766099028636E-003  9.151370554919402E-002
+          61  2.163286310663393E-002 -9.085039644140566E-002
+          62  2.163286310663437E-002  9.085039644140576E-002
+          63  1.813421296493045E-002 -9.199425034514612E-002
+          64  1.813421296493123E-002  9.199425034514712E-002
+          65  1.557477476719404E-002 -9.397204654082658E-002
+          66  1.557477476719293E-002  9.397204654082712E-002
+          67  7.341462344829131E-003  9.702733806294216E-002
+          68  7.341462344830685E-003 -9.702733806294343E-002
+          69  1.162032523000600E-002 -9.677858655088922E-002
+          70  1.162032523000722E-002  9.677858655088942E-002
+          71  1.412135938873615E-002  9.719219111287906E-002
+          72  1.412135938873538E-002 -9.719219111287945E-002
+          73  1.266339489838464E-002  0.100231581912398     
+          74  1.266339489838630E-002 -0.100231581912398     
+          75  2.206882840549285E-002  9.980430962008706E-002
+          76  2.206882840549462E-002 -9.980430962009036E-002
+          77  1.011558710337457E-002 -0.101739828785624     
+          78  1.011558710337424E-002  0.101739828785626     
+          79  1.543687178007525E-002 -0.101900167111924     
+          80  1.543687178007869E-002  0.101900167111924     
+          81  6.652347667765679E-003  0.102868596900780     
+          82  6.652347667765346E-003 -0.102868596900780     
+          83  1.683634931886935E-002 -0.101901936780002     
+          84  1.683634931886702E-002  0.101901936780004     
+          85  2.280478795239083E-002  0.102630749243319     
+          86  2.280478795238994E-002 -0.102630749243320     
+          87  7.390610460534686E-003 -0.106342841435495     
+          88  7.390610460536018E-003  0.106342841435496     
+          89  1.574861699840224E-002  0.106483806775080     
+          90  1.574861699839647E-002 -0.106483806775082     
+          91  2.405838723238107E-002 -0.105712313851515     
+          92  2.405838723240039E-002  0.105712313851526     
+          93  1.412979600135877E-002  0.108763145567060     
+          94  1.412979600136033E-002 -0.108763145567062     
+          95  1.961154099895102E-002 -0.108455677655518     
+          96  1.961154099894669E-002  0.108455677655522     
+          97  1.638386861235575E-002  0.109016631034121     
+          98  1.638386861235874E-002 -0.109016631034124     
+          99  1.107215820695640E-002  0.110576666725791     
+         100  1.107215820695651E-002 -0.110576666725792     
+         101  2.413788414872631E-002 -0.108610941894584     
+         102  2.413788414893725E-002  0.108610941895646     
+         103  1.418805105752785E-002  0.112785535468173     
+         104  1.418805105752596E-002 -0.112785535468176     
+         105  1.748313130101897E-002 -0.112613556698115     
+         106  1.748313130102208E-002  0.112613556698119     
+         107  2.066001392089600E-002  0.112466485171926     
+         108  2.066001392184458E-002 -0.112466485172656     
+         109  1.107050590655112E-002  0.114794326524611     
+         110  1.107050590655201E-002 -0.114794326524611     
+         111  1.669072089197454E-002  0.117017037777900     
+         112  1.669072089198032E-002 -0.117017037777901     
+         113  1.388537328327377E-002 -0.117935873913736     
+         114  1.388537328327344E-002  0.117935873913739     
+         115  1.756854940678954E-002 -0.121804410702583     
+         116  1.756854943127817E-002  0.121804410717800     
+         117  1.316969229231268E-002  0.122512341540368     
+         118  1.316969229231457E-002 -0.122512341540369     
+         119  1.411303002602626E-002  0.124466684419314     
+         120  1.411303002602571E-002 -0.124466684419315     
+         121  1.519191649746277E-002 -0.127424672216563     
+         122  1.519191649746254E-002  0.127424672216566     
+         123  1.340664606363151E-002  0.130086303914641     
+         124  1.340664606362929E-002 -0.130086303914642     
+ 
+ 
+ --- Eigenvalues Gamma5 ---
+           1 -5.769074395476879E-003
+           2  1.026034317904959E-002
+           3  1.435955297811163E-002
+           4 -1.487139638108721E-002
+           5  1.636543995140238E-002
+           6 -2.004202022103871E-002
+           7  0.000000000000000E+000
+           8  0.000000000000000E+000
+           9  0.000000000000000E+000
+          10  0.000000000000000E+000
+          11  0.000000000000000E+000
+          12  0.000000000000000E+000
+          13  0.000000000000000E+000
+          14  0.000000000000000E+000
+          15  0.000000000000000E+000
+          16  0.000000000000000E+000
+          17  0.000000000000000E+000
+          18  0.000000000000000E+000
+          19  0.000000000000000E+000
+          20  0.000000000000000E+000
+          21  0.000000000000000E+000
+          22  0.000000000000000E+000
+          23  0.000000000000000E+000
+          24  0.000000000000000E+000
+          25  0.000000000000000E+000
+          26  0.000000000000000E+000
+          27  0.000000000000000E+000
+          28  0.000000000000000E+000
+          29  0.000000000000000E+000
+          30  0.000000000000000E+000
+          31  0.000000000000000E+000
+          32  0.000000000000000E+000
+          33  0.000000000000000E+000
+          34  0.000000000000000E+000
+          35  0.000000000000000E+000
+          36  0.000000000000000E+000
+          37  0.000000000000000E+000
+          38  0.000000000000000E+000
+          39  0.000000000000000E+000
+          40  0.000000000000000E+000
+          41  0.000000000000000E+000
+          42  0.000000000000000E+000
+          43  0.000000000000000E+000
+          44  0.000000000000000E+000
+          45  0.000000000000000E+000
+          46  0.000000000000000E+000
+          47  0.000000000000000E+000
+          48  0.000000000000000E+000
+          49  0.000000000000000E+000
+          50  0.000000000000000E+000
+          51  0.000000000000000E+000
+          52  0.000000000000000E+000
+          53  0.000000000000000E+000
+          54  0.000000000000000E+000
+          55  0.000000000000000E+000
+          56  0.000000000000000E+000
+          57  0.000000000000000E+000
+          58  0.000000000000000E+000
+          59  0.000000000000000E+000
+          60  0.000000000000000E+000
+          61  0.000000000000000E+000
+          62  0.000000000000000E+000
+          63  0.000000000000000E+000
+          64  0.000000000000000E+000
+          65  0.000000000000000E+000
+          66  0.000000000000000E+000
+          67  0.000000000000000E+000
+          68  0.000000000000000E+000
+          69  0.000000000000000E+000
+          70  0.000000000000000E+000
+          71  0.000000000000000E+000
+          72  0.000000000000000E+000
+          73  0.000000000000000E+000
+          74  0.000000000000000E+000
+          75  0.000000000000000E+000
+          76  0.000000000000000E+000
+          77  0.000000000000000E+000
+          78  0.000000000000000E+000
+          79  0.000000000000000E+000
+          80  0.000000000000000E+000
+          81  0.000000000000000E+000
+          82  0.000000000000000E+000
+          83  0.000000000000000E+000
+          84  0.000000000000000E+000
+          85  0.000000000000000E+000
+          86  0.000000000000000E+000
+          87  0.000000000000000E+000
+          88  0.000000000000000E+000
+          89  0.000000000000000E+000
+          90  0.000000000000000E+000
+          91  0.000000000000000E+000
+          92  0.000000000000000E+000
+          93  0.000000000000000E+000
+          94  0.000000000000000E+000
+          95  0.000000000000000E+000
+          96  0.000000000000000E+000
+          97  0.000000000000000E+000
+          98  0.000000000000000E+000
+          99  0.000000000000000E+000
+         100  0.000000000000000E+000
+         101  0.000000000000000E+000
+         102  0.000000000000000E+000
+         103  0.000000000000000E+000
+         104  0.000000000000000E+000
+         105  0.000000000000000E+000
+         106  0.000000000000000E+000
+         107  0.000000000000000E+000
+         108  0.000000000000000E+000
+         109  0.000000000000000E+000
+         110  0.000000000000000E+000
+         111  0.000000000000000E+000
+         112  0.000000000000000E+000
+         113  0.000000000000000E+000
+         114  0.000000000000000E+000
+         115  0.000000000000000E+000
+         116  0.000000000000000E+000
+         117  0.000000000000000E+000
+         118  0.000000000000000E+000
+         119  0.000000000000000E+000
+         120  0.000000000000000E+000
+         121  0.000000000000000E+000
+         122  0.000000000000000E+000
+         123  0.000000000000000E+000
+         124  0.000000000000000E+000
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39697773959          -0.45014144714
+ finished gmresEIGritz
+ rv:          0.396977739585668      -0.450141447144667     
+ rv:          0.397192862713805       0.451630830270261     
+ rv:           1.01011551789508      -0.470233332999598     
+ rv:           1.01186194596839       0.470386272439301     
+ rv:           1.60502212305650       0.321611637280291     
+ rv:           1.60708255065684      -0.322135568976157     
+ rv:           1.68128277534754      -2.172657678556869E-003
+ lorv:           1.68128277534754      -2.172657678556869E-003
+ lorv:          0.397192862713805       0.451630830270261     
+ lorv:          0.396977739585668      -0.450141447144667     
+ lorv:           1.60502212305650       0.321611637280291     
+ lorv:           1.01011551789508      -0.470233332999598     
+ lorv:           1.01186194596839       0.470386272439301     
+ lorv:           1.60708255065684      -0.322135568976157     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39431035738           0.44976422287
+ finished gmresEIGritz
+ rv:          0.394310357380489       0.449764222871630     
+ rv:          0.393218246555200      -0.451480189203940     
+ rv:           1.00981291118610      -0.471119988866618     
+ rv:           1.00895579108687       0.473475921601172     
+ rv:           1.60587691723711       0.320722753731289     
+ rv:           1.60618178642107      -0.322534086657953     
+ rv:           1.68624648250887       4.446121549957701E-003
+ lorv:           1.68624648250887       4.446121549957701E-003
+ lorv:          0.393218246555200      -0.451480189203940     
+ lorv:          0.394310357380489       0.449764222871630     
+ lorv:           1.60618178642107      -0.322534086657953     
+ lorv:           1.00895579108687       0.473475921601172     
+ lorv:           1.00981291118610      -0.471119988866618     
+ lorv:           1.60587691723711       0.320722753731289     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39624481442           0.44980945169
+ finished gmresEIGritz
+ rv:          0.396244814417051       0.449809451692644     
+ rv:          0.395709256380635      -0.451076341779495     
+ rv:           1.00964659547077       0.470394550554691     
+ rv:           1.00986652608928      -0.471008146577892     
+ rv:           1.60577533114591       0.321763158399036     
+ rv:           1.60671235815699      -0.321556137071167     
+ rv:           1.68467259444227       4.969560612175150E-004
+ lorv:           1.68467259444227       4.969560612175150E-004
+ lorv:          0.395709256380635      -0.451076341779495     
+ lorv:          0.396244814417051       0.449809451692644     
+ lorv:           1.60671235815699      -0.321556137071167     
+ lorv:           1.00964659547077       0.470394550554691     
+ lorv:           1.00986652608928      -0.471008146577892     
+ lorv:           1.60577533114591       0.321763158399036     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39486860847           0.45189788616
+ finished gmresEIGritz
+ rv:          0.394868608472343       0.451897886158930     
+ rv:          0.397810128094324      -0.451194663868920     
+ rv:           1.00854477786689       0.472063490700663     
+ rv:           1.01119781689679      -0.471985954585551     
+ rv:           1.60441405716012       0.320955664529547     
+ rv:           1.60593106088719      -0.324575726968444     
+ rv:           1.68280853791613       9.211202547333777E-003
+ lorv:           1.68280853791613       9.211202547333777E-003
+ lorv:          0.397810128094324      -0.451194663868920     
+ lorv:          0.394868608472343       0.451897886158930     
+ lorv:           1.60593106088719      -0.324575726968444     
+ lorv:           1.00854477786689       0.472063490700663     
+ lorv:           1.01119781689679      -0.471985954585551     
+ lorv:           1.60441405716012       0.320955664529547     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39531444021          -0.45228451693
+ finished gmresEIGritz
+ rv:          0.395314440214047      -0.452284516926351     
+ rv:          0.397449772756349       0.451494824448713     
+ rv:           1.00939839137719      -0.472082093756935     
+ rv:           1.01052875942144       0.472245929028566     
+ rv:           1.60406827499387      -0.322815468422175     
+ rv:           1.60513480881517       0.323274052584023     
+ rv:           1.68868574199479      -2.241877657760640E-003
+ lorv:           1.68868574199479      -2.241877657760640E-003
+ lorv:          0.395314440214047      -0.452284516926351     
+ lorv:          0.397449772756349       0.451494824448713     
+ lorv:           1.60513480881517       0.323274052584023     
+ lorv:           1.00939839137719      -0.472082093756935     
+ lorv:           1.01052875942144       0.472245929028566     
+ lorv:           1.60406827499387      -0.322815468422175     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39459860465           0.45090636898
+ finished gmresEIGritz
+ rv:          0.394598604646826       0.450906368976174     
+ rv:          0.395028857423721      -0.450585155973790     
+ rv:           1.00867514962381      -0.472561869373106     
+ rv:           1.01108965009499       0.472036014932802     
+ rv:           1.60492509975810      -0.324473618670767     
+ rv:           1.60684926346143       0.321183448998501     
+ rv:           1.68947661143412       2.597271437463100E-003
+ lorv:           1.68947661143412       2.597271437463100E-003
+ lorv:          0.395028857423721      -0.450585155973790     
+ lorv:          0.394598604646826       0.450906368976174     
+ lorv:           1.60492509975810      -0.324473618670767     
+ lorv:           1.01108965009499       0.472036014932802     
+ lorv:           1.00867514962381      -0.472561869373106     
+ lorv:           1.60684926346143       0.321183448998501     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39336634053          -0.45058206499
+ finished gmresEIGritz
+ rv:          0.393366340525241      -0.450582064994182     
+ rv:          0.394619682400450       0.451083513332840     
+ rv:           1.00959822940644      -0.472611274353497     
+ rv:           1.01148159654115       0.471422238222726     
+ rv:           1.60529074189627       0.319839555452525     
+ rv:           1.60655635959160      -0.323450638365611     
+ rv:           1.68893570447228       7.841000295093719E-003
+ lorv:           1.68893570447228       7.841000295093719E-003
+ lorv:          0.393366340525241      -0.450582064994182     
+ lorv:          0.394619682400450       0.451083513332840     
+ lorv:           1.60655635959160      -0.323450638365611     
+ lorv:           1.01148159654115       0.471422238222726     
+ lorv:           1.00959822940644      -0.472611274353497     
+ lorv:           1.60529074189627       0.319839555452525     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39515358406           0.45104885927
+ finished gmresEIGritz
+ rv:          0.395153584057226       0.451048859272489     
+ rv:          0.395550820494126      -0.451277887785618     
+ rv:           1.00958201348209       0.471370117769311     
+ rv:           1.01254921228529      -0.471981731315602     
+ rv:           1.60484173267820      -0.319056932322055     
+ rv:           1.60614859628729       0.324604797316370     
+ rv:           1.68787831638297      -1.958458404601560E-003
+ lorv:           1.68787831638297      -1.958458404601560E-003
+ lorv:          0.395153584057226       0.451048859272489     
+ lorv:          0.395550820494126      -0.451277887785618     
+ lorv:           1.60614859628729       0.324604797316370     
+ lorv:           1.01254921228529      -0.471981731315602     
+ lorv:           1.00958201348209       0.471370117769311     
+ lorv:           1.60484173267820      -0.319056932322055     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39566760223           0.45038703044
+ finished gmresEIGritz
+ rv:          0.395667602225620       0.450387030439244     
+ rv:          0.397446245808896      -0.450341013577430     
+ rv:           1.00918269007472       0.470571275747629     
+ rv:           1.01230949904410      -0.470203222511931     
+ rv:           1.60546164022507       0.323076960217787     
+ rv:           1.60666782255453      -0.320451362575172     
+ rv:           1.69289021369423      -3.180183428128337E-003
+ lorv:           1.69289021369423      -3.180183428128337E-003
+ lorv:          0.395667602225620       0.450387030439244     
+ lorv:          0.397446245808896      -0.450341013577430     
+ lorv:           1.60546164022507       0.323076960217787     
+ lorv:           1.01230949904410      -0.470203222511931     
+ lorv:           1.00918269007472       0.470571275747629     
+ lorv:           1.60666782255453      -0.320451362575172     
+ just entered gmresEIGritz
+ starting while loop
+evalueEIGrit     1      0.39470666674           0.45119354416
+ finished gmresEIGritz
+ rv:          0.394706666742889       0.451193544163261     
+ rv:          0.396126098378909      -0.451517883012676     
+ rv:           1.01054754575178       0.470988385490448     
+ rv:           1.01225424623642      -0.471712172561386     
+ rv:           1.60594176507628       0.320160941802969     
+ rv:           1.60645293746215      -0.320647050171558     
+ rv:           1.68678443649010       5.733002043498363E-004
+ lorv:           1.68678443649010       5.733002043498363E-004
+ lorv:          0.394706666742889       0.451193544163261     
+ lorv:          0.396126098378909      -0.451517883012676     
+ lorv:           1.60645293746215      -0.320647050171558     
+ lorv:           1.01054754575178       0.470988385490448     
+ lorv:           1.01225424623642      -0.471712172561386     
+ lorv:           1.60594176507628       0.320160941802969     
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+ after generator
+TACC:  Shutdown complete. Exiting. 

@@ -1,0 +1,22 @@
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/EIGEN_VALS.LOG’: No such file or directory
+forrtl: File exists
+forrtl: severe (10): cannot overwrite existing file, unit 9, file /work/00526/tg457765/stampede2/qqcd/submethodsppminresdr/scratch1/EIGEN_VALS.LOG
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFE93484572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AFE934A878F  for_open              Unknown  Unknown
+qqcd-testout       00000000006EC78A  cfgsprops_mp_gene         517  cfgsprops.f90
+qqcd-testout       0000000000713534  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       000000000040214E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFE95DCF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402039  Unknown               Unknown  Unknown
+[c476-102.stampede2.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 16. MPI process died?
+[c476-102.stampede2.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c476-102.stampede2.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 111527) exited with status 10
+[c506-121.stampede2.tacc.utexas.edu:mpispawn_32][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c506-121.stampede2.tacc.utexas.edu:mpispawn_32][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c506-121.stampede2.tacc.utexas.edu:mpispawn_32][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c506-071.stampede2.tacc.utexas.edu:mpispawn_22][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c506-071.stampede2.tacc.utexas.edu:mpispawn_22][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c506-071.stampede2.tacc.utexas.edu:mpispawn_22][handle_mt_peer] Error while reading PMI socket. MPI process died?

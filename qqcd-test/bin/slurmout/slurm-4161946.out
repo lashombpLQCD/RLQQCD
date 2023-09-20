@@ -1,0 +1,26 @@
+/tmp/slurmd/job4161946/slurm_script: line 22: c476-083,c499-[063,091],c500-[011,022,041,044,121,132,134],c501-[001,004,013-014,022,053,062,074,091-092],c503-[111,121-122,124,131,133],c505-[004,011-013,032-034,071-073]: command not found
+/tmp/slurmd/job4161946/slurm_script: line 22: num: command not found
+Requested processors: 
+Node(s):
+uniq: c476-083,c499-[063,091],c500-[011,022,041,044,121,132,134],c501-[001,004,013-014,022,053,062,074,091-092],c503-[111,121-122,124,131,133],c505-[004,011-013,032-034,071-073]: No such file or directory
+
+Cleaning scratch files
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/es.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfes.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/ns.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp7.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp4.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/esps.dat’: No such file or directory
+
+Job starting at Wed Aug 14 20:43:46 CDT 2019
+
+srun: error: Invalid numeric value "-m" for number of tasks.
+
+Job finished at Wed Aug 14 20:43:46 CDT 2019
+
+Total Execution time: 0 seconds

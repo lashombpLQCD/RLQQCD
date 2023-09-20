@@ -1,0 +1,33 @@
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/es.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/esps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/hfes.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/linearresidual.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/ns.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/pp4.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/pp7.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/pp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/ps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/newpp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/newhfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/newpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/oldpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/prepp_noise-1.LOG’: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /data/lashombp/qqcd/preconditioning_4444/scratch1/cfgfiles/G00011000qwilson-04-04-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF5587D6  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AAAAF57CCEC  for_open              Unknown  Unknown
+qqcd-testout1      000000000042BE9F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout1      0000000000A6D435  cfgsprops_mp_gene         916  cfgsprops.f90
+qqcd-testout1      0000000000A9EC87  MAIN__                    805  cfgspropsmain.f90
+qqcd-testout1      0000000000402222  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      0000000000402129  Unknown               Unknown  Unknown

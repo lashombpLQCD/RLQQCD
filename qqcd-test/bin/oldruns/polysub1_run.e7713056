@@ -1,0 +1,9 @@
+slurmstepd: error: *** JOB 7713056 ON c405-022 CANCELLED AT 2021-05-11T14:50:25 DUE TO TIME LIMIT ***
+[proxy:0:0@c405-022.stampede2.tacc.utexas.edu] HYDT_bscu_wait_for_completion (../../tools/bootstrap/utils/bscu_wait.c:151): one of the processes terminated badly; aborting
+[proxy:0:0@c405-022.stampede2.tacc.utexas.edu] HYDT_bsci_wait_for_completion (../../tools/bootstrap/src/bsci_wait.c:36): launcher returned error waiting for completion
+[proxy:0:0@c405-022.stampede2.tacc.utexas.edu] HYD_pmci_wait_for_childs_completion (../../pm/pmiserv/pmip_utils.c:2002): bootstrap server returned error waiting for completion
+[proxy:0:0@c405-022.stampede2.tacc.utexas.edu] main (../../pm/pmiserv/pmip.c:534): error waiting for event children completion
+[mpiexec@c405-022.stampede2.tacc.utexas.edu] control_cb (../../pm/pmiserv/pmiserv_cb.c:864): connection to proxy 0 at host c405-022 failed
+[mpiexec@c405-022.stampede2.tacc.utexas.edu] HYDT_dmxu_poll_wait_for_event (../../tools/demux/demux_poll.c:76): callback returned error status
+[mpiexec@c405-022.stampede2.tacc.utexas.edu] HYD_pmci_wait_for_completion (../../pm/pmiserv/pmiserv_pmci.c:520): error waiting for event
+[mpiexec@c405-022.stampede2.tacc.utexas.edu] main (../../ui/mpich/mpiexec.c:1149): process manager error waiting for completion

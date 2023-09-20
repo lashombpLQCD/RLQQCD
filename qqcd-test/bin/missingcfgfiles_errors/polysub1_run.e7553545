@@ -1,0 +1,2571 @@
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3424821572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B342485CAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3426D4C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AEE3B959572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AEE3B994AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEE3DE843D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB2652E2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB26531DAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB26780D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5B7218C572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B5B721C7AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5B746B73D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B26BB57B572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B26BB5B6AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B26BDAA63D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8E42B6A572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8E42BA5AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8E450953D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B436BA57572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B436BA92AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B436DF823D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001616qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ACCC6512572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ACCC653678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACCC8A3D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001620qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B196487B572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B196489F78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1966DA63D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001619qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8B1DC39572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8B1DC5D78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8B201643D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001621qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB62534E572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB62537278F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB6278793D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001622qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD5619B2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AD5619D678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD563EDD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B79FCAB2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B79FCAEDAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B79FEFDD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B97B9E5C572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B97B9E97AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B97BC3873D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6695916572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B6695951AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6697E413D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7BC88DD572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B7BC8918AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7BCAE083D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA747FF8572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002BA748033AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA74A5233D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4FE8445572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B4FE8480AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4FEA9703D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B508F0F0572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B508F12BAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B509161B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001617qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B63EB209572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B63EB22D78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B63ED7343D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B022E5B7572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B022E5F2AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0230AE23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001386qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B475D7A5572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B475D7C978F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B475FCD03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4B9AACE572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B4B9AB09AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4B9CFF93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB550996572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB5509D1AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB552EC13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001388qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B96317E3572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B963180778F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9633D0E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD1D0AA6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AD1D0AE1AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD1D2FD13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001390qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4C27DB7572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B4C27DDB78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4C2A2E23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001726qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B298E377572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B298E39B78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B29908A23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3AD25CA572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3AD2605AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3AD4AF53D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3CE14A4572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3CE14DFAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3CE39CF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001391qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B41F6952572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B41F697678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B41F8E7D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6955CE1572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B6955D1CAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B695820C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B25AD702572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B25AD73DAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B25AFC2D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7C61308572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B7C61343AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7C638333D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3E35053572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3E3508EAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3E3757E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001722qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAB77AD2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AAB77AF678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAB79FFD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE8171FF572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AE81723AAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE81972A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA4CE8F7572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002BA4CE932AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA4D0E223D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B28E86EC572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B28E8727AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B28EAC173D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B96D0264572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B96D029FAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B96D278F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8AB0A10572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8AB0A4BAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8AB2F3B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B60FDCDD572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B60FDD18AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B61002083D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001724qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB74DA3B572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB74DA5F78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB74FF663D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B081BB59572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B081BB94AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B081E0843D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3D19A60572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3D19A9BAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3D1BF8B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC2CADB5572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AC2CADF0AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC2CD2E03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3EC9083572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3EC90BEAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3ECB5AE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABD2A0B8572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ABD2A0F3AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABD2C5E33D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0AED43D572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B0AED478AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0AEF9683D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001727qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAACC5CF572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AAACC5F378F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAACEAFA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFE6BD53572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AFE6BD8EAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFE6E27E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3B46312572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3B4634DAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3B4883D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7D92B80572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B7D92BBBAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7D950AB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001721qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF1C5C87572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AF1C5CAB78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF1C81B23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B003479F572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B00347DAAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0036CCA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC814ABB572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AC814AF6AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC816FE63D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8BE0E6D572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8BE0EA8AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8BE33983D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC5E88E6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AC5E8921AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC5EAE113D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001973qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5D5443A572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B5D5445E78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5D569653D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001975qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB3B15C4572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB3B15E878F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB3B3AEF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B49D7AD4572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B49D7B0FAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B49D9FFF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001725qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8C55204572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8C5522878F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8C5772F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001976qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B72DB5F1572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B72DB61578F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B72DDB1C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE54EC14572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AE54EC4FAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE55113F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001977qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AACABF5A572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AACABF7E78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AACAE4853D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA0DC875572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002BA0DC8B0AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA0DEDA03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B312BD58572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B312BD93AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B312E2833D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE4D9F53572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AE4D9F8EAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE4DC47E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001978qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3FFCFEB572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B3FFD00F78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3FFF5163D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B712A8E6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B712A921AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B712CE113D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA9B9DCD572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002BA9B9E08AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA9BC2F83D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD6C9AF4572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AD6C9B2FAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD6CC01F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE496F9B572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AE496FD6AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE4994C63D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFE0E3C6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AFE0E401AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFE108F13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001974qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4A2CCC8572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B4A2CCEC78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4A2F1F33D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B712DDCA572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B712DE05AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B71302F53D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B568054E572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B5680589AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5682A793D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B922B6E9572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B922B724AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B922DC143D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8BD9576572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8BD95B1AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8BDBAA13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001709qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B785946C572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B785949078F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B785B9973D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB7A6ADE572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB7A6B19AA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB7A90093D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001710qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ADBC57C2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ADBC57E678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADBC7CED3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001836qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC884D21572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AC884D4578F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC88724C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001941qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6F4A792572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B6F4A7B678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6F4CCBD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD4BB2C0572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AD4BB2FBAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD4BD7EB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001535qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABA745B3572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ABA745D778F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABA76ADE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001344qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9EB81E2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B9EB820678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9EBA70D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001711qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B84FF846572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B84FF86A78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8501D713D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001838qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B2A631A0572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B2A631C478F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2A656CB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001940qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B474CD95572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B474CDB978F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B474F2C03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: severe (39): error during read, unit 9, file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B097D8C2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B097D8FDAA9  for_read_seq          Unknown  Unknown
+qqcd-testout       000000000042C2C7  gaugetools_mp_gfr        1325  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B097FDED3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001533qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B546B821572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B546B84578F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B546DD4C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001350qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B13D411F572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B13D414378F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B13D664A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001708qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5BAF89D572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B5BAF8C178F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5BB1DC83D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001833qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABB7E079572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ABB7E09D78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABB805A43D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001942qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5EBA9C0572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B5EBA9E478F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5EBCEEB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001543qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B84A6224572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B84A624878F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B84A874F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001839qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1254566572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B125458A78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1256A913D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001544qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE45AABF572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AE45AAE378F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE45CFEA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001834qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9853B6A572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B9853B8E78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B98560953D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001835qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB58119F572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AB5811C378F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB5836CA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 9, file /work/00526/tg457765/stampede2/qqcd/polysub24242432/scratch1/cfgfiles/G00001837qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD918ADA572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AD918AFE78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009E36AE  cfgsprops_mp_gene         667  cfgsprops.f90
+qqcd-testout       0000000000A0DF94  MAIN__                    823  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD91B0053D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: No such file or directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory
+forrtl: Is a directory

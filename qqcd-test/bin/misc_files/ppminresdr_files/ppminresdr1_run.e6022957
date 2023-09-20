@@ -1,0 +1,47 @@
+slurmstepd: error: *** JOB 6022957 ON c416-071 CANCELLED AT 2020-07-10T06:05:35 DUE TO TIME LIMIT ***
+[c416-071.stampede2.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job
+[c422-004.stampede2.tacc.utexas.edu:mpispawn_3][read_size] Unexpected End-Of-File on file descriptor 11. MPI process died?
+[c422-004.stampede2.tacc.utexas.edu:mpispawn_3][read_size] Unexpected End-Of-File on file descriptor 11. MPI process died?
+[c422-004.stampede2.tacc.utexas.edu:mpispawn_3][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c453-024 closed by remote host.
+Connection to c456-114 closed by remote host.
+Connection to c450-133 closed by remote host.
+Connection to c456-113 closed by remote host.
+Connection to c453-011 closed by remote host.
+[c416-071.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 10. MPI process died?
+[c416-071.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 10. MPI process died?
+[c416-071.stampede2.tacc.utexas.edu:mpispawn_0][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c456-112 closed by remote host.
+Connection to c430-064 closed by remote host.
+[c452-063.stampede2.tacc.utexas.edu:mpispawn_21][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c452-063.stampede2.tacc.utexas.edu:mpispawn_21][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c452-063.stampede2.tacc.utexas.edu:mpispawn_21][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c456-121 closed by remote host.
+Connection to c454-023 closed by remote host.
+Connection to c454-022 closed by remote host.
+Connection to c430-074 closed by remote host.
+Connection to c441-003 closed by remote host.
+Connection to c440-063 closed by remote host.
+Connection to c423-093 closed by remote host.
+Connection to c424-061 closed by remote host.
+Connection to c427-061 closed by remote host.
+Connection to c451-004 closed by remote host.
+Connection to c452-103 closed by remote host.
+Connection to c417-003 closed by remote host.
+Connection to c420-004 closed by remote host.
+Connection to c422-004 closed by remote host.
+Connection to c424-123 closed by remote host.
+Connection to c447-042 closed by remote host.
+Connection to c426-082 closed by remote host.
+Connection to c425-122 closed by remote host.
+Connection to c458-012 closed by remote host.
+Connection to c453-051 closed by remote host.
+Connection to c456-122 closed by remote host.
+Connection to c456-091 closed by remote host.
+Connection to c427-004 closed by remote host.
+Connection to c457-022 closed by remote host.
+Connection to c443-124 closed by remote host.
+Connection to c449-104 closed by remote host.
+Connection to c440-113 closed by remote host.
+Connection to c452-063 closed by remote host.
+[c416-071.stampede2.tacc.utexas.edu:mpispawn_0][report_error] connect() failed: Connection refused (111)

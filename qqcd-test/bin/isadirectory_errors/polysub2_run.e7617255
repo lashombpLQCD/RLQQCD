@@ -1,0 +1,476 @@
+[proxy:0:3@c404-063.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: cannot map zero-fill pages: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: cannot map zero-fill pages: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:11@c406-102.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:10@c406-061.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmpifort.so.12: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:13@c407-133.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+[proxy:0:16@c416-103.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libifcoremt.so.5: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:18@c417-083.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_core.so: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:24@c421-044.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libpthread.so.0: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libmkl_intel_thread.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2: error while loading shared libraries: libiomp5.so: failed to map segment from shared object: Cannot allocate memory
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
+[proxy:0:26@c421-124.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout2 (Argument list too long)
+slurmstepd: error: *** JOB 7617255 ON c402-081 CANCELLED AT 2021-04-22T00:35:31 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9C777813EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B9C772EF5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9C772EE6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B9C766CF4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9C766C8E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9C766CEA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9C7659CB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9C7653DAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B9C7652B07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B9C75F7F240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9C79C973D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ADC1281D3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ADC1238B5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ADC1238A6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002ADC1176B4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADC11764E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADC1176AA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADC11638B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADC115D9AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002ADC115C707B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002ADC1101B240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADC14D333D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B2862F073EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2862A755D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B2862F06E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2862A755D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2862A746DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B2861E554E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2861E4EE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2861E54A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2861D22B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2861CC3AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B2861CB107B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B2861705240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B286541D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9CA23673EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B9CA1ED55D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9CA1ED46DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B9CA12B54E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9CA12AEE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9CA12B4A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9CA1182B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9CA1123AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B9CA111107B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B9CA0B65240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9CA487D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF9EF7C33EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF9EF3315D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF9EF3306DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002AF9EE7114E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AF9EE70AE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AF9EE710A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AF9EE5DEB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AF9EE57FAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002AF9EE56D07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002AF9EDFC1240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF9F1CD93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ADFCF3E33EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ADFCEF515D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ADFCEF506DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002ADFCE3314E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADFCE32AE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADFCE330A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADFCE1FEB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADFCE19FAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002ADFCE18D07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002ADFCDBE1240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADFD18F93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7613EA53EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B7613A135D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B7613A126DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B7612DF34E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7612DECE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7612DF2A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7612CC0B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7612C61AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B7612C4F07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B76126A3240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B76163BB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B70528BE3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B705242C5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B705242B6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B705180C4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7051805E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B705180BA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B70516D9B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B705167AAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B705166807B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B70510BC240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7054DD43D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4E4BC553EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B4E4B7C35D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B4E4B7C26DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B4E4ABA34E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B4E4AB9CE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B4E4ABA2A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B4E4AA70B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B4E4AA11AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B4E4A9FF07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B4E4A453240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4E4E16B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B631FF6A3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B631FAD85D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B631FF69E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B631FAD85D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B631FAD76DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B631EEB84E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B631EEB1E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B631EEB7A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B631ED85B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B631ED26AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B631ED1407B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B631E768240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B63224803D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B41FA58D3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B41FA0FB5D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B41FA58CE10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B41FA0FB5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B41FA0FA6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B41F94DB4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B41F94D4E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B41F94DAA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B41F93A8B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B41F9349AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B41F933707B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B41F8D8B240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B41FCAA33D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3DF0BC43EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3DF07325D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B3DF0BC3E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3DF07325D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B3DF07316DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B3DEFB124E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B3DEFB0BE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B3DEFB11A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B3DEF9DFB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B3DEF980AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B3DEF96E07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B3DEF3C2240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3DF30DA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1C852EA3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1C84E585D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B1C852E9E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1C84E585D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B1C84E576DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B1C842384E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1C84231E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1C84237A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1C84105B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1C840A6AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B1C8409407B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B1C83AE8240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1C878003D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B734868D3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B73481FB5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B73481FA6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B73475DB4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B73475D4E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B73475DAA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B73474A8B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7347449AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B734743707B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B7346E8B240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B734ABA33D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5A0D2433EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B5A0CDB15D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B5A0D242E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B5A0CDB15D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B5A0CDB06DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B5A0C1914E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B5A0C18AE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B5A0C190A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B5A0C05EB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B5A0BFFFAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B5A0BFED07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B5A0BA41240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5A0F7593D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE01291E3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE01248C5D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002AE01291DE10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE01248C5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AE01248B6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002AE01186C4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AE011865E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AE01186BA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AE011739B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AE0116DAAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002AE0116C807B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002AE01111C240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE014E343D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B94527993EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B94523075D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B9452798E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B94523075D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B94523066DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B94516E74E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B94516E0E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B94516E6A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B94515B4B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B9451555AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B945154307B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B9450F97240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9454CAF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ADB4029A3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ADB3FE085D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002ADB3FE076DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002ADB3F1E84E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADB3F1E1E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADB3F1E7A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADB3F0B5B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002ADB3F056AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002ADB3F04407B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002ADB3EA98240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADB427B03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B92A7FE73EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B92A7B555D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B92A7FE6E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B92A7B555D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B92A7B546DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B92A6F354E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B92A6F2EE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B92A6F34A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B92A6E02B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B92A6DA3AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B92A6D9107B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B92A67E5240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B92AA4FD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0193C863EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B01937F45D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B0193C85E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B01937F45D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B01937F36DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B0192BD44E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B0192BCDE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B0192BD3A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B0192AA1B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B0192A42AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B0192A3007B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B0192484240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B019619C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B72754FD3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B727506B5D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B72754FCE10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B727506B5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B727506A6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B727444B4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7274444E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B727444AA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7274318B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B72742B9AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B72742A707B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B7273CFB240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7277A133D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B23815C43EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B23811325D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B23815C3E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B23811325D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B23811316DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B23805124E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B238050BE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2380511A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B23803DFB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2380380AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B238036E07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B237FDC2240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2383ADA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B2F3BF113EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2F3BA7F5D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B2F3BF10E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2F3BA7F5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B2F3BA7E6DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B2F3AE5F4E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2F3AE58E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2F3AE5EA61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2F3AD2CB81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B2F3ACCDAEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B2F3ACBB07B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B2F3A70F240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2F3E4273D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8361C983EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B83618065D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B8361C97E10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B83618065D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B83618056DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B8360BE64E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B8360BDFE5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B8360BE5A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B8360AB3B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B8360A54AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B8360A4207B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B8360496240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B83641AE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B62B871B3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B62B82895D0  Unknown               Unknown  Unknown
+libifcoremt.so.5   00002B62B871AE10  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B62B82895D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B62B82886DE  read                  Unknown  Unknown
+libmpi.so.12.0     00002B62B76694E9  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B62B7662E5B  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B62B7668A61  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B62B7536B81  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B62B74D7AEB  Unknown               Unknown  Unknown
+libmpi.so.12       00002B62B74C507B  MPI_Init              Unknown  Unknown
+libmpifort.so.12.  00002B62B6F19240  MPI_INIT              Unknown  Unknown
+qqcd-testout2      00000000009DDE99  cfgsprops_mp_gene         249  cfgsprops.f90
+qqcd-testout2      0000000000A0E19F  MAIN__                    870  cfgspropsmain.f90
+qqcd-testout2      000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B62BAC313D5  __libc_start_main     Unknown  Unknown
+qqcd-testout2      0000000000402579  Unknown               Unknown  Unknown

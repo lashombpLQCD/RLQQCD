@@ -1,0 +1,14 @@
+rm: cannot remove ‘/data/lashombp/qqcd/scratch2/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/scratch2/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/es.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/hfes.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/ns.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/pp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/pp7.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/pp4.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch2/esps.dat’: No such file or directory
+Warning: Permanently added 'n082,192.168.1.82' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'n081,192.168.1.81' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'n084,192.168.1.84' (ECDSA) to the list of known hosts.

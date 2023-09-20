@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Jan 15 14:42:43 2016
+        MODULE DLABAD__genmod
+          INTERFACE 
+            SUBROUTINE DLABAD(SMALL,LARGE)
+              REAL(KIND=8) :: SMALL
+              REAL(KIND=8) :: LARGE
+            END SUBROUTINE DLABAD
+          END INTERFACE 
+        END MODULE DLABAD__genmod

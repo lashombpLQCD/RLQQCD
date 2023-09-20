@@ -1,0 +1,105 @@
+forrtl: File exists
+forrtl: severe (10): cannot overwrite existing file, unit 9, file /work/00526/tg457765/stampede2/qqcd/submethodsppminresdr/scratch1/EIGEN_VALS.LOG
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4373647572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B437366B78F  for_open              Unknown  Unknown
+qqcd-testout       00000000006EADFA  cfgsprops_mp_gene         517  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4375F923D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c476-002.stampede2.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 16. MPI process died?
+[c476-002.stampede2.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c476-002.stampede2.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 90844) exited with status 10
+[c481-123.stampede2.tacc.utexas.edu:mpispawn_1][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c481-123.stampede2.tacc.utexas.edu:mpispawn_1][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c481-123.stampede2.tacc.utexas.edu:mpispawn_1][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-084.stampede2.tacc.utexas.edu:mpispawn_7][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-084.stampede2.tacc.utexas.edu:mpispawn_7][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-084.stampede2.tacc.utexas.edu:mpispawn_7][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-003.stampede2.tacc.utexas.edu:mpispawn_2][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-003.stampede2.tacc.utexas.edu:mpispawn_2][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-003.stampede2.tacc.utexas.edu:mpispawn_2][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-031.stampede2.tacc.utexas.edu:mpispawn_4][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-031.stampede2.tacc.utexas.edu:mpispawn_4][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-031.stampede2.tacc.utexas.edu:mpispawn_4][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-033.stampede2.tacc.utexas.edu:mpispawn_5][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-033.stampede2.tacc.utexas.edu:mpispawn_5][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-033.stampede2.tacc.utexas.edu:mpispawn_5][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-022.stampede2.tacc.utexas.edu:mpispawn_3][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-022.stampede2.tacc.utexas.edu:mpispawn_3][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-022.stampede2.tacc.utexas.edu:mpispawn_3][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-064.stampede2.tacc.utexas.edu:mpispawn_6][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-064.stampede2.tacc.utexas.edu:mpispawn_6][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-064.stampede2.tacc.utexas.edu:mpispawn_6][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-102.stampede2.tacc.utexas.edu:mpispawn_8][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-102.stampede2.tacc.utexas.edu:mpispawn_8][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c482-102.stampede2.tacc.utexas.edu:mpispawn_8][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c482-022.stampede2.tacc.utexas.edu:mpispawn_3][report_error] connect() failed: Connection refused (111)
+[c494-032.stampede2.tacc.utexas.edu:mpispawn_25][report_error] connect() failed: Connection refused (111)
+[c501-134.stampede2.tacc.utexas.edu:mpispawn_34][report_error] connect() failed: Connection refused (111)
+[c494-094.stampede2.tacc.utexas.edu:mpispawn_29][report_error] connect() failed: Connection refused (111)
+[c485-113.stampede2.tacc.utexas.edu:mpispawn_19][report_error] connect() failed: Connection refused (111)
+[c494-033.stampede2.tacc.utexas.edu:mpispawn_26][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-033.stampede2.tacc.utexas.edu:mpispawn_26][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-033.stampede2.tacc.utexas.edu:mpispawn_26][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c494-034.stampede2.tacc.utexas.edu:mpispawn_27][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-034.stampede2.tacc.utexas.edu:mpispawn_27][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-034.stampede2.tacc.utexas.edu:mpispawn_27][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c495-114.stampede2.tacc.utexas.edu:mpispawn_31][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c495-114.stampede2.tacc.utexas.edu:mpispawn_31][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c495-114.stampede2.tacc.utexas.edu:mpispawn_31][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c496-133.stampede2.tacc.utexas.edu:mpispawn_32][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c496-133.stampede2.tacc.utexas.edu:mpispawn_32][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c496-133.stampede2.tacc.utexas.edu:mpispawn_32][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c494-084.stampede2.tacc.utexas.edu:mpispawn_28][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-084.stampede2.tacc.utexas.edu:mpispawn_28][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-084.stampede2.tacc.utexas.edu:mpispawn_28][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c494-133.stampede2.tacc.utexas.edu:mpispawn_30][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-133.stampede2.tacc.utexas.edu:mpispawn_30][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c494-133.stampede2.tacc.utexas.edu:mpispawn_30][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c496-134.stampede2.tacc.utexas.edu:mpispawn_33][report_error] connect() failed: Connection refused (111)
+[c493-051.stampede2.tacc.utexas.edu:mpispawn_22][report_error] connect() failed: Connection refused (111)
+[c483-092.stampede2.tacc.utexas.edu:mpispawn_12][report_error] connect() failed: Connection refused (111)
+[c483-054.stampede2.tacc.utexas.edu:mpispawn_11][report_error] connect() failed: Connection refused (111)
+[c494-034.stampede2.tacc.utexas.edu:mpispawn_27][report_error] connect() failed: Connection refused (111)
+[c482-084.stampede2.tacc.utexas.edu:mpispawn_7][report_error] connect() failed: Connection refused (111)
+[c481-123.stampede2.tacc.utexas.edu:mpispawn_1][report_error] connect() failed: Connection refused (111)
+[c491-114.stampede2.tacc.utexas.edu:mpispawn_21][report_error] connect() failed: Connection refused (111)
+[c484-071.stampede2.tacc.utexas.edu:mpispawn_14][report_error] connect() failed: Connection refused (111)
+[c493-094.stampede2.tacc.utexas.edu:mpispawn_23][report_error] connect() failed: Connection refused (111)
+[c482-003.stampede2.tacc.utexas.edu:mpispawn_2][report_error] connect() failed: Connection refused (111)
+[c482-033.stampede2.tacc.utexas.edu:mpispawn_5][report_error] connect() failed: Connection refused (111)
+[c494-033.stampede2.tacc.utexas.edu:mpispawn_26][report_error] connect() failed: Connection refused (111)
+[c485-083.stampede2.tacc.utexas.edu:mpispawn_18][report_error] connect() failed: Connection refused (111)
+[c493-102.stampede2.tacc.utexas.edu:mpispawn_24][report_error] connect() failed: Connection refused (111)
+[c482-102.stampede2.tacc.utexas.edu:mpispawn_8][report_error] connect() failed: Connection refused (111)
+[c483-021.stampede2.tacc.utexas.edu:mpispawn_9][report_error] connect() failed: Connection refused (111)
+[c495-114.stampede2.tacc.utexas.edu:mpispawn_31][report_error] connect() failed: Connection refused (111)
+[c496-133.stampede2.tacc.utexas.edu:mpispawn_32][report_error] connect() failed: Connection refused (111)
+[c505-092.stampede2.tacc.utexas.edu:mpispawn_35][report_error] connect() failed: Connection refused (111)
+[c482-064.stampede2.tacc.utexas.edu:mpispawn_6][report_error] connect() failed: Connection refused (111)
+[c485-051.stampede2.tacc.utexas.edu:mpispawn_17][report_error] connect() failed: Connection refused (111)
+[c485-002.stampede2.tacc.utexas.edu:mpispawn_16][report_error] connect() failed: Connection refused (111)
+[c485-002.stampede2.tacc.utexas.edu:mpispawn_16][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c485-002.stampede2.tacc.utexas.edu:mpispawn_16][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c485-002.stampede2.tacc.utexas.edu:mpispawn_16][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c483-031.stampede2.tacc.utexas.edu:mpispawn_10][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-031.stampede2.tacc.utexas.edu:mpispawn_10][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-031.stampede2.tacc.utexas.edu:mpispawn_10][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c483-094.stampede2.tacc.utexas.edu:mpispawn_13][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-094.stampede2.tacc.utexas.edu:mpispawn_13][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-094.stampede2.tacc.utexas.edu:mpispawn_13][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c484-102.stampede2.tacc.utexas.edu:mpispawn_15][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c484-102.stampede2.tacc.utexas.edu:mpispawn_15][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c484-102.stampede2.tacc.utexas.edu:mpispawn_15][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c494-084.stampede2.tacc.utexas.edu:mpispawn_28][report_error] connect() failed: Connection refused (111)
+[c486-021.stampede2.tacc.utexas.edu:mpispawn_20][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c486-021.stampede2.tacc.utexas.edu:mpispawn_20][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c486-021.stampede2.tacc.utexas.edu:mpispawn_20][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c484-102.stampede2.tacc.utexas.edu:mpispawn_15][report_error] connect() failed: Connection refused (111)
+[c482-031.stampede2.tacc.utexas.edu:mpispawn_4][report_error] connect() failed: Connection refused (111)
+[c494-133.stampede2.tacc.utexas.edu:mpispawn_30][report_error] connect() failed: Connection refused (111)
+[c483-031.stampede2.tacc.utexas.edu:mpispawn_10][report_error] connect() failed: Connection refused (111)
+[c483-094.stampede2.tacc.utexas.edu:mpispawn_13][report_error] connect() failed: Connection refused (111)
+[c486-021.stampede2.tacc.utexas.edu:mpispawn_20][report_error] connect() failed: Connection refused (111)

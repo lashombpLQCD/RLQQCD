@@ -1,0 +1,106 @@
+ 
+USER INPUTS:
+ 
+nx,ny,nz,nt =             16        16        16         8
+npx,npy,npz,npt =          2         2         2         2
+nk1 =                      1
+KI, KR, KR2 =              4         8         8
+newcalc =            2
+ifilesave =          1
+cfgfile =   cfgfiles/G00001000qwilson-8-8-b6-new                            
+iseed =             13
+ncold =              1
+nsweep =             1
+n0sweep =        20000
+n1sweep =         2000
+nhit =               1
+gaction =            1         1         1         1
+alat =       1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+beta =       6.0000000000E+00
+tad =        1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+tadupdate =          0
+tadpole =            1
+tadlandau =          0
+landimp =            0         0         0         0
+alpha =      1.0000000000E-01
+omega =      1.7000000000E+00
+thetamax =   1.0000000000E-05
+nwilo =              0
+npaths =             6
+nfuzz =              0
+epsfuzz =    3.0000000000E-01
+src(0,:) =           1         1         1         4
+bc =                 1         1         1         1
+resmax =     1.0000000000E-10
+itermin =           50
+nsmear =             0
+asmear =     1.0000000000E-01
+nkappa =             2
+wilsonmm =           0
+hopton =             2
+i,kappa(i) =       1 1.5000000000E-01
+i,kappa(i) =       2 0.0000000000E+00
+omegaM3R =   1.0000000000E+00
+ntmqcd =             1
+i,mtmqcd(i,:) =      1 1.5500000000E-01 1.0000000000E-05
+i,src(i,:) =      1         1         1         1         4
+ ntmqcdloop =            0
+cSWtmqcd =   0.0000000000E+00
+inverter =           8
+nGMRES =            20         8
+opSST =              0
+tSST =              44
+pSST =               0         0         0
+nSST =               1         1
+i,mSST(i,:) =        1 1.5700000000E-01 0.0000000000E+00
+cSWSST =     0.0000000000E+00
+invSST =             0
+numnoises =         20
+kappaloop =  1.5700000000E-01 0.0000000000E+00
+cSWloop =    0.0000000000E+00
+docorr =             0
+nkappacorr =         2
+ntmqcdcorr =         1
+ntmqcdloop =         0
+nucleonparti         3
+gitest =             0
+nirloop=             1
+            
+OUTPUTS:    
+            
+ Just did GFread
+ Entering sweep loop
+ isweep =            1
+ Updated sweepnum
+    sweepnum =     1
+ Just did a read
+         1 plaq:        5.9496448987E-01
+         1 ux,uy,uz,ut: 8.7760275152E-01 8.7895733153E-01 8.7923734198E-01 8.7809905916E-01
+gmresdr-norm       20 1.1754262134E-03
+gmresdr-norm       32 4.6279506995E-04
+gmresdr-norm       44 2.2080942555E-04
+gmresdr-norm       56 1.2491420360E-04
+gmresdr-norm       68 7.6282925755E-05
+gmresdr-norm       80 4.3944508988E-05
+gmresdr-norm       92 2.2748193459E-05
+gmresdr-norm      104 1.1231399887E-05
+gmresdr-norm      116 5.6793291512E-06
+gmresdr-norm      128 2.9218113642E-06
+gmresdr-norm      140 1.5612447051E-06
+gmresdr-norm      152 7.7841972312E-07
+gmresdr-norm      164 3.6831608381E-07
+gmresdr-norm      176 1.8990093061E-07
+gmresdr-norm      188 1.0496596496E-07
+gmresdr-norm      200 5.2298411123E-08
+gmresdr-norm      212 2.5171794401E-08
+gmresdr-norm      224 1.3278333819E-08
+gmresdr-norm      236 7.0093889450E-09
+gmresdr-norm      248 3.6509853523E-09
+gmresdr-norm      260 1.8346096694E-09
+gmresdr-norm      272 9.2350329119E-10
+gmresdr-norm      284 4.9854934350E-10
+gmresdr-norm      296 2.6905962008E-10
+gmresdr-norm      308 1.4337592021E-10
+gmresdr-norm      320 8.1641126216E-11
+Andy - ppgmres iterations: itercount       320
+               Time taken by fermprop in seconds:  1.4957726000E+01

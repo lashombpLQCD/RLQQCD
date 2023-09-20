@@ -1,0 +1,230 @@
+ 
+USER INPUTS:
+ 
+nx,ny,nz,nt =             16        16        16         8
+npx,npy,npz,npt =          2         2         2         2
+nk1 =                      1
+KI, KR, KR2 =              4         8         8
+newcalc =            2
+ifilesave =          1
+cfgfile =   cfgfiles/G00001000qwilson-8-8-b6-new                            
+iseed =             13
+ncold =              1
+nsweep =             1
+n0sweep =        20000
+n1sweep =         2000
+nhit =               1
+gaction =            1         1         1         1
+alat =       1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+beta =       6.0000000000E+00
+tad =        1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+tadupdate =          0
+tadpole =            1
+tadlandau =          0
+landimp =            0         0         0         0
+alpha =      1.0000000000E-01
+omega =      1.7000000000E+00
+thetamax =   1.0000000000E-05
+nwilo =              0
+npaths =             6
+nfuzz =              0
+epsfuzz =    3.0000000000E-01
+src(0,:) =           1         1         1         4
+bc =                 1         1         1         1
+resmax =     1.0000000000E-10
+itermin =           50
+nsmear =             0
+asmear =     1.0000000000E-01
+nkappa =             2
+wilsonmm =           0
+hopton =             2
+i,kappa(i) =       1 1.5000000000E-01
+i,kappa(i) =       2 0.0000000000E+00
+omegaM3R =   1.0000000000E+00
+ntmqcd =             1
+i,mtmqcd(i,:) =      1 1.5880000000E-01 1.0000000000E-05
+i,src(i,:) =      1         1         1         1         4
+ ntmqcdloop =            0
+cSWtmqcd =   0.0000000000E+00
+inverter =           8
+nGMRES =            20         2
+opSST =              0
+tSST =              44
+pSST =               0         0         0
+nSST =               1         1
+i,mSST(i,:) =        1 1.5700000000E-01 0.0000000000E+00
+cSWSST =     0.0000000000E+00
+invSST =             0
+numnoises =         20
+kappaloop =  1.5700000000E-01 0.0000000000E+00
+cSWloop =    0.0000000000E+00
+docorr =             0
+nkappacorr =         2
+ntmqcdcorr =         1
+ntmqcdloop =         0
+nucleonparti         3
+gitest =             0
+nirloop=             1
+            
+OUTPUTS:    
+            
+ Just did GFread
+ Entering sweep loop
+ isweep =            1
+ Updated sweepnum
+    sweepnum =     1
+ Just did a read
+         1 plaq:        5.9496448987E-01
+         1 ux,uy,uz,ut: 8.7760275152E-01 8.7895733153E-01 8.7923734198E-01 8.7809905916E-01
+gmresdr-norm       20 3.1473684234E-01
+gmresdr-norm       38 1.6005438277E-01
+gmresdr-norm       56 1.1925579791E-01
+gmresdr-norm       74 1.0883098263E-01
+gmresdr-norm       92 9.6440274162E-02
+gmresdr-norm      110 7.9594808520E-02
+gmresdr-norm      128 6.7512614549E-02
+gmresdr-norm      146 6.1374540659E-02
+gmresdr-norm      164 5.7121791470E-02
+gmresdr-norm      182 5.2544345326E-02
+gmresdr-norm      200 4.8311179345E-02
+gmresdr-norm      218 4.5657255982E-02
+gmresdr-norm      236 4.0992348366E-02
+gmresdr-norm      254 3.6327359480E-02
+gmresdr-norm      272 3.5021895640E-02
+gmresdr-norm      290 3.3826491209E-02
+gmresdr-norm      308 3.0707303949E-02
+gmresdr-norm      326 2.7146685414E-02
+gmresdr-norm      344 2.6001939136E-02
+gmresdr-norm      362 2.4930233282E-02
+gmresdr-norm      380 2.3156639524E-02
+gmresdr-norm      398 2.0821427268E-02
+gmresdr-norm      416 1.9437327631E-02
+gmresdr-norm      434 1.8266842206E-02
+gmresdr-norm      452 1.7287626656E-02
+gmresdr-norm      470 1.5608502168E-02
+gmresdr-norm      488 1.4064481021E-02
+gmresdr-norm      506 1.3378992481E-02
+gmresdr-norm      524 1.2757790288E-02
+gmresdr-norm      542 1.1506360413E-02
+gmresdr-norm      560 1.0395054422E-02
+gmresdr-norm      578 9.7804094523E-03
+gmresdr-norm      596 9.3473221432E-03
+gmresdr-norm      614 8.6305086860E-03
+gmresdr-norm      632 7.6699516826E-03
+gmresdr-norm      650 7.1658264566E-03
+gmresdr-norm      668 6.8752187883E-03
+gmresdr-norm      686 6.4687145873E-03
+gmresdr-norm      704 5.7728401183E-03
+gmresdr-norm      722 5.3382598432E-03
+gmresdr-norm      740 5.0971340423E-03
+gmresdr-norm      758 4.8809895562E-03
+gmresdr-norm      776 4.4523443892E-03
+gmresdr-norm      794 4.0210432257E-03
+gmresdr-norm      812 3.7974960757E-03
+gmresdr-norm      830 3.6522265640E-03
+gmresdr-norm      848 3.4318673828E-03
+gmresdr-norm      866 3.0692217812E-03
+gmresdr-norm      884 2.8424362028E-03
+gmresdr-norm      902 2.7181794806E-03
+gmresdr-norm      920 2.6019007235E-03
+gmresdr-norm      938 2.3741955707E-03
+gmresdr-norm      956 2.1433960450E-03
+gmresdr-norm      974 2.0198551215E-03
+gmresdr-norm      992 1.9381403347E-03
+gmresdr-norm     1010 1.8081413801E-03
+gmresdr-norm     1028 1.6220162914E-03
+gmresdr-norm     1046 1.5062998538E-03
+gmresdr-norm     1064 1.4391152411E-03
+gmresdr-norm     1082 1.3668953390E-03
+gmresdr-norm     1100 1.2398951551E-03
+gmresdr-norm     1118 1.1348021876E-03
+gmresdr-norm     1136 1.0751962386E-03
+gmresdr-norm     1154 1.0297288901E-03
+gmresdr-norm     1172 9.5144263124E-04
+gmresdr-norm     1190 8.5921576662E-04
+gmresdr-norm     1208 8.0145121416E-04
+gmresdr-norm     1226 7.6423333797E-04
+gmresdr-norm     1244 7.1638254174E-04
+gmresdr-norm     1262 6.4994221764E-04
+gmresdr-norm     1280 5.9906608264E-04
+gmresdr-norm     1298 5.6755751030E-04
+gmresdr-norm     1316 5.3829183607E-04
+gmresdr-norm     1334 4.9393978966E-04
+gmresdr-norm     1352 4.5297959973E-04
+gmresdr-norm     1370 4.2374598613E-04
+gmresdr-norm     1388 4.0203777818E-04
+gmresdr-norm     1406 3.7142183003E-04
+gmresdr-norm     1424 3.3902497637E-04
+gmresdr-norm     1442 3.1406562085E-04
+gmresdr-norm     1460 2.9628693419E-04
+gmresdr-norm     1478 2.7404883593E-04
+gmresdr-norm     1496 2.5053150250E-04
+gmresdr-norm     1514 2.3092615086E-04
+gmresdr-norm     1532 2.1643362730E-04
+gmresdr-norm     1550 2.0024153991E-04
+gmresdr-norm     1568 1.8400521181E-04
+gmresdr-norm     1586 1.6781519233E-04
+gmresdr-norm     1604 1.5481128760E-04
+gmresdr-norm     1622 1.4327524178E-04
+gmresdr-norm     1640 1.2894644842E-04
+gmresdr-norm     1658 1.1588975134E-04
+gmresdr-norm     1676 1.0716682842E-04
+gmresdr-norm     1694 9.5501162933E-05
+gmresdr-norm     1712 7.9650547810E-05
+gmresdr-norm     1730 6.4506217003E-05
+gmresdr-norm     1748 5.0811378185E-05
+gmresdr-norm     1766 3.7451262366E-05
+gmresdr-norm     1784 2.7480922222E-05
+gmresdr-norm     1802 2.0014235267E-05
+gmresdr-norm     1820 1.4837184554E-05
+gmresdr-norm     1838 1.0931872605E-05
+gmresdr-norm     1856 8.1575335608E-06
+gmresdr-norm     1874 6.3038749701E-06
+gmresdr-norm     1892 5.0284189222E-06
+gmresdr-norm     1910 4.0284921021E-06
+gmresdr-norm     1928 3.1950893972E-06
+gmresdr-norm     1946 2.4995287043E-06
+gmresdr-norm     1964 1.9683247604E-06
+gmresdr-norm     1982 1.5639247641E-06
+gmresdr-norm     2000 1.2271397370E-06
+gmresdr-norm     2018 9.3078600933E-07
+gmresdr-norm     2036 6.9391261805E-07
+gmresdr-norm     2054 5.2030244777E-07
+gmresdr-norm     2072 4.0078967531E-07
+gmresdr-norm     2090 3.0996507187E-07
+gmresdr-norm     2108 2.3811764954E-07
+gmresdr-norm     2126 1.8487096165E-07
+gmresdr-norm     2144 1.4726474207E-07
+gmresdr-norm     2162 1.2009735984E-07
+gmresdr-norm     2180 9.7819139098E-08
+gmresdr-norm     2198 7.8074348770E-08
+gmresdr-norm     2216 6.1643190051E-08
+gmresdr-norm     2234 4.9321563278E-08
+gmresdr-norm     2252 4.0005237036E-08
+gmresdr-norm     2270 3.2236863427E-08
+gmresdr-norm     2288 2.5447149335E-08
+gmresdr-norm     2306 1.9674860563E-08
+gmresdr-norm     2324 1.5332898465E-08
+gmresdr-norm     2342 1.1943589310E-08
+gmresdr-norm     2360 9.2047782471E-09
+gmresdr-norm     2378 6.9714453833E-09
+gmresdr-norm     2396 5.2710140514E-09
+gmresdr-norm     2414 4.1253855848E-09
+gmresdr-norm     2432 3.3107836230E-09
+gmresdr-norm     2450 2.6673805884E-09
+gmresdr-norm     2468 2.1182177634E-09
+gmresdr-norm     2486 1.6761899212E-09
+gmresdr-norm     2504 1.3474811099E-09
+gmresdr-norm     2522 1.1003491680E-09
+gmresdr-norm     2540 8.9335282285E-10
+gmresdr-norm     2558 7.0938563770E-10
+gmresdr-norm     2576 5.5841044668E-10
+gmresdr-norm     2594 4.4224730587E-10
+gmresdr-norm     2612 3.5316586243E-10
+gmresdr-norm     2630 2.7730135954E-10
+gmresdr-norm     2648 2.1204783104E-10
+gmresdr-norm     2666 1.6169452646E-10
+gmresdr-norm     2684 1.2625105231E-10
+gmresdr-norm     2702 1.0105472952E-10
+Andy - ppgmres iterations: itercount      2702
+               Time taken by fermprop in seconds:  1.9939668700E+02

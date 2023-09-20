@@ -1,0 +1,11 @@
+rm: cannot remove ‘/mata/lashombp/qqcd/scratch5/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/mata/lashombp/qqcd/scratch5/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/es.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/hfes.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/ns.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/pp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/pp7.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/pp4.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/submethodsminresdr/scratch5/esps.dat’: No such file or directory

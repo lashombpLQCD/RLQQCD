@@ -1,0 +1,14 @@
+Requested processors: 
+Node(s):
+uniq: c476-[044,051,053],c480-084,c491-[061,064],c494-092,c496-034,c497-034,c499-084,c500-[063,093,103],c501-052,c502-[113,122],c503-[051-052,071,084,091,103,114],c504-[013,024,084,121],c505-124,c506-[072,084,101-102,111-113,123]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Wed Sep  4 20:50:36 CDT 2019
+
+srun: cluster configuration lacks support for cpu binding
+srun: fatal: No command given to execute.
+
+Job finished at Wed Sep  4 20:50:37 CDT 2019
+
+Total Execution time: 1 seconds

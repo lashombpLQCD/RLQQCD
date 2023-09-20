@@ -1,0 +1,66 @@
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/es.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/esps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/hfes.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/linearresidual.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/ns.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/pp4.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/pp7.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/pp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/ps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/newpp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/newhfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/newpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/oldpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_8888/scratch1/prepp_noise-1.LOG’: No such file or directory
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAAC38063A  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAADDC8551  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAADD30D57  PMPI_Sendrecv_rep     Unknown  Unknown
+libmpifort.so.12.  00002AAAAB77A74B  PMPI_SENDRECV_REP     Unknown  Unknown
+qqcd-testout1      00000000004C94DF  diracops_mp_slide        1726  diracops.f90
+qqcd-testout1      00000000004B614B  diracops_mp_mulfo        1241  diracops.f90
+qqcd-testout1      00000000004B088A  diracops_mp_hsing         595  diracops.f90
+qqcd-testout1      000000000094989A  printops_mp_print         199  printops.f90
+qqcd-testout1      0000000000A6F810  cfgsprops_mp_gene        1996  cfgsprops.f90
+qqcd-testout1      0000000000A8CEB4  MAIN__                    803  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAAC38063A  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAADDC8551  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00002AAAADD30D57  PMPI_Sendrecv_rep     Unknown  Unknown
+libmpifort.so.12.  00002AAAAB77A74B  PMPI_SENDRECV_REP     Unknown  Unknown
+qqcd-testout1      00000000004C94DF  diracops_mp_slide        1726  diracops.f90
+qqcd-testout1      00000000004B614B  diracops_mp_mulfo        1241  diracops.f90
+qqcd-testout1      00000000004B088A  diracops_mp_hsing         595  diracops.f90
+qqcd-testout1      000000000094989A  printops_mp_print         199  printops.f90
+qqcd-testout1      0000000000A6F810  cfgsprops_mp_gene        1996  cfgsprops.f90
+qqcd-testout1      0000000000A8CEB4  MAIN__                    803  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout1      00000000004B41F3  diracops_mp_mdv_         1511  diracops.f90
+qqcd-testout1      00000000004B5C85  diracops_mp_mulfo        1227  diracops.f90
+qqcd-testout1      00000000004B088A  diracops_mp_hsing         595  diracops.f90
+qqcd-testout1      000000000094989A  printops_mp_print         199  printops.f90
+qqcd-testout1      0000000000A6F810  cfgsprops_mp_gene        1996  cfgsprops.f90
+qqcd-testout1      0000000000A8CEB4  MAIN__                    803  cfgspropsmain.f90
+qqcd-testout1      00000000004022D2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout1      00000000004021D9  Unknown               Unknown  Unknown

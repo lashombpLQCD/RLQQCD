@@ -1,0 +1,16 @@
+cat: c476-[004,042,081],c479-013,c482-052,c483-073,c486-[074,133],c487-132,c489-122,c491-[054,082],c492-111,c497-[032,111,124],c498-013,c499-123,c501-101,c502-[001,023-024,051],c503-[083,091,103,111],c504-[054,083,091],c505-021,c506-[072,081-084]: No such file or directory
+/tmp/slurmd/job4283385/slurm_script: line 25: num: command not found
+Finished outputting nodelist
+Requested processors: 
+Node(s):
+uniq: c476-[004,042,081],c479-013,c482-052,c483-073,c486-[074,133],c487-132,c489-122,c491-[054,082],c492-111,c497-[032,111,124],c498-013,c499-123,c501-101,c502-[001,023-024,051],c503-[083,091,103,111],c504-[054,083,091],c505-021,c506-[072,081-084]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Wed Sep  4 18:22:04 CDT 2019
+
+Error -> MPI job exited with code: 1 
+
+Job finished at Wed Sep  4 18:22:04 CDT 2019
+
+Total Execution time: 0 seconds

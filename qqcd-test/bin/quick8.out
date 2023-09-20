@@ -1,0 +1,2801 @@
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+MPI startup(): I_MPI_PIN_UNIT environment variable is not supported.
+MPI startup(): To check the list of supported variables, use the impi_info utility or refer to https://software.intel.com/en-us/mpi-library/documentation/get-started.
+ myid,cfgfile=          88 
+ cfgfiles/G00001088qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         112 
+ cfgfiles/G00001112qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          40 
+ cfgfiles/G00001040qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         104 
+ cfgfiles/G00001104qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          89 
+ cfgfiles/G00001089qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          82 
+ myid,cfgfile=         113 
+ cfgfiles/G00001113qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          56 
+ cfgfiles/G00001056qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          41 
+ cfgfiles/G00001041qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         130 
+ cfgfiles/G00001130qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         106 
+ cfgfiles/G00001106qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          90 
+ cfgfiles/G00001090qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          80 
+ cfgfiles/G00001080qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         114 
+ cfgfiles/G00001114qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          57 
+ cfgfiles/G00001057qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          52 
+ cfgfiles/G00001052qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          36 
+ cfgfiles/G00001036qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         141 
+ myid,cfgfile=         131 
+ cfgfiles/G00001131qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         107 
+ cfgfiles/G00001107qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          91 
+ cfgfiles/G00001091qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          81 
+ cfgfiles/G00001081qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         115 
+ cfgfiles/G00001115qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         100 
+ cfgfiles/G00001100qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          58 
+ cfgfiles/G00001058qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          49 
+ cfgfiles/G00001049qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          37 
+ cfgfiles/G00001037qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001141qwilson-24-32-b6-new                                         
+ myid,cfgfile=         128 
+ cfgfiles/G00001128qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         105 
+ cfgfiles/G00001105qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          95 
+ myid,cfgfile=          83 
+ cfgfiles/G00001083qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         101 
+ cfgfiles/G00001101qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          68 
+ cfgfiles/G00001068qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          59 
+ cfgfiles/G00001059qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          50 
+ cfgfiles/G00001050qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          38 
+ cfgfiles/G00001038qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         129 
+ cfgfiles/G00001129qwilson-24-32-b6-new                                         
+ myid,cfgfile=          33 
+ cfgfiles/G00001033qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          92 
+ cfgfiles/G00001092qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001082qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         102 
+ cfgfiles/G00001102qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          69 
+ cfgfiles/G00001069qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          61 
+ cfgfiles/G00001061qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          51 
+ cfgfiles/G00001051qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          43 
+ cfgfiles/G00001043qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         143 
+                                                  
+ myid,cfgfile=          34 
+ cfgfiles/G00001034qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          93 
+ cfgfiles/G00001093qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         103 
+ cfgfiles/G00001103qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          70 
+ cfgfiles/G00001070qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          62 
+ cfgfiles/G00001062qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          53 
+ cfgfiles/G00001053qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          39 
+ cfgfiles/G00001039qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         140 
+ cfgfiles/G00001140qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          35 
+ cfgfiles/G00001035qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          94 
+ cfgfiles/G00001094qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          71 
+ cfgfiles/G00001071qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          60 
+ cfgfiles/G00001060qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          48 
+ cfgfiles/G00001048qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         124 
+ cfgfiles/G00001124qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          42 
+ cfgfiles/G00001042qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         142 
+ cfgfiles/G00001142qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          32 
+ cfgfiles/G00001032qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001095qwilson-24-32-b6-new                                         
+ myid,cfgfile=          63 
+ cfgfiles/G00001063qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          54 
+ cfgfiles/G00001054qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001143qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          55 
+ cfgfiles/G00001055qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         125 
+ cfgfiles/G00001125qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         127 
+ cfgfiles/G00001127qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         126 
+ cfgfiles/G00001126qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         120 
+ cfgfiles/G00001120qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         121 
+ cfgfiles/G00001121qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         122 
+ cfgfiles/G00001122qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         123 
+ cfgfiles/G00001123qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          64 
+ cfgfiles/G00001064qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          44 
+ cfgfiles/G00001044qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          65 
+ cfgfiles/G00001065qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          45 
+ cfgfiles/G00001045qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          66 
+ cfgfiles/G00001066qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          47 
+ cfgfiles/G00001047qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          67 
+ cfgfiles/G00001067qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          46 
+ cfgfiles/G00001046qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          72 
+ cfgfiles/G00001072qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          73 
+ cfgfiles/G00001073qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         132 
+ cfgfiles/G00001132qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          75 
+ cfgfiles/G00001075qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          74 
+ cfgfiles/G00001074qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         135 
+ cfgfiles/G00001135qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         133 
+ cfgfiles/G00001133qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         134 
+ cfgfiles/G00001134qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           4 
+ cfgfiles/G00001004qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           5 
+ cfgfiles/G00001005qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           6 
+ cfgfiles/G00001006qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           7 
+ cfgfiles/G00001007qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          84 
+ myid,cfgfile=          85 
+ cfgfiles/G00001085qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          86 
+ cfgfiles/G00001086qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          87 
+ cfgfiles/G00001087qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001084qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          27 
+ cfgfiles/G00001027qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          12 
+ myid,cfgfile=           8 
+ cfgfiles/G00001008qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          10 
+ myid,cfgfile=         137 
+ cfgfiles/G00001137qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           1 
+ cfgfiles/G00001001qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001012qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          29 
+ myid,cfgfile=         136 
+ cfgfiles/G00001136qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           3 
+ cfgfiles/G00001003qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         138 
+ cfgfiles/G00001138qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         139 
+ cfgfiles/G00001139qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001029qwilson-24-32-b6-new                                         
+ myid,cfgfile=         110 
+ cfgfiles/G00001110qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           2 
+ cfgfiles/G00001002qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          28 
+ cfgfiles/G00001028qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           9 
+ myid,cfgfile=          24 
+ cfgfiles/G00001024qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         108 
+ cfgfiles/G00001108qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001010qwilson-24-32-b6-new                                         
+ myid,cfgfile=          30 
+ cfgfiles/G00001030qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         109 
+ cfgfiles/G00001109qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          26 
+ cfgfiles/G00001026qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ cfgfiles/G00001009qwilson-24-32-b6-new                                         
+ myid,cfgfile=         111 
+ cfgfiles/G00001111qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         116 
+ cfgfiles/G00001116qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          25 
+ cfgfiles/G00001025qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         117 
+ cfgfiles/G00001117qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         118 
+ cfgfiles/G00001118qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          96 
+ cfgfiles/G00001096qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         119 
+ cfgfiles/G00001119qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          97 
+ cfgfiles/G00001097qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          98 
+ cfgfiles/G00001098qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          99 
+ cfgfiles/G00001099qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          11 
+ cfgfiles/G00001011qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          16 
+ cfgfiles/G00001016qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          20 
+ cfgfiles/G00001020qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          13 
+ cfgfiles/G00001013qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          14 
+ cfgfiles/G00001014qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          15 
+ cfgfiles/G00001015qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          17 
+ cfgfiles/G00001017qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          18 
+ cfgfiles/G00001018qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          19 
+ cfgfiles/G00001019qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          78 
+ cfgfiles/G00001078qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          76 
+ cfgfiles/G00001076qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          77 
+ cfgfiles/G00001077qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          21 
+ cfgfiles/G00001021qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          79 
+ cfgfiles/G00001079qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          22 
+ cfgfiles/G00001022qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          23 
+ cfgfiles/G00001023qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=          31 
+ cfgfiles/G00001031qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           0 
+ cfgfiles/G00001000qwilson-24-32-b6-new                                         
+                                                  
+ icfgsave=           1
+ File does not exist. Creating it.
+ calling eigmodesofMprime
+ ntotal aaj k din=         144
+ just entered  eigmodesofMprime
+ minresdr5EIG resmax =   9.999999999999999E-021
+ value of mdr =          200
+ value of kdr =          160
+ value of normnum_hermitian =    2304.00000000000     
+ xrn(1) =    103.866871811669     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    78.7187139913879     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    63.0503839940942     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    52.1317597573300     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    44.3753300724636     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    38.7363294936926     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    34.5549107243915     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    31.3803424777899     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    28.8823496251161     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    26.7313788167786     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    24.8349204686081     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    23.1870124424023     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    21.8034146963737     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    20.5783553806540     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    19.4164459892824     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    18.2330415738162     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    17.0913331932064     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    16.0836922623628     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    15.1948498208764     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    14.3849463812527     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    13.6595105332663     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    12.9890485672351     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    12.3724994581674     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    11.8341401479550     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    11.3995775416073     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    11.0268667576178     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    10.6840520875629     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    10.3628660408406     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    10.0667256531510     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    9.79087043425806     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    9.51353216725762     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    9.22591141786348     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    8.93294582362594     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    8.65311983524954     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    8.38845608161529     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    8.14110728022077     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    7.91857117356893     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    7.71204316613224     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    7.51726575508943     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    7.34113145432659     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    7.17424444942666     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    7.00963653766441     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.84724765254257     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.69404265238590     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.54962455599302     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.41237360830332     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.27763202831732     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.14363412866547     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    6.01105401229618     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.88225106916844     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.75939637026625     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.64076704732464     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.52601787955521     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.41146551580820     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.29892711461384     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.18932908868450     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    5.08406167364380     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.98266732787326     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.88527713884220     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.78966705502195     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.69380623152138     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.59917087555793     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.50532857926432     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.41101822418781     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.31722618467970     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.22434224298576     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.13060184745378     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    4.03696316540053     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.94698995877791     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.85970018333593     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.77621895570331     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.69669924702274     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.61787487040130     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.54321675639135     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.47180251543649     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.40112019325974     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.33067920938829     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.26219244132989     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.19491753217052     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.12998674722576     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.07036976934046     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    3.01574700000794     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.96485222390329     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.91651051079636     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.86975105958890     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.82457789432911     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.78138618784391     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.73856217508142     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.69704592632392     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.65709912454404     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.61826189272754     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.58006220915102     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.54083332157492     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.50027990651210     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.45867038957626     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.41508188623738     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.36903105155375     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.31835171029850     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.26446716273744     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.20823518537404     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.14961200402495     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.08925224984789     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    2.02966790431834     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.97143632603517     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.91547080722239     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.86142773109126     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.81062624602887     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.76465585871607     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.72036206463810     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.67681159830509     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.63572410658052     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.59605908964654     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.55755785883155     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.52010930805204     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.48374281767426     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.44990634091624     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.41823684029968     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.38881289129000     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.36097424638852     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.33354798394250     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.30680301583155     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.28099338368540     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.25650180399377     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.23232525100213     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.20874374375109     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.18589878684662     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.16314883602934     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.14059581708542     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.11776069668357     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.09566781491264     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.07456147710612     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.05338552231835     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.03248108236567     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =    1.01199595324087     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.991521134934928     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.970792302222763     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.949346240454103     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.927061304169640     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.903740088928035     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.878767264148661     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.851726760261436     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.822844006090693     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.793429213275788     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.764533215602520     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.735951899662408     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.707202117331718     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.678109010087046     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.649403668849183     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.622311864204843     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.596681202563796     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.571700869267531     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.547453673992045     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.524394369067869     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.502793326176914     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.482758980074114     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.463711862265958     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.444601215476694     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.425116480570429     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.405670793713906     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.386486666664804     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.367876064735552     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.350544483397028     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.334883348671696     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.320815624251328     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.308288659481957     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.297129681177274     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.286725580786198     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.276415345665875     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.265974128007531     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.255513265913508     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.245095980393738     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.234773769558055     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.224736869986964     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.215155219866643     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.206088440496052     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.197613002102523     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.189757701275508     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.182375974718744     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.175278938558845     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.168488388211705     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.162223456791835     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.156629496602432     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.151644989670920     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.147069937309177     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.142714229358113     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.138485185555257     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.134390455842475     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.130493257111538     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.126814662914824     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.123274864751275     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.119729736566348     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.116043360534374     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.112130592390886     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.107988834936931     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   0.103726106525273     
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.954275228916887E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.557512022829487E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.177201763096160E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.797770954512771E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.410168478150234E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.021000809816332E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.643625902165013E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.285039314992353E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.945011140533867E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.622908077038056E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.321231382268863E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.041014524396983E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.777951810191574E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.524650942232044E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.274927514912425E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.026330585886652E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.778348371013924E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.530791688255735E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.283808720355434E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.038700998857185E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.798248572505279E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.565935007412444E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.344653308317590E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.135199172644296E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.937353844647556E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.751112825910039E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.578009026271290E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.419747512503802E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.275591207799715E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.142133000647564E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.015390395024529E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.893246883235866E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.775835693719616E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.664672063493045E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.560829942551046E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.464026276772029E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.373480043400354E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.288860110995833E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.211029754855640E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.141337983848941E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.080092593048733E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.026303884753113E-002
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.783126511463146E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.345739484897950E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.939542187932194E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.556442787185677E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.190619959901044E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.837666591963392E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.496160625131081E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.168102952877052E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.857513177401141E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.567545719112859E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.297932885128870E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.046196746094976E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.809167903529306E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.585324839606132E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.374997956951177E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.179118400253167E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.997824495484245E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.829368807297504E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.671354128213079E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.521688652685504E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.379492502276400E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.244825338493836E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.117866499583851E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.998199732691885E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.884768467111375E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.776394424713656E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.671900509030737E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.570529606349894E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.471880845352633E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.375786345572842E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.282282744474611E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.191442664362072E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.103451549982057E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.018786513549891E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.938167671006066E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.862410265620035E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.792118559899089E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.727225920049442E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.667024355125883E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.610305431786752E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.555587067548925E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.501436047949269E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.446675144315707E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.390478368813136E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.332536919960931E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.272999251647230E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.212465453255357E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.151847300819639E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.091874100134459E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.032908838902575E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.974820194738918E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.917200951831806E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.859648627210263E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.801833198931578E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.743656719609319E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.685256155292941E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.627085807861691E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.569822983629847E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.514306679090060E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.461307054168657E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.411402543926160E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.364805708833620E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.321327148381820E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.280459796116971E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.241505738046763E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.203783426113187E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.166763755733221E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.130208816115880E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.094197138614286E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.059060796881087E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.025223428168561E-003
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.930026570250487E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.625270178977403E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.337318504397455E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.064394501809075E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.804398397093336E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.555025524969482E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.314139220690431E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.079496620834348E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.848915440987628E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.620352632817407E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.392034287407555E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.162796355552880E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.932223134293767E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.700592066817769E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.468830370165318E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.238151385202697E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.010083845833268E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.786445832017283E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.569247515645299E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.360686026312878E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.162695966149881E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.976722550061089E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.803379477313727E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.642378452312765E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.492688125329721E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.352863509219682E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.221273227471649E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.096432262117422E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.976921164857551E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.861526365642643E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.749039607033845E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.638230493951477E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.527777078764772E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.416256419188969E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.302403253239351E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.185293266702151E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.064856159293671E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.942002548410031E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.818739944575590E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.697541522282211E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.580705119283698E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.469639448830678E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.364645042237851E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.265195911261851E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.170075512574056E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.077951613552918E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.987399285924276E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.897409829832418E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.807612796127196E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.718413370885378E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.630984470411903E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.546555019817088E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.466099038547462E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.389851940182596E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.317528590314058E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.248556692407177E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.182326895856051E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.118470233485839E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.056807998205385E-004
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.973804823404410E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.403132017264771E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.856523807563148E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.333716647783172E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.832614673731807E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.351011868794418E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.887230725383350E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.440964950031638E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.013990654411692E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.608281795467038E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.225751882466788E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.866191086517972E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.527991488148438E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.208347591954497E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.904191426370493E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.612996029079855E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.332841352698984E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.062849173800130E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.802965107006452E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.553908714745355E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.317025002576734E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.093848460137026E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.885975522436412E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.694714117621738E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.520988674092968E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.365297513904474E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.227580676988696E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.107310914918365E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.003416610580395E-005
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.144191667923050E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.385273154298742E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.737903243084506E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.182732196894737E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.701604015929030E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.278612451331071E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.900393119596461E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.556170361896559E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.237654810184917E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.938623512483424E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.654745801156337E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.383095425193846E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.121976088532471E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.870419433289915E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.628060529981213E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.394661956656032E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.170195963553366E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.954587390739251E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.747987882784148E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.550740834798634E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.363467990274250E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.187004406756891E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.022100407332755E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.869291548445294E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.728568078267583E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.599405463767310E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.480771624453973E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.371324857625296E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.269649415353605E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.174430339078683E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.084662451468099E-006
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.997372360463582E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.194888470448050E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.441634599379129E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.742306235971322E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.102125443170802E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.524138290992923E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.008259691288501E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.550877820658787E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.145788020260997E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.785568977746694E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.462578618146444E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.170039542633334E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.902291861384992E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.655111112637389E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.425650502205027E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.212168445635108E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.013888860725315E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.830284134204858E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.660956673220712E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.504989276650394E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.361162837982431E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.227805996803014E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.103182451302873E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.985618925667164E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.873686137668060E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.766363775268488E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.662996938392819E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.563366828998690E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.467516407859245E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.375640042373260E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.287928811103103E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.204421204511614E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.125025938267607E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.049510425016965E-007
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.776147850264188E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.091360102946729E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.439475884809964E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.820888856432993E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.236740282120690E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.689358097963238E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.181003225618667E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.713580861740095E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.287884535290327E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.902920053321803E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.556221437088002E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.243481531052498E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.959746605428879E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.699556126534237E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.457981897872102E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.230954468024913E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.015456981641157E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.809900052964467E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.613596332116836E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.426983665576364E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.250730982556001E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.085750383552372E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.932510616593079E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.791103214703478E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.661083621886275E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.541616953286300E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.431651318612650E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.329977180753703E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.235464071560986E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.147003464101489E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.063701058961645E-008
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.847956245277629E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.097835711857188E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.383784477117731E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.705417783902826E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.064450514512756E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.463797926546526E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.906726987068972E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.395473342391881E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.930661477782089E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.510770149556046E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.132526487507602E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.791276726739414E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.481806072153031E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.198798392236412E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.937403107430029E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.693444386336664E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.463637887772226E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.245662236510913E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.038158350652212E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.840730190769666E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.653742107103310E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.478163350009178E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.315152983479075E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.165803904310002E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.030751688341184E-009
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.101022488887725E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.033307251494359E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.094708967756987E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.272234228450476E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.551875869169475E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.919689488986573E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.362976049144901E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.870698129625677E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.433608762118883E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.044269900932494E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.696692934593860E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.386198513098476E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.108986649130660E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.861940245247470E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.642352761414198E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.447743121194561E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.275802694946056E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.124255283529560E-010
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.909565623441469E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.737950279974339E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.708361611643211E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.802507774317853E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.004271335269721E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.299199136756799E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.675020497614137E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.121285908931700E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.629340166095130E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.192028126026353E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.803367121005526E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.458310309537973E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.152410913294636E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.881708536721865E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.642536028776848E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.431539707956741E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.245589239303031E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.081869419661755E-011
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.378014689327375E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.111456611476481E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.998932349171725E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.023484567385688E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.169986863281372E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.425657262738920E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.778828040440941E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.219237464819607E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.737171968769155E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.323702873295036E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.970309106681875E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.669104696686928E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.412793655565303E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.194798264144444E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.009326416262995E-012
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.513356788413747E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.165948860021529E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.015188219261158E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.032034313400735E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.192130657224311E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.475967519662028E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.866968076378568E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.351533806930103E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.917706442577147E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.555170887146365E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.254532145226729E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.007336801157055E-013
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.057917211090318E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.428259229210958E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.120271570330526E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.077155584100423E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.249215368562828E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.594190094669265E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.076601128726479E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.667516281960861E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.343496797968972E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.086062461538131E-014
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.805992766437463E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.158433033746623E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.829896259112334E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.753392013462997E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.876565888137774E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.159813616960618E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.571860717078998E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.089017280095444E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.692139146455911E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.366543381818111E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.099907508780377E-015
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.825466068014332E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.059814185048123E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.633966764289813E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.486748994871959E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.568907712516517E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.836271222924420E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.254001885864842E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.791304012821464E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.424667478533241E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.133561142713520E-016
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.028570914933603E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.193469707104317E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.736375701932637E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.573954315374119E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.649072767565997E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.909324580026901E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.320195485173537E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.848405986401975E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.473019952152100E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.172510183932804E-017
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.340473745990504E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.434169866511049E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.926892989743804E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.723374491187019E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.774824180221873E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.017063668080495E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.420827353899656E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.943036918957628E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.567004795521663E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.263931433244007E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.025040128905886E-018
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.310474636933233E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.779129384659874E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.525813398736193E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   4.536865938689349E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.721995433163483E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   3.081514116622924E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.551383600631898E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   2.138302317766225E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.795681140980409E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.532437921121535E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.313985583979539E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.149329673923132E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   1.012540660230000E-019
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   9.118506369873273E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   8.278125671313669E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.675988359880069E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   7.167325151427041E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.813945606277145E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.508756319113544E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.303599640278298E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.120150654079000E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   6.001532166734494E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.890075817474245E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.821220314337668E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.752507908163855E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.712604856960846E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.669420353123413E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.646419484524386E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.618710931966589E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.605585745481172E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587454521470587E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.580247098880829E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.568578771674549E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.564933371025284E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.557439080599507E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.556255666574585E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.551660362404483E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.551825749655971E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.549234306368812E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.550170287294093E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.549039670697125E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.550508607814091E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.550219388835325E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.551880350975714E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.552230166742413E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.553930636075588E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.554707115155612E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.556341763485249E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.557382770889444E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.559103073083668E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.560353007504884E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.562268811093178E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.563776629980648E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.565738708494975E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.567410376543526E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.569355134807936E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.571036577298956E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.572795380810487E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.574357745428609E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.576004161856326E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.577479253664953E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.578960716522508E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.580325598788717E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.581610674237686E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.582672563912048E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.583612813829763E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.584404188396451E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.585108553937197E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.585652852670296E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.586131327652531E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.586486267848727E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.586736615530787E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.586962126490125E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587108340925464E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587231278071663E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587320312442822E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587374780710727E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587424495385426E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587462735512123E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587489780497286E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587509558015343E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587519094495110E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587527246005236E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587535559546241E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587540483141503E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587548159808524E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587549288208608E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587550594960645E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587551777408145E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587551754743494E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587552902495480E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587554138926856E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587554856140820E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587555310052351E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587555766625690E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587556125005450E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587555052280104E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587555132669499E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587556146352208E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587556017238439E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587556262154047E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587556544051965E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557606490322E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557229715693E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557339412973E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557332465147E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557160340768E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557063234814E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557294540127E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557562748285E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557605632861E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557638626075E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557670885346E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557644101275E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557704501633E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557714402060E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557624876705E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557731067376E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557777062753E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557799480105E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557758372987E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557781712771E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557783480611E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557784175628E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557782760291E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557811407332E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557828412039E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557826261338E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557783793088E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557783671480E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557782068750E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557787645173E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557781388530E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557780141892E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557780024770E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557778651695E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557773859527E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557771943662E-020
+ xrn(2) =   0.000000000000000E+000
+ xrn(1) =   5.587557771794046E-020
+ xrn(2) =   0.000000000000000E+000
+ MPI_Wtime wall-time after minresdr5EIG:    11950.2206530571     
+ just done with minresdr5EIG
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ |gamma5*M*x - eval*x| for 10th eval  2.040687940386024E-014
+ L/R Orthoganality test for Mprime
+           1           1   1.00000000000000       0.000000000000000E+000
+           2           2   1.00000000000000       0.000000000000000E+000
+           3           3   1.00000000000000       0.000000000000000E+000
+           4           4   1.00000000000000       0.000000000000000E+000
+           5           5   1.00000000000000       0.000000000000000E+000
+           6           6   1.00000000000000       0.000000000000000E+000
+           7           7   1.00000000000000       0.000000000000000E+000
+           8           8   1.00000000000000       0.000000000000000E+000
+           9           9   1.00000000000000       0.000000000000000E+000
+          10          10   1.00000000000000       0.000000000000000E+000
+          11          11   1.00000000000000       0.000000000000000E+000
+          12          12   1.00000000000000       0.000000000000000E+000
+          13          13   1.00000000000000       0.000000000000000E+000
+          14          14   1.00000000000000       0.000000000000000E+000
+          15          15   1.00000000000000       0.000000000000000E+000
+          16          16   1.00000000000000       0.000000000000000E+000
+          17          17   1.00000000000000       0.000000000000000E+000
+          18          18   1.00000000000000       0.000000000000000E+000
+          19          19   1.00000000000000       0.000000000000000E+000
+          20          20   1.00000000000000       0.000000000000000E+000
+          21          21   1.00000000000000       0.000000000000000E+000
+          22          22   1.00000000000000       0.000000000000000E+000
+          23          23   1.00000000000000       0.000000000000000E+000
+          24          24   1.00000000000000       0.000000000000000E+000
+          25          25   1.00000000000000       0.000000000000000E+000
+          26          26   1.00000000000000       0.000000000000000E+000
+          27          27   1.00000000000000       0.000000000000000E+000
+          28          28   1.00000000000000       0.000000000000000E+000
+          29          29   1.00000000000000       0.000000000000000E+000
+          30          30   1.00000000000000       0.000000000000000E+000
+          31          31   1.00000000000000       0.000000000000000E+000
+          32          32   1.00000000000000       0.000000000000000E+000
+          33          33   1.00000000000000       0.000000000000000E+000
+          34          34   1.00000000000000       0.000000000000000E+000
+          35          35   1.00000000000000       0.000000000000000E+000
+          36          36   1.00000000000000       0.000000000000000E+000
+          37          37   1.00000000000000       0.000000000000000E+000
+          38          38   1.00000000000000       0.000000000000000E+000
+          39          39   1.00000000000000       0.000000000000000E+000
+          40          40   1.00000000000000       0.000000000000000E+000
+          41          41   1.00000000000000       0.000000000000000E+000
+          42          42   1.00000000000000       0.000000000000000E+000
+          43          43   1.00000000000000       0.000000000000000E+000
+          44          44   1.00000000000000       0.000000000000000E+000
+          45          45   1.00000000000000       0.000000000000000E+000
+          46          46   1.00000000000000       0.000000000000000E+000
+          47          47   1.00000000000000       0.000000000000000E+000
+          48          48   1.00000000000000       0.000000000000000E+000
+          49          49   1.00000000000000       0.000000000000000E+000
+          50          50   1.00000000000000       0.000000000000000E+000
+          51          51   1.00000000000000       0.000000000000000E+000
+          52          52   1.00000000000000       0.000000000000000E+000
+          53          53   1.00000000000000       0.000000000000000E+000
+          54          54   1.00000000000000       0.000000000000000E+000
+          55          55   1.00000000000000       0.000000000000000E+000
+          56          56   1.00000000000000       0.000000000000000E+000
+          57          57   1.00000000000000       0.000000000000000E+000
+          58          58   1.00000000000000       0.000000000000000E+000
+          59          59   1.00000000000000       0.000000000000000E+000
+          60          60   1.00000000000000       0.000000000000000E+000
+ gmresdrprinttest1
+ L/R Orthoganlity test for modes of M
+           1           1   1.00000000000000      -5.204170427930421E-017
+           2           2   1.00000000000000       4.163336342344337E-017
+           3           3   1.00000000000000      -2.706168622523819E-016
+           4           4   1.00000000000000       1.040834085586084E-016
+           5           5   1.00000000000000      -2.645453300864631E-017
+           6           6   1.00000000000000       5.767955557622884E-017
+           7           7   1.00000000000000      -6.938893903907228E-018
+           8           8   1.00000000000000      -1.491862189340054E-016
+           9           9   1.00000000000000      -3.330669073875470E-016
+          10          10   1.00000000000000       4.371503159461554E-016
+          11          11   1.00000000000000      -1.734723475976807E-016
+          12          12   1.00000000000000       1.595945597898663E-016
+          13          13   1.00000000000000      -2.567390744445674E-016
+          14          14   1.00000000000000       1.110223024625157E-016
+          15          15   1.00000000000000       4.857225732735060E-017
+          16          16   1.00000000000000      -1.665334536937735E-016
+          17          17   1.00000000000000      -6.938893903907228E-017
+          18          18   1.00000000000000       5.551115123125783E-017
+          19          19   1.00000000000000       1.179611963664229E-016
+          20          20   1.00000000000000      -1.040834085586084E-016
+          21          21   1.00000000000000       6.591949208711867E-017
+          22          22   1.00000000000000      -1.283695372222837E-016
+          23          23   1.00000000000000      -2.359223927328458E-016
+          24          24  0.999999999999999       3.053113317719180E-016
+          25          25   1.00000000000000       1.040834085586084E-017
+          26          26   1.00000000000000       1.940721888749053E-017
+          27          27   1.00000000000000      -5.551115123125783E-017
+          28          28   1.00000000000000       1.908195823574488E-017
+          29          29   1.00000000000000      -2.636779683484747E-016
+          30          30   1.00000000000000       2.706168622523819E-016
+          31          31   1.00000000000000      -2.237793284010081E-016
+          32          32   1.00000000000000       2.411265631607762E-016
+          33          33   1.00000000000000      -1.144917494144693E-016
+          34          34   1.00000000000000       1.335737076502141E-016
+          35          35   1.00000000000000      -2.354887118638516E-016
+          36          36   1.00000000000000       4.787836793695988E-016
+          37          37   1.00000000000000      -1.856154119295184E-016
+          38          38   1.00000000000000       1.222980050563649E-016
+          39          39   1.00000000000000      -1.734723475976807E-018
+          40          40   1.00000000000000       1.873501354054952E-016
+          41          41   1.00000000000000       1.890848588814720E-016
+          42          42   1.00000000000000       1.908195823574488E-017
+          43          43   1.00000000000000      -1.708702623837155E-016
+          44          44   1.00000000000000       1.873501354054952E-016
+          45          45   1.00000000000000       1.214306433183765E-016
+          46          46   1.00000000000000      -1.249000902703301E-016
+          47          47   1.00000000000000       1.856154119295184E-016
+          48          48   1.00000000000000      -1.457167719820518E-016
+          49          49   1.00000000000000      -2.393918396847994E-016
+          50          50   1.00000000000000       1.769417945496343E-016
+          51          51   1.00000000000000      -2.515349040166370E-017
+          52          52   1.00000000000000      -3.621235256101585E-017
+          53          53   1.00000000000000       5.030698080332741E-017
+          54          54   1.00000000000000      -1.387778780781446E-017
+          55          55   1.00000000000000      -2.289834988289385E-016
+          56          56   1.00000000000000       1.040834085586084E-016
+          57          57  0.999999999999999       2.376571162088226E-016
+          58          58   1.00000000000000      -3.330669073875470E-016
+          59          59   1.00000000000000      -2.706168622523819E-016
+          60          60   1.00000000000000       2.428612866367530E-016
+          61          61   1.00000000000000       6.938893903907228E-018
+          62          62   1.00000000000000      -4.510281037539698E-017
+          63          63  0.999999999999999      -2.636779683484747E-016
+          64          64   1.00000000000000       1.318389841742373E-016
+          65          65   1.00000000000000       3.885780586188048E-016
+          66          66   1.00000000000000      -1.387778780781446E-016
+          67          67   1.00000000000000       1.040834085586084E-017
+          68          68   1.00000000000000      -3.469446951953614E-018
+          69          69   1.00000000000000       6.591949208711867E-017
+          70          70   1.00000000000000      -1.162264728904461E-016
+          71          71   1.00000000000000       1.595945597898663E-016
+          72          72   1.00000000000000      -7.632783294297951E-017
+          73          73   1.00000000000000       2.775557561562891E-017
+          74          74   1.00000000000000       6.938893903907228E-017
+          75          75   1.00000000000000       6.548581121812447E-017
+          76          76   1.00000000000000       3.035766082959412E-017
+          77          77   1.00000000000000      -8.326672684688674E-017
+          78          78   1.00000000000000       9.714451465470120E-017
+          79          79   1.00000000000000      -1.283695372222837E-016
+          80          80   1.00000000000000       1.196959198423997E-016
+          81          81   1.00000000000000       2.151057110211241E-016
+          82          82   1.00000000000000      -2.983724378680108E-016
+          83          83   1.00000000000000      -9.124645483638005E-016
+          84          84   1.00000000000000       8.361367154208210E-016
+          85          85   1.00000000000000       1.040834085586084E-016
+          86          86   1.00000000000000      -5.030698080332741E-017
+          87          87   1.00000000000000       1.535230276239474E-016
+          88          88   1.00000000000000      -9.107298248878237E-017
+          89          89   1.00000000000000       6.938893903907228E-017
+          90          90   1.00000000000000       2.775557561562891E-017
+          91          91   1.00000000000000      -3.469446951953614E-017
+          92          92   1.00000000000000      -1.179611963664229E-016
+          93          93   1.00000000000000       0.000000000000000E+000
+          94          94   1.00000000000000       1.370431546021678E-016
+          95          95   1.00000000000000       1.049507702965968E-016
+          96          96   1.00000000000000      -4.857225732735060E-017
+          97          97   1.00000000000000      -1.006139616066548E-016
+          98          98   1.00000000000000       1.908195823574488E-016
+          99          99   1.00000000000000      -1.908195823574488E-016
+         100         100   1.00000000000000       3.087807787238717E-016
+         101         101  0.999999999999999      -7.285838599102590E-017
+         102         102   1.00000000000000      -9.107298248878237E-017
+         103         103   1.00000000000000       7.892991815694472E-017
+         104         104   1.00000000000000      -9.324138683375338E-017
+         105         105   1.00000000000000       6.938893903907228E-017
+         106         106   1.00000000000000      -1.249000902703301E-016
+         107         107   1.00000000000000      -1.249000902703301E-016
+         108         108   1.00000000000000      -3.469446951953614E-017
+         109         109   1.00000000000000      -6.245004513516506E-017
+         110         110   1.00000000000000       2.081668171172169E-017
+         111         111   1.00000000000000      -1.700029006457271E-016
+         112         112   1.00000000000000       2.862293735361732E-017
+         113         113   1.00000000000000       1.025655255171287E-016
+         114         114   1.00000000000000      -8.478460988836645E-017
+         115         115   1.00000000000000       1.353084311261910E-016
+         116         116   1.00000000000000      -2.081668171172169E-017
+         117         117   1.00000000000000       1.266348137463069E-016
+         118         118   1.00000000000000      -1.578598363138894E-016
+         119         119   1.00000000000000       3.469446951953614E-018
+         120         120   1.00000000000000       2.428612866367530E-016
+         121         121   1.00000000000000      -3.469446951953614E-018
+         122         122   1.00000000000000      -1.075528555105620E-016
+         123         123   1.00000000000000       1.665334536937735E-016
+         124         124   1.00000000000000      -1.040834085586084E-016
+         125         125   1.00000000000000      -1.040834085586084E-016
+         126         126   1.00000000000000       3.608224830031759E-016
+         127         127  0.999999999999999      -2.775557561562891E-017
+         128         128   1.00000000000000       1.110223024625157E-016
+         129         129   1.00000000000000       1.110223024625157E-016
+         130         130   1.00000000000000      -8.326672684688674E-017
+         131         131   1.00000000000000       1.110223024625157E-016
+         132         132   1.00000000000000      -1.387778780781446E-017
+         133         133   1.00000000000000       1.144917494144693E-016
+         134         134   1.00000000000000      -3.816391647148976E-017
+         135         135  0.999999999999999      -1.804112415015879E-016
+         136         136   1.00000000000000      -2.602085213965211E-017
+         137         137   1.00000000000000      -8.586881206085195E-017
+         138         138   1.00000000000000       8.304988641238964E-017
+         139         139   1.00000000000000      -9.194034422677078E-017
+         140         140   1.00000000000000       2.949029909160572E-017
+         141         141   1.00000000000000       3.295974604355933E-016
+         142         142   1.00000000000000      -8.153200337090993E-017
+         143         143   1.00000000000000      -4.597017211338539E-016
+         144         144   1.00000000000000       4.857225732735060E-016
+         145         145   1.00000000000000      -4.562322741819003E-016
+         146         146   1.00000000000000       5.030698080332741E-016
+         147         147   1.00000000000000      -4.024558464266192E-016
+         148         148   1.00000000000000       3.469446951953614E-016
+         149         149   1.00000000000000       6.245004513516506E-017
+         150         150   1.00000000000000      -1.249000902703301E-016
+ NUMEV:                  150
+ NUMEVPRIME:              60
+ eigstart:                 1
+ eigstep:                  1
+ 
+ 
+ --- Eigenvalues ---
+           1  1.691207048872490E-003 -3.338157258571745E-003
+           2  1.691207048872823E-003  3.338157258574466E-003
+           3  3.762928825613465E-003  2.147228685520677E-003
+           4  3.762928825608691E-003 -2.147228685529735E-003
+           5  2.647917521763965E-003  5.087007677646161E-003
+           6  2.647917521764631E-003 -5.087007677653165E-003
+           7  4.927749465056253E-003 -4.286334464332349E-003
+           8  4.927749465053810E-003  4.286334464336839E-003
+           9  6.371472291347824E-003 -1.558213064717522E-003
+          10  6.371472291349933E-003  1.558213064712531E-003
+          11  4.440124026461323E-003 -6.800706733460006E-003
+          12  4.440124026464209E-003  6.800706733466178E-003
+          13  2.126234661466331E-003 -8.087919990696722E-003
+          14  2.126234661468329E-003  8.087919990699846E-003
+          15  8.164835641521706E-003 -2.310163718753456E-003
+          16  8.164835641529145E-003  2.310163718737213E-003
+          17  8.296698027626448E-003 -3.825435496775391E-003
+          18  8.296698027626337E-003  3.825435496780480E-003
+          19  3.714783417617884E-003 -9.492468795730770E-003
+          20  3.714783417620326E-003  9.492468795730579E-003
+          21  9.062019056750081E-003 -4.934534992503576E-003
+          22  9.062019056752191E-003  4.934534992509952E-003
+          23  6.856479088224843E-003  7.934823494155434E-003
+          24  6.856479088228284E-003 -7.934823494167473E-003
+          25  2.448352571835843E-003  1.051196481951351E-002
+          26  2.448352571845169E-003 -1.051196481951326E-002
+          27  5.391227556224676E-003  9.660942738426671E-003
+          28  5.391227556219902E-003 -9.660942738429738E-003
+          29  2.867433438771494E-003  1.156780554004602E-002
+          30  2.867433438772160E-003 -1.156780554005377E-002
+          31  8.140655173266342E-003 -9.018384298586179E-003
+          32  8.140655173259681E-003  9.018384298594749E-003
+          33  1.227231890835956E-003  1.266899003807332E-002
+          34  1.227231890834179E-003 -1.266899003807372E-002
+          35  1.388080697768868E-002  1.713531112513716E-003
+          36  1.388080697769312E-002 -1.713531112509999E-003
+          37  5.839648341440462E-003 -1.334427622603358E-002
+          38  5.839648341445236E-003  1.334427622603451E-002
+          39  2.449040160183880E-003  1.549741453722723E-002
+          40  2.449040160188876E-003 -1.549741453722852E-002
+          41  4.397012941916301E-003 -1.523396385192088E-002
+          42  4.397012941912637E-003  1.523396385192298E-002
+          43  3.247690840047834E-003  1.608359128680873E-002
+          44  3.247690840050721E-003 -1.608359128680923E-002
+          45  8.262068297933967E-004 -1.734360044326380E-002
+          46  8.262068297930636E-004  1.734360044326553E-002
+          47  3.336204676276489E-003 -1.787907935505784E-002
+          48  3.336204676286703E-003  1.787907935506494E-002
+          49  4.782455656813456E-003  1.810075783602898E-002
+          50  4.782455656824780E-003 -1.810075783602880E-002
+          51  1.838405985097991E-003 -1.998639653920970E-002
+          52  1.838405985100100E-003  1.998639653921096E-002
+          53  2.773138579679424E-003 -2.045055204389896E-002
+          54  2.773138579678314E-003  2.045055204390141E-002
+          55  6.211715202538493E-003  2.013349196758558E-002
+          56  6.211715202539381E-003 -2.013349196758847E-002
+          57  1.006102804682041E-002 -1.893031940822064E-002
+          58  1.006102804681663E-002  1.893031940822310E-002
+          59  4.455602407310133E-003 -2.112420957522211E-002
+          60  4.455602407314019E-003  2.112420957522233E-002
+          61  1.963832028887724E-003  2.227521585630997E-002
+          62  1.963832028886836E-003 -2.227521585631173E-002
+          63  3.932915687491989E-003  2.230939746567944E-002
+          64  3.932915687496763E-003 -2.230939746568050E-002
+          65  5.082490147849672E-003  2.361281676630887E-002
+          66  5.082490147845675E-003 -2.361281676631387E-002
+          67  2.287981426719266E-003 -2.458426990500439E-002
+          68  2.287981426718044E-003  2.458426990500769E-002
+          69  5.495173952890786E-004  2.495469339743224E-002
+          70  5.495173952883015E-004 -2.495469339743309E-002
+          71  6.750474085317926E-003 -2.471592847147193E-002
+          72  6.750474085319036E-003  2.471592847147626E-002
+          73  2.584003966534798E-003  2.579306981641023E-002
+          74  2.584003966533799E-003 -2.579306981641222E-002
+          75  7.904578345115931E-004  2.657089310481114E-002
+          76  7.904578345131474E-004 -2.657089310481365E-002
+          77  3.422743049377175E-003 -2.674914669714580E-002
+          78  3.422743049377841E-003  2.674914669715023E-002
+          79  1.304842662864680E-003 -2.789570953473964E-002
+          80  1.304842662865346E-003  2.789570953474221E-002
+          81  8.216144051567786E-003 -2.680713715255557E-002
+          82  8.216144051564900E-003  2.680713715255696E-002
+          83  4.004578970646766E-003  2.796805743061610E-002
+          84  4.004578970636885E-003 -2.796805743062721E-002
+          85  4.562102944432822E-003 -2.875490072842261E-002
+          86  4.562102944435265E-003  2.875490072843300E-002
+          87  2.755000787763917E-003 -2.953580338990736E-002
+          88  2.755000787762807E-003  2.953580338991028E-002
+          89  7.275534565345354E-003  2.886646524044477E-002
+          90  7.275534565349795E-003 -2.886646524045070E-002
+          91  2.004911936927867E-003  2.976700274306489E-002
+          92  2.004911936929865E-003 -2.976700274306490E-002
+          93  4.874732150066396E-004  3.007936036256231E-002
+          94  4.874732150054184E-004 -3.007936036256246E-002
+          95  5.881987080206263E-004  3.060174687800437E-002
+          96  5.881987080202933E-004 -3.060174687800521E-002
+          97  4.678379894491491E-003  3.113800437960535E-002
+          98  4.678379894489049E-003 -3.113800437961339E-002
+          99  1.577861106410672E-003 -3.224724579423188E-002
+         100  1.577861106406786E-003  3.224724579423511E-002
+         101  3.655256837869159E-003 -3.241014368092118E-002
+         102  3.655256837875820E-003  3.241014368092130E-002
+         103  8.887816161611828E-003 -3.163050201653944E-002
+         104  8.887816134661275E-003  3.163050205380060E-002
+         105  1.445271546844595E-003 -3.339201612446017E-002
+         106  1.445271546847371E-003  3.339201612446026E-002
+         107  2.074482873282602E-003  3.422046023367108E-002
+         108  2.074482873278272E-003 -3.422046023367402E-002
+         109  4.553478663407939E-003 -3.401604097191024E-002
+         110  4.553478663402277E-003  3.401604097191124E-002
+         111  2.775430551367863E-003  3.500225703475984E-002
+         112  2.775430551367197E-003 -3.500225703476049E-002
+         113 -6.037669414604707E-005  3.576296941832539E-002
+         114 -6.037669414515889E-005 -3.576296941832706E-002
+         115  5.282020670621002E-003  3.565405549444266E-002
+         116  5.282020670624332E-003 -3.565405549444603E-002
+         117  5.207273361734766E-004  3.638387792503332E-002
+         118  5.207273361754750E-004 -3.638387792503433E-002
+         119  4.220458966375129E-003 -3.661289659261206E-002
+         120  4.220458966365581E-003  3.661289659261672E-002
+         121  2.948628968806433E-003  3.681171598841713E-002
+         122  2.948628968803879E-003 -3.681171598841754E-002
+         123  3.994457800290285E-003 -3.766409973640597E-002
+         124  3.994457800292617E-003  3.766409973640786E-002
+         125  1.936321750438785E-003  3.792024391160230E-002
+         126  1.936321750444669E-003 -3.792024391160644E-002
+         127  2.198200803773309E-003 -3.883291753154480E-002
+         128  2.198200803804062E-003  3.883291753154443E-002
+         129  1.431947357838581E-003 -3.900508809564002E-002
+         130  1.431947357836472E-003  3.900508809564080E-002
+         131  3.501031269323440E-003  3.897402830629558E-002
+         132  3.501031269339427E-003 -3.897402830630835E-002
+         133  1.293124589825667E-003  3.979382702449376E-002
+         134  1.293124589828998E-003 -3.979382702449379E-002
+         135  2.629193566868748E-004  4.075214074837595E-002
+         136  2.629193566876520E-004 -4.075214074837637E-002
+         137  2.849908252194444E-003  4.067386106189806E-002
+         138  2.849908252196776E-003 -4.067386106189832E-002
+         139  1.314308449600565E-003  4.171977717757213E-002
+         140  1.314308449607893E-003 -4.171977717757967E-002
+         141  2.310242823491238E-003  4.232886835109006E-002
+         142  2.310242823401532E-003 -4.232886835115617E-002
+         143  7.850107221160085E-004 -4.272455217667399E-002
+         144  7.850107221278879E-004  4.272455217668375E-002
+         145  1.326401115639642E-003  4.291688372290997E-002
+         146  1.326401115647635E-003 -4.291688372291123E-002
+         147  1.177839232168854E-003 -4.432000212187489E-002
+         148  1.177839231861322E-003  4.432000212195261E-002
+         149  7.556126618368797E-004 -4.463109789298763E-002
+         150  7.556126618246672E-004  4.463109789298841E-002
+ 
+ 
+ --- Eigenvalues Gamma5 ---
+           1  4.853610680448928E-004
+           2  1.415666258175419E-003
+           3 -1.517417042870768E-003
+           4  1.763156034664859E-003
+           5 -1.947819823599508E-003
+           6  2.146176192463000E-003
+           7 -2.196112245293638E-003
+           8  2.933124236576003E-003
+           9 -3.101474520245169E-003
+          10  3.198624803784363E-003
+          11  3.660731741235090E-003
+          12 -3.847773440692932E-003
+          13 -3.991460692586960E-003
+          14  4.057265320901205E-003
+          15  4.426065977874907E-003
+          16 -4.817952194596005E-003
+          17  4.998005745680771E-003
+          18 -5.006731447555318E-003
+          19 -5.314128554733334E-003
+          20  5.547349836440995E-003
+          21  5.916350560264818E-003
+          22 -5.979695097585772E-003
+          23 -6.276996229889363E-003
+          24  6.311423763072850E-003
+          25 -6.508871384906464E-003
+          26  6.919741169572848E-003
+          27 -6.920036012158834E-003
+          28  7.043246141981251E-003
+          29 -7.334765646835367E-003
+          30  7.641018172185015E-003
+          31  7.980702619892168E-003
+          32 -8.049210554327843E-003
+          33  8.257506383156954E-003
+          34  8.629592822686199E-003
+          35 -8.692788425826162E-003
+          36 -8.805862458433409E-003
+          37  9.082657952396996E-003
+          38 -9.422701070937947E-003
+          39  9.724911812934705E-003
+          40 -1.002103686069137E-002
+          41  1.026155999208701E-002
+          42 -1.033576022439269E-002
+          43  1.067820173198316E-002
+          44 -1.077321455819837E-002
+          45 -1.098483553154825E-002
+          46  1.116370875182158E-002
+          47  1.155906728505462E-002
+          48 -1.186303689546359E-002
+          49  1.200281354791589E-002
+          50 -1.225876933256182E-002
+          51 -1.245823253231935E-002
+          52  1.250025220241725E-002
+          53  1.289455997972680E-002
+          54 -1.308672842002255E-002
+          55  1.327427867203284E-002
+          56 -1.333959005042098E-002
+          57  1.362632264643113E-002
+          58 -1.398535482528453E-002
+          59 -1.415287131118900E-002
+          60 -1.473778594389070E-002
+          61  0.000000000000000E+000
+          62  0.000000000000000E+000
+          63  0.000000000000000E+000
+          64  0.000000000000000E+000
+          65  0.000000000000000E+000
+          66  0.000000000000000E+000
+          67  0.000000000000000E+000
+          68  0.000000000000000E+000
+          69  0.000000000000000E+000
+          70  0.000000000000000E+000
+          71  0.000000000000000E+000
+          72  0.000000000000000E+000
+          73  0.000000000000000E+000
+          74  0.000000000000000E+000
+          75  0.000000000000000E+000
+          76  0.000000000000000E+000
+          77  0.000000000000000E+000
+          78  0.000000000000000E+000
+          79  0.000000000000000E+000
+          80  0.000000000000000E+000
+          81  0.000000000000000E+000
+          82  0.000000000000000E+000
+          83  0.000000000000000E+000
+          84  0.000000000000000E+000
+          85  0.000000000000000E+000
+          86  0.000000000000000E+000
+          87  0.000000000000000E+000
+          88  0.000000000000000E+000
+          89  0.000000000000000E+000
+          90  0.000000000000000E+000
+          91  0.000000000000000E+000
+          92  0.000000000000000E+000
+          93  0.000000000000000E+000
+          94  0.000000000000000E+000
+          95  0.000000000000000E+000
+          96  0.000000000000000E+000
+          97  0.000000000000000E+000
+          98  0.000000000000000E+000
+          99  0.000000000000000E+000
+         100  0.000000000000000E+000
+         101  0.000000000000000E+000
+         102  0.000000000000000E+000
+         103  0.000000000000000E+000
+         104  0.000000000000000E+000
+         105  0.000000000000000E+000
+         106  0.000000000000000E+000
+         107  0.000000000000000E+000
+         108  0.000000000000000E+000
+         109  0.000000000000000E+000
+         110  0.000000000000000E+000
+         111  0.000000000000000E+000
+         112  0.000000000000000E+000
+         113  0.000000000000000E+000
+         114  0.000000000000000E+000
+         115  0.000000000000000E+000
+         116  0.000000000000000E+000
+         117  0.000000000000000E+000
+         118  0.000000000000000E+000
+         119  0.000000000000000E+000
+         120  0.000000000000000E+000
+         121  0.000000000000000E+000
+         122  0.000000000000000E+000
+         123  0.000000000000000E+000
+         124  0.000000000000000E+000
+         125  0.000000000000000E+000
+         126  0.000000000000000E+000
+         127  0.000000000000000E+000
+         128  0.000000000000000E+000
+         129  0.000000000000000E+000
+         130  0.000000000000000E+000
+         131  0.000000000000000E+000
+         132  0.000000000000000E+000
+         133  0.000000000000000E+000
+         134  0.000000000000000E+000
+         135  0.000000000000000E+000
+         136  0.000000000000000E+000
+         137  0.000000000000000E+000
+         138  0.000000000000000E+000
+         139  0.000000000000000E+000
+         140  0.000000000000000E+000
+         141  0.000000000000000E+000
+         142  0.000000000000000E+000
+         143  0.000000000000000E+000
+         144  0.000000000000000E+000
+         145  0.000000000000000E+000
+         146  0.000000000000000E+000
+         147  0.000000000000000E+000
+         148  0.000000000000000E+000
+         149  0.000000000000000E+000
+         150  0.000000000000000E+000
+ Inside newxipolygenerator
+ just entered gmresEIGritz
+ starting while loop

@@ -1,0 +1,49 @@
+slurmstepd: error: *** JOB 5588711 ON c491-023 CANCELLED AT 2020-04-24T03:59:37 DUE TO TIME LIMIT ***
+[c491-023.stampede2.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job
+[c492-021.stampede2.tacc.utexas.edu:mpispawn_1][read_size] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c492-021.stampede2.tacc.utexas.edu:mpispawn_1][read_size] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c492-021.stampede2.tacc.utexas.edu:mpispawn_1][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c500-021.stampede2.tacc.utexas.edu:mpispawn_19][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c500-021.stampede2.tacc.utexas.edu:mpispawn_19][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c500-021.stampede2.tacc.utexas.edu:mpispawn_19][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c491-023.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c491-023.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c491-023.stampede2.tacc.utexas.edu:mpispawn_0][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c506-091 closed by remote host.
+[c506-081.stampede2.tacc.utexas.edu:mpispawn_28][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c506-081.stampede2.tacc.utexas.edu:mpispawn_28][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c506-081.stampede2.tacc.utexas.edu:mpispawn_28][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c492-054 closed by remote host.
+Connection to c492-083 closed by remote host.
+Connection to c499-131 closed by remote host.
+Connection to c492-081 closed by remote host.
+Connection to c492-103 closed by remote host.
+Connection to c500-014 closed by remote host.
+Connection to c499-123 closed by remote host.
+Connection to c499-013 closed by remote host.
+Connection to c500-024 closed by remote host.
+Connection to c500-022 closed by remote host.
+Connection to c500-064 closed by remote host.
+Connection to c500-073 closed by remote host.
+Connection to c500-013 closed by remote host.
+Connection to c492-021 closed by remote host.
+Connection to c506-124 closed by remote host.
+Connection to c506-084 closed by remote host.
+Connection to c506-092 closed by remote host.
+Connection to c500-012 closed by remote host.
+Connection to c499-093 closed by remote host.
+Connection to c500-003 closed by remote host.
+Connection to c492-104 closed by remote host.
+Connection to c506-074 closed by remote host.
+Connection to c506-083 closed by remote host.
+Connection to c500-072 closed by remote host.
+Connection to c506-082 closed by remote host.
+Connection to c500-011 closed by remote host.
+Connection to c500-021 closed by remote host.
+Connection to c500-031 closed by remote host.
+Connection to c500-002 closed by remote host.
+Connection to c506-081 closed by remote host.
+Connection to c500-001 closed by remote host.
+Connection to c499-103 closed by remote host.
+Connection to c500-071 closed by remote host.
+Connection to c506-123 closed by remote host.

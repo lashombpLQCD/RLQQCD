@@ -1,0 +1,15 @@
+cat: c481-121,c489-121,c491-123,c492-032,c496-[012,032],c497-134,c498-072,c499-[001,033,094,103,121],c500-[034,074],c501-[112,122,132],c502-[031,071,123-124],c503-003,c504-[003,012,132-133],c506-[071-072,083-084,091,111-114]: No such file or directory
+/tmp/slurmd/job4271522/slurm_script: line 22: num: command not found
+Requested processors: 
+Node(s):
+uniq: c481-121,c489-121,c491-123,c492-032,c496-[012,032],c497-134,c498-072,c499-[001,033,094,103,121],c500-[034,074],c501-[112,122,132],c502-[031,071,123-124],c503-003,c504-[003,012,132-133],c506-[071-072,083-084,091,111-114]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Mon Sep  2 12:50:09 CDT 2019
+
+srun: error: Invalid numeric value "-m" for number of tasks.
+
+Job finished at Mon Sep  2 12:50:09 CDT 2019
+
+Total Execution time: 0 seconds

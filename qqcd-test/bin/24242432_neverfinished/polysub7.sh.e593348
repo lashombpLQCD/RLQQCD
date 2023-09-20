@@ -1,0 +1,1752 @@
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/es.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/esps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/hfes.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/linearresidual.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/ns.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/pp4.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/pp7.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/pp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/ps.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/newpp.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/newhfespoly.dat’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/newpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/oldpp_noise-1.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/newpolysub24242432_main/scratch7/prepp_noise-1.LOG’: No such file or directory
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9A4  pseudolapack_mp_m        2559  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAAE  pseudolapack_mp_m        2561  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAAE  pseudolapack_mp_m        2561  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA93  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA93  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA96  pseudolapack_mp_m        2560  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA93  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A9B6  pseudolapack_mp_m        2546  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA7E  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA9A  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A6EF  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AA8D  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA8  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048AAA0  pseudolapack_mp_m        2560  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAAAF56D575  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAAAF0DA630  Unknown               Unknown  Unknown
+qqcd-testout7      000000000048A701  pseudolapack_mp_m        2556  pseudolapack.f90
+qqcd-testout7      000000000047491A  pseudolapack_mp_h         742  pseudolapack.f90
+qqcd-testout7      000000000046F381  pseudolapack_mp_e         119  pseudolapack.f90
+qqcd-testout7      000000000059CFAD  inverters_mp_gmre       19890  inverters.f90
+qqcd-testout7      00000000006CE817  disconloops_mp_ne        1869  disconloops.f90
+qqcd-testout7      000000000066ED4D  disconloops_mp_te        2861  disconloops.f90
+qqcd-testout7      000000000070F812  cfgsprops_mp_gene        1821  cfgsprops.f90
+qqcd-testout7      0000000000728064  MAIN__                    831  cfgspropsmain.f90
+qqcd-testout7      0000000000402312  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAAB1D83555  __libc_start_main     Unknown  Unknown
+qqcd-testout7      0000000000402219  Unknown               Unknown  Unknown
+[proxy:0:9@n024] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:9@n024] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:9@n024] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:9@n024] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:9@n024] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[proxy:0:6@n020] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:6@n020] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:6@n020] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:6@n020] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:6@n020] main (../../../../../src/pm/i_hydra/proxy/proxy.c:1035): error waiting for event
+[proxy:0:16@n041] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:16@n041] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:16@n041] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:16@n041] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:16@n041] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[proxy:0:20@n051] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:20@n051] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:20@n051] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:20@n051] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:20@n051] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[proxy:0:26@n058] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:26@n058] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:26@n058] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:26@n058] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:26@n058] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:34@n082] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:34@n082] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:34@n082] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:34@n082] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:34@n082] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[proxy:0:24@n056] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:24@n056] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:24@n056] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:24@n056] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:24@n056] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:30@n064] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:30@n064] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:30@n064] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:30@n064] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:30@n064] main (../../../../../src/pm/i_hydra/proxy/proxy.c:989): error waiting for event
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[mpiexec@n011] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:3@n014] HYD_sock_write (../../../../../src/pm/i_hydra/libhydra/sock/hydra_sock_intel.c:353): write error (Bad file descriptor)
+[proxy:0:3@n014] cmd_bcast_non_root (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:33): error reading command
+[proxy:0:3@n014] proxy_upstream_control_cb (../../../../../src/pm/i_hydra/proxy/proxy_cb.c:155): error forwarding cmd downstream
+[proxy:0:3@n014] HYDI_dmx_poll_wait_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:79): callback returned error status
+[proxy:0:3@n014] main (../../../../../src/pm/i_hydra/proxy/proxy.c:1035): error waiting for event

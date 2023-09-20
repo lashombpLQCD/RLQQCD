@@ -1,0 +1,26 @@
+cat: c487-[042,101,112],c488-094,c489-074,c491-111,c493-[002,033,053,061,072,083],c494-[021,092],c495-[083,113,124],c496-[001,011,042,111],c497-[012,021,051,074,081],c498-[004,011,053-054],c502-[004,011-012,071-073]: No such file or directory
+/tmp/slurmd/job4161486/slurm_script: line 22: num: command not found
+Requested processors: 
+Node(s):
+uniq: c487-[042,101,112],c488-094,c489-074,c491-111,c493-[002,033,053,061,072,083],c494-[021,092],c495-[083,113,124],c496-[001,011,042,111],c497-[012,021,051,074,081],c498-[004,011,053-054],c502-[004,011-012,071-073]: No such file or directory
+
+Cleaning scratch files
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/DUBLIN.OUT’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/es.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfes.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/ns.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfespoly.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp7.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/pp4.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/hfesps.dat’: No such file or directory
+rm: cannot remove ‘/work/00526/tg457765/qqcd/submethodsppminresdr/scratch1/esps.dat’: No such file or directory
+
+Job starting at Wed Aug 14 18:26:28 CDT 2019
+
+srun: error: Invalid numeric value "-machinefile" for number of tasks.
+
+Job finished at Wed Aug 14 18:26:28 CDT 2019
+
+Total Execution time: 0 seconds

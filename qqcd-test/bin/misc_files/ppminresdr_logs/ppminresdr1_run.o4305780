@@ -1,0 +1,443 @@
+
+Cleaning scratch files
+
+Job starting at Tue Sep 10 02:30:46 CDT 2019
+
+TACC:  Starting up job 4305780 
+TACC:  Setting up parallel environment for MVAPICH2+mpispawn. 
+TACC:  Starting parallel tasks... 
+ myid,cfgfile=           1 
+ cfgfiles/G00001001qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=           3 
+ myid,cfgfile=           2 
+ cfgfiles/G00001003qwilson-24-32-b6-new                                         
+ cfgfiles/G00001002qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          32 
+ myid,cfgfile=          33 
+ myid,cfgfile=          34 
+ cfgfiles/G00001032qwilson-24-32-b6-new                                         
+ cfgfiles/G00001033qwilson-24-32-b6-new                                         
+ myid,cfgfile=          35 
+                                                  
+                                                  
+ cfgfiles/G00001034qwilson-24-32-b6-new                                         
+ cfgfiles/G00001035qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         133 
+ myid,cfgfile=         135 
+ myid,cfgfile=         132 
+ myid,cfgfile=         134 
+ cfgfiles/G00001135qwilson-24-32-b6-new                                         
+ cfgfiles/G00001132qwilson-24-32-b6-new                                         
+ cfgfiles/G00001133qwilson-24-32-b6-new                                         
+ cfgfiles/G00001134qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          13 
+ myid,cfgfile=          15 
+ myid,cfgfile=          12 
+ myid,cfgfile=          14 
+ cfgfiles/G00001013qwilson-24-32-b6-new                                         
+ cfgfiles/G00001015qwilson-24-32-b6-new                                         
+ cfgfiles/G00001012qwilson-24-32-b6-new                                         
+ cfgfiles/G00001014qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=           6 
+ myid,cfgfile=           7 
+ myid,cfgfile=           5 
+ myid,cfgfile=           4 
+ cfgfiles/G00001006qwilson-24-32-b6-new                                         
+ cfgfiles/G00001007qwilson-24-32-b6-new                                         
+ cfgfiles/G00001005qwilson-24-32-b6-new                                         
+ cfgfiles/G00001004qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          22 
+ myid,cfgfile=          23 
+ cfgfiles/G00001023qwilson-24-32-b6-new                                         
+ cfgfiles/G00001022qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          21 
+ myid,cfgfile=          20 
+ cfgfiles/G00001021qwilson-24-32-b6-new                                         
+ cfgfiles/G00001020qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          11 
+ myid,cfgfile=          10 
+ myid,cfgfile=           9 
+ myid,cfgfile=           8 
+ cfgfiles/G00001011qwilson-24-32-b6-new                                         
+ cfgfiles/G00001010qwilson-24-32-b6-new                                         
+ cfgfiles/G00001009qwilson-24-32-b6-new                                         
+ cfgfiles/G00001008qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          46 
+ myid,cfgfile=          44 
+ myid,cfgfile=          47 
+ myid,cfgfile=          45 
+ cfgfiles/G00001046qwilson-24-32-b6-new                                         
+ cfgfiles/G00001044qwilson-24-32-b6-new                                         
+ cfgfiles/G00001047qwilson-24-32-b6-new                                         
+ cfgfiles/G00001045qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=         140 
+ myid,cfgfile=         141 
+ cfgfiles/G00001141qwilson-24-32-b6-new                                         
+ cfgfiles/G00001140qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         143 
+ myid,cfgfile=         142 
+ cfgfiles/G00001143qwilson-24-32-b6-new                                         
+ cfgfiles/G00001142qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          48 
+ myid,cfgfile=          49 
+ cfgfiles/G00001049qwilson-24-32-b6-new                                         
+ cfgfiles/G00001048qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          51 
+ myid,cfgfile=          50 
+ cfgfiles/G00001051qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001050qwilson-24-32-b6-new                                         
+                                                  
+ myid,cfgfile=         105 
+ myid,cfgfile=         107 
+ myid,cfgfile=         104 
+ myid,cfgfile=         106 
+ cfgfiles/G00001105qwilson-24-32-b6-new                                         
+ cfgfiles/G00001107qwilson-24-32-b6-new                                         
+ cfgfiles/G00001104qwilson-24-32-b6-new                                         
+ cfgfiles/G00001106qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=         137 
+ myid,cfgfile=         139 
+ myid,cfgfile=         136 
+ myid,cfgfile=         138 
+ cfgfiles/G00001137qwilson-24-32-b6-new                                         
+ cfgfiles/G00001139qwilson-24-32-b6-new                                         
+ cfgfiles/G00001136qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001138qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          57 
+ myid,cfgfile=          56 
+ cfgfiles/G00001056qwilson-24-32-b6-new                                         
+ cfgfiles/G00001057qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          59 
+ myid,cfgfile=          58 
+ cfgfiles/G00001059qwilson-24-32-b6-new                                         
+ cfgfiles/G00001058qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         101 
+ myid,cfgfile=         100 
+ cfgfiles/G00001101qwilson-24-32-b6-new                                         
+ cfgfiles/G00001100qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         103 
+ myid,cfgfile=         102 
+ cfgfiles/G00001103qwilson-24-32-b6-new                                         
+ cfgfiles/G00001102qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         120 
+ myid,cfgfile=         121 
+ cfgfiles/G00001120qwilson-24-32-b6-new                                         
+ cfgfiles/G00001121qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         122 
+ myid,cfgfile=         123 
+ cfgfiles/G00001122qwilson-24-32-b6-new                                         
+ cfgfiles/G00001123qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         117 
+ myid,cfgfile=         118 
+ myid,cfgfile=         116 
+ myid,cfgfile=         119 
+ cfgfiles/G00001117qwilson-24-32-b6-new                                         
+ cfgfiles/G00001118qwilson-24-32-b6-new                                         
+ cfgfiles/G00001116qwilson-24-32-b6-new                                         
+ cfgfiles/G00001119qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          63 
+ myid,cfgfile=          62 
+ myid,cfgfile=          61 
+ myid,cfgfile=          60 
+ cfgfiles/G00001062qwilson-24-32-b6-new                                         
+ cfgfiles/G00001063qwilson-24-32-b6-new                                         
+ cfgfiles/G00001061qwilson-24-32-b6-new                                         
+ cfgfiles/G00001060qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          40 
+ myid,cfgfile=          41 
+ cfgfiles/G00001040qwilson-24-32-b6-new                                         
+ cfgfiles/G00001041qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          42 
+ myid,cfgfile=          43 
+ cfgfiles/G00001042qwilson-24-32-b6-new                                         
+ cfgfiles/G00001043qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          29 
+ myid,cfgfile=          30 
+ cfgfiles/G00001029qwilson-24-32-b6-new                                         
+ cfgfiles/G00001030qwilson-24-32-b6-new                                         
+ myid,cfgfile=          28 
+                                                  
+                                                  
+ myid,cfgfile=          31 
+ cfgfiles/G00001028qwilson-24-32-b6-new                                         
+ cfgfiles/G00001031qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         124 
+ myid,cfgfile=         127 
+ myid,cfgfile=         126 
+ myid,cfgfile=         125 
+ cfgfiles/G00001124qwilson-24-32-b6-new                                         
+ cfgfiles/G00001127qwilson-24-32-b6-new                                         
+ cfgfiles/G00001125qwilson-24-32-b6-new                                         
+ cfgfiles/G00001126qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          96 
+ myid,cfgfile=          99 
+ myid,cfgfile=          98 
+ myid,cfgfile=          97 
+ cfgfiles/G00001096qwilson-24-32-b6-new                                         
+ cfgfiles/G00001099qwilson-24-32-b6-new                                         
+ cfgfiles/G00001098qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ cfgfiles/G00001097qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          17 
+ myid,cfgfile=          19 
+ myid,cfgfile=          18 
+ myid,cfgfile=          16 
+ cfgfiles/G00001017qwilson-24-32-b6-new                                         
+ cfgfiles/G00001019qwilson-24-32-b6-new                                         
+ cfgfiles/G00001018qwilson-24-32-b6-new                                         
+ cfgfiles/G00001016qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          73 
+ myid,cfgfile=          72 
+ cfgfiles/G00001073qwilson-24-32-b6-new                                         
+ cfgfiles/G00001072qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          75 
+ myid,cfgfile=          74 
+ cfgfiles/G00001075qwilson-24-32-b6-new                                         
+ cfgfiles/G00001074qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          27 
+ myid,cfgfile=          26 
+ myid,cfgfile=          25 
+ myid,cfgfile=          24 
+ cfgfiles/G00001027qwilson-24-32-b6-new                                         
+ cfgfiles/G00001026qwilson-24-32-b6-new                                         
+ cfgfiles/G00001025qwilson-24-32-b6-new                                         
+ cfgfiles/G00001024qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=         108 
+ myid,cfgfile=         111 
+ myid,cfgfile=         110 
+ myid,cfgfile=         109 
+ cfgfiles/G00001108qwilson-24-32-b6-new                                         
+ cfgfiles/G00001111qwilson-24-32-b6-new                                         
+ cfgfiles/G00001110qwilson-24-32-b6-new                                         
+ cfgfiles/G00001109qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          93 
+ myid,cfgfile=          92 
+ myid,cfgfile=          95 
+ myid,cfgfile=          94 
+ cfgfiles/G00001093qwilson-24-32-b6-new                                         
+ cfgfiles/G00001092qwilson-24-32-b6-new                                         
+ cfgfiles/G00001095qwilson-24-32-b6-new                                         
+ cfgfiles/G00001094qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          84 
+ myid,cfgfile=          86 
+ myid,cfgfile=          87 
+ cfgfiles/G00001084qwilson-24-32-b6-new                                         
+ myid,cfgfile=          85 
+ cfgfiles/G00001086qwilson-24-32-b6-new                                         
+ cfgfiles/G00001087qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001085qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          77 
+ myid,cfgfile=          76 
+ cfgfiles/G00001076qwilson-24-32-b6-new                                         
+ cfgfiles/G00001077qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          79 
+ myid,cfgfile=          78 
+ cfgfiles/G00001079qwilson-24-32-b6-new                                         
+ cfgfiles/G00001078qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=         112 
+ myid,cfgfile=         113 
+ myid,cfgfile=         114 
+ myid,cfgfile=         115 
+ cfgfiles/G00001113qwilson-24-32-b6-new                                         
+ cfgfiles/G00001114qwilson-24-32-b6-new                                         
+ cfgfiles/G00001112qwilson-24-32-b6-new                                         
+ cfgfiles/G00001115qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          88 
+ myid,cfgfile=          89 
+ myid,cfgfile=          91 
+ myid,cfgfile=          90 
+ cfgfiles/G00001089qwilson-24-32-b6-new                                         
+ cfgfiles/G00001088qwilson-24-32-b6-new                                         
+ cfgfiles/G00001091qwilson-24-32-b6-new                                         
+ cfgfiles/G00001090qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=         128 
+ myid,cfgfile=         129 
+ myid,cfgfile=         130 
+ myid,cfgfile=         131 
+ cfgfiles/G00001128qwilson-24-32-b6-new                                         
+ cfgfiles/G00001129qwilson-24-32-b6-new                                         
+ cfgfiles/G00001130qwilson-24-32-b6-new                                         
+ cfgfiles/G00001131qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          80 
+ myid,cfgfile=          81 
+ myid,cfgfile=          83 
+ myid,cfgfile=          82 
+ cfgfiles/G00001080qwilson-24-32-b6-new                                         
+ cfgfiles/G00001081qwilson-24-32-b6-new                                         
+ cfgfiles/G00001083qwilson-24-32-b6-new                                         
+ cfgfiles/G00001082qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          37 
+ myid,cfgfile=          38 
+ myid,cfgfile=          36 
+ cfgfiles/G00001037qwilson-24-32-b6-new                                         
+ myid,cfgfile=          39 
+ cfgfiles/G00001038qwilson-24-32-b6-new                                         
+ cfgfiles/G00001036qwilson-24-32-b6-new                                         
+                                                  
+ cfgfiles/G00001039qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          69 
+ myid,cfgfile=          71 
+ myid,cfgfile=          70 
+ myid,cfgfile=          68 
+ cfgfiles/G00001069qwilson-24-32-b6-new                                         
+ cfgfiles/G00001071qwilson-24-32-b6-new                                         
+ cfgfiles/G00001070qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ cfgfiles/G00001068qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+ myid,cfgfile=          66 
+ myid,cfgfile=          67 
+ myid,cfgfile=          64 
+ myid,cfgfile=          65 
+ cfgfiles/G00001066qwilson-24-32-b6-new                                         
+ cfgfiles/G00001064qwilson-24-32-b6-new                                         
+ cfgfiles/G00001067qwilson-24-32-b6-new                                         
+ cfgfiles/G00001065qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+                                                  
+ myid,cfgfile=          53 
+ cfgfiles/G00001053qwilson-24-32-b6-new                                         
+ myid,cfgfile=          54 
+ myid,cfgfile=          52 
+ myid,cfgfile=          55 
+                                                  
+ cfgfiles/G00001054qwilson-24-32-b6-new                                         
+ cfgfiles/G00001052qwilson-24-32-b6-new                                         
+ cfgfiles/G00001055qwilson-24-32-b6-new                                         
+                                                  
+                                                  
+                                                  
+TACC:  MPI job exited with code: 1 
+TACC:  Shutdown complete. Exiting. 
+
+Job finished at Tue Sep 10 02:30:50 CDT 2019
+
+Total Execution time: 4 seconds

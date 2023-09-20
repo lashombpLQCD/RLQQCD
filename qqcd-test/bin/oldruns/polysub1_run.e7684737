@@ -1,0 +1,154 @@
+forrtl: Input/output error
+forrtl: severe (108): cannot stat file, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010996qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC768983572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AC7689A778F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC76AEAE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Input/output error
+forrtl: Cannot send after transport endpoint shutdown
+forrtl: Cannot send after transport endpoint shutdown
+forrtl: Cannot send after transport endpoint shutdown
+forrtl: Cannot send after transport endpoint shutdown
+forrtl: Cannot send after transport endpoint shutdown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010820qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B60B81E8572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B60B820C78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B60BA7133D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010821qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC045C65572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AC045C8978F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC0481903D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010819qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B01BD8C2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B01BD8E678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B01BFDED3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010823qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFB820D2572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AFB820F678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFB845FD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010824qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ACC9D16B572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ACC9D18F78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACC9F6963D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000010822qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ACDF1A81572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ACDF1AA578F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACDF3FAC3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: Input/output error
+forrtl: Input/output error
+forrtl: Input/output error
+forrtl: Input/output error
+forrtl: Input/output error
+forrtl: Input/output error
+forrtl: Input/output error
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011051qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B546E384572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B546E3A878F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B54708AF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011056qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6218EA6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B6218ECA78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B621B3D13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011050qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8C1EFC6572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B8C1EFEA78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8C214F13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011053qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD76F152572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AD76F17678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD77167D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011054qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7EB8406572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B7EB842A78F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7EBA9313D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011055qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAD9C85F572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002AAD9C88378F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAD9ED8A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown
+forrtl: severe (30): open failure, unit 9, file /work2/00526/tg457765/stampede2/qqcd/newpolysub/scratch1/cfgfiles/G000011052qwilson-24-32-b6-new
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4597792572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002B45977B678F  for_open              Unknown  Unknown
+qqcd-testout       000000000042C26F  gaugetools_mp_gfr        1320  gaugetools.f90
+qqcd-testout       00000000009FE99E  cfgsprops_mp_gene         679  cfgsprops.f90
+qqcd-testout       0000000000A29494  MAIN__                    871  cfgspropsmain.f90
+qqcd-testout       000000000040268E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4599CBD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402579  Unknown               Unknown  Unknown

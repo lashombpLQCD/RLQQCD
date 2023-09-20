@@ -1,0 +1,3 @@
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/EIGEN_VALS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/CFGSPROPS.LOG’: No such file or directory
+rm: cannot remove ‘/data/lashombp/qqcd/preconditioning_4444/scratch1/DUBLIN.OUT’: No such file or directory

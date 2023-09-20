@@ -1,0 +1,68 @@
+rm: cannot remove ‘/work/00526/tg457765/stampede2/qqcd/submethodsppminresdr/scratch1/residual.dat’: No such file or directory
+slurmstepd: error: *** JOB 5588049 ON c476-093 CANCELLED AT 2020-04-24T00:18:48 DUE TO TIME LIMIT ***
+[c476-093.stampede2.tacc.utexas.edu:mpirun_rsh][signal_processor] Caught signal 15, killing job
+[c479-003.stampede2.tacc.utexas.edu:mpispawn_3][read_size] Unexpected End-Of-File on file descriptor 11. MPI process died?
+[c479-003.stampede2.tacc.utexas.edu:mpispawn_3][read_size] Unexpected End-Of-File on file descriptor 11. MPI process died?
+[c479-003.stampede2.tacc.utexas.edu:mpispawn_3][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c476-093.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c476-093.stampede2.tacc.utexas.edu:mpispawn_0][read_size] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c476-093.stampede2.tacc.utexas.edu:mpispawn_0][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c484-062.stampede2.tacc.utexas.edu:mpispawn_19][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c484-062.stampede2.tacc.utexas.edu:mpispawn_19][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c484-062.stampede2.tacc.utexas.edu:mpispawn_19][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c483-131.stampede2.tacc.utexas.edu:mpispawn_18][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-131.stampede2.tacc.utexas.edu:mpispawn_18][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-131.stampede2.tacc.utexas.edu:mpispawn_18][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c484-084.stampede2.tacc.utexas.edu:mpispawn_20][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c484-084.stampede2.tacc.utexas.edu:mpispawn_20][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c484-084.stampede2.tacc.utexas.edu:mpispawn_20][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c487-002.stampede2.tacc.utexas.edu:mpispawn_23][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c487-002.stampede2.tacc.utexas.edu:mpispawn_23][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c487-002.stampede2.tacc.utexas.edu:mpispawn_23][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c487-073.stampede2.tacc.utexas.edu:mpispawn_24][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c487-073.stampede2.tacc.utexas.edu:mpispawn_24][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c487-073.stampede2.tacc.utexas.edu:mpispawn_24][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c483-122.stampede2.tacc.utexas.edu:mpispawn_17][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-122.stampede2.tacc.utexas.edu:mpispawn_17][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c483-122.stampede2.tacc.utexas.edu:mpispawn_17][handle_mt_peer] Error while reading PMI socket. MPI process died?
+[c486-053.stampede2.tacc.utexas.edu:mpispawn_22][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c486-053.stampede2.tacc.utexas.edu:mpispawn_22][read_size] Unexpected End-Of-File on file descriptor 5. MPI process died?
+[c486-053.stampede2.tacc.utexas.edu:mpispawn_22][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c500-121 closed by remote host.
+Connection to c479-002 closed by remote host.
+Connection to c485-091 closed by remote host.
+[c479-001.stampede2.tacc.utexas.edu:mpispawn_1][read_size] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c479-001.stampede2.tacc.utexas.edu:mpispawn_1][read_size] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c479-001.stampede2.tacc.utexas.edu:mpispawn_1][handle_mt_peer] Error while reading PMI socket. MPI process died?
+Connection to c479-031 closed by remote host.
+Connection to c479-082 closed by remote host.
+Connection to c487-074 closed by remote host.
+Connection to c479-062 closed by remote host.
+Connection to c479-053 closed by remote host.
+Connection to c479-061 closed by remote host.
+Connection to c483-131 closed by remote host.
+Connection to c480-003 closed by remote host.
+Connection to c479-094 closed by remote host.
+Connection to c501-044 closed by remote host.
+Connection to c479-001 closed by remote host.
+Connection to c500-084 closed by remote host.
+Connection to c500-133 closed by remote host.
+Connection to c487-092 closed by remote host.
+Connection to c482-044 closed by remote host.
+Connection to c482-091 closed by remote host.
+Connection to c487-002 closed by remote host.
+Connection to c481-084 closed by remote host.
+Connection to c486-053 closed by remote host.
+Connection to c501-052 closed by remote host.
+Connection to c481-053 closed by remote host.
+Connection to c483-122 closed by remote host.
+Connection to c484-084 closed by remote host.
+Connection to c484-062 closed by remote host.
+Connection to c500-103 closed by remote host.
+Connection to c482-092 closed by remote host.
+Connection to c501-104 closed by remote host.
+Connection to c479-003 closed by remote host.
+Connection to c500-101 closed by remote host.
+Connection to c479-024 closed by remote host.
+Connection to c487-073 closed by remote host.
+Connection to c501-084 closed by remote host.

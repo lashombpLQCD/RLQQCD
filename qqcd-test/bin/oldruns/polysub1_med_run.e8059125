@@ -1,0 +1,10 @@
+forrtl: File exists
+forrtl: severe (10): cannot overwrite existing file, unit 9, file /work2/00526/tg457765/stampede2/qqcd/polysub12121216_10noises/scratch1/EIGEN_VALS.LOG
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ADA72C31572  for__io_return        Unknown  Unknown
+libifcoremt.so.5   00002ADA72C5578F  for_open              Unknown  Unknown
+qqcd-testout       0000000000A56F29  cfgsprops_mp_gene         517  cfgsprops.f90
+qqcd-testout       0000000000A82522  MAIN__                    875  cfgspropsmain.f90
+qqcd-testout       00000000004028BE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADA7515C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       00000000004027A9  Unknown               Unknown  Unknown

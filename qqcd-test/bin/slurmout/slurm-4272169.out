@@ -1,0 +1,15 @@
+c476-032,c477-[043,113],c478-[041,043,052,062,072],c479-[014,084,092,114],c480-[001,014,034,082-083,093,123],c481-[014,123],c482-[034,081,093],c483-[053,064],c488-041,c494-134,c495-[014,034,121],c502-[014,021-024]
+Finished outputting nodelist
+Requested processors: 
+Node(s):
+uniq: c476-032,c477-[043,113],c478-[041,043,052,062,072],c479-[014,084,092,114],c480-[001,014,034,082-083,093,123],c481-[014,123],c482-[034,081,093],c483-[053,064],c488-041,c494-134,c495-[014,034,121],c502-[014,021-024]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Mon Sep  2 15:14:03 CDT 2019
+
+srun: error: Invalid numeric value "-m" for number of tasks.
+
+Job finished at Mon Sep  2 15:14:03 CDT 2019
+
+Total Execution time: 0 seconds

@@ -1,0 +1,2121 @@
+rm: cannot remove ‘/work/00526/tg457765/stampede2/qqcd/submethodsppminresdr/scratch1/linearresidual.dat’: No such file or directory
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABD7FA3F3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ABD81F425D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABD823753D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B85059C33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8507EC65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B85082F93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B012F69A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0131B9D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0131FD03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC03CF5E3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC03F4615D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC03F8943D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6E2F9523BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B6E31E555D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6E322883D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC2403663BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC2428695D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC242C9C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC88FC543BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC8921575D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC89258A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF7C4D473BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF7C724A5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF7C767D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABDE45A33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ABDE6AA65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABDE6ED93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B59F7AEB3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B59F9FEE5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B59FA4213D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B72102AF3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B72127B25D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7212BE53D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B55B982D3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B55BBD305D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B55BC1633D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B309B32C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B309D82F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B309DC623D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4C439283BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B4C45E2B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4C4625E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B77EA7D93BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B77ECCDC5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B77ED10F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4D775883BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B4D79A8B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4D79EBE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFC080503BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFC0A5535D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFC0A9863D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ADBD0D1A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ADBD321D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ADBD36503D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC39C3463BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC39E8495D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC39EC7C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B2F5A6B83BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2F5CBBB5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2F5CFEE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B533CDA33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B533F2A65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B533F6D93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB1A402D3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB1A65305D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB1A69633D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA8513523BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA8538555D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA853C883D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B62663B23BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B62688B55D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6268CE83D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AACAD2FA3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AACAF7FD5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AACAFC303D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B85D56323BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B85D7B355D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B85D7F683D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF3488053BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF34AD085D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF34B13B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA294F623BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA2974655D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA2978983D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6E19F313BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B6E1C4345D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6E1C8673D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF393B173BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF39601A5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF39644D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC3FDB8C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC40008F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC4004C23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AEA9DFF43BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AEAA04F75D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEAA092A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8EE7A293BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8EE9F2C5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8EEA35F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B27BB41E3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B27BD9215D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B27BDD543D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3CECCEC3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3CEF1EF5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3CEF6223D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B696714E3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B69696515D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6969A843D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABED36573BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ABED5B5A5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABED5F8D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B019A1A33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B019C6A65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B019CAD93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B76BE2183BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B76C071B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B76C0B4E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B199E8CB3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B19A0DCE5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B19A12013D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA4082603BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA40A7635D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA40AB963D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3B9BF2B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3B9E42E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3B9E8613D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE3BBAB33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE3BDFB65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE3BE3E93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAEDD9083BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAEDFE0B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAEE023E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1BAC7973BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1BAEC9A5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1BAF0CD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B37BB4443BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B37BD9475D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B37BDD7A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5912B7C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B591507F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B59154B23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B15EE86E3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B15F0D715D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B15F11A43D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B47AA6AC3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B47ACBAF5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B47ACFE23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B61924AA3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B61949AD5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6194DE03D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B20131CD3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B20156D05D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2015B033D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B118E3A33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B11908A65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1190CD93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B467501F3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B46775225D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B46779553D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB8C482A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB8C6D2D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB8C71603D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA6162A13BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA6187A45D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA618BD73D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4F6A3513BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B4F6C8545D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4F6CC873D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAFCC8583BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAFCED5B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAFCF18E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AEDA3DA53BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AEDA62A85D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEDA66DB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA0C6F153BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA0C94185D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA0C984B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFE81E343BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFE843375D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFE8476A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B07C0CC43BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B07C31C75D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B07C35FA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B183A8363BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B183CD395D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B183D16C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AC3109643BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AC312E675D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AC31329A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B89463BB3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B89488BE5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8948CF13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB5C21B23BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB5C46B55D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB5C4AE83D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B89F4FC93BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B89F74CC5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B89F78FF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3FE0DF13BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3FE32F45D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3FE37273D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7479F603BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B747C4635D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B747C8963D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B84489E93BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B844AEEC5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B844B31F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B97297993BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B972BC9C5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B972C0CF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD4492C33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD44B7C65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD44BBF93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B09B48663BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B09B6D695D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B09B719C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE659B1B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE65C01E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE65C4513D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B51871343BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B51896375D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5189A6A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B52B48E13BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B52B6DE45D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B52B72173D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B56F43F63BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B56F68F95D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B56F6D2C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B70ABE7D3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B70AE3805D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B70AE7B33D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA6B68433BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA6B8D465D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA6B91793D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3D24BB93BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3D270BC5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3D274EF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B489F4813BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B48A19845D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B48A1DB73D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B71FD53A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B71FFA3D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B71FFE703D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B877156B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8773A6E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8773EA13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B646E6DC3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B6470BDF5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B64710123D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B90C47883BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B90C6C8B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B90C70BE3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B866F2B43BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B86717B75D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8671BEA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8CC6BC33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8CC90C65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8CC94F93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5A19F043BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B5A1C4075D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5A1C83A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B313FE933BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B31423965D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B31427C93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD0C9EDB3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD0CC3DE5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD0CC8113D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B337A8113BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B337CD145D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B337D1473D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA08DC363BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA0901395D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA09056C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE44E5943BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE450A975D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE450ECA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ACD0A4553BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ACD0C9585D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ACD0CD8B3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B7B0EE223BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B7B113255D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7B117583D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3A8D1793BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3A8F67C5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3A8FAAF3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B86794A53BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B867B9A85D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B867BDDB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B15107EA3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1512CED5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B15131203D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B59FDDC63BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B5A002C95D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5A006FC3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B39B292A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B39B4E2D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B39B52603D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B4F365F03BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B4F38AF35D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4F38F263D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE72A9423BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE72CE455D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE72D2783D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B72E74803BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B72E99835D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B72E9DB63D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB9B146B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB9B396E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB9B3DA13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1C1C01E3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1C1E5215D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1C1E9543D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AEE4A8DA3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AEE4CDDD5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AEE4D2103D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA94FFA13BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA9524A45D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA9528D73D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AE5048403BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AE506D435D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE5071763D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B067E8083BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0680D0B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B068113E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AAB67C1F3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AAB6A1225D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AAB6A5553D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1C526463BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1C54B495D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1C54F7C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B04A790B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B04A9E0E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B04AA2413D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABA826293BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ABA84B2C5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABA84F5F3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c473-104.stampede2.tacc.utexas.edu:mpispawn_30][readline] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c473-104.stampede2.tacc.utexas.edu:mpispawn_30][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c473-104.stampede2.tacc.utexas.edu:mpispawn_30][child_handler] MPI process (rank: 120, pid: 171405) exited with status 174
+[c473-132.stampede2.tacc.utexas.edu:mpispawn_33][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c473-132.stampede2.tacc.utexas.edu:mpispawn_33][mtpmi_processops] Error while reading PMI socket. MPI process died?
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B77C7E503BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B77CA3535D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B77CA7863D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFAAAC7E3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFAAD1815D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AFAAD5B43D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][readline] Unexpected End-Of-File on file descriptor 16. MPI process died?
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c473-132.stampede2.tacc.utexas.edu:mpispawn_33][child_handler] MPI process (rank: 133, pid: 242881) exited with status 174
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 9, pid: 54187) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA11311D3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA1156205D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002BA115A533D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][readline] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][child_handler] MPI process (rank: 56, pid: 49384) exited with status 174
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][child_handler] MPI process (rank: 137, pid: 262993) exited with status 174
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][child_handler] MPI process (rank: 76, pid: 2747) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3DF3D5C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3DF625F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3DF66923D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][child_handler] MPI process (rank: 73, pid: 13709) exited with status 174
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][child_handler] MPI process (rank: 80, pid: 59253) exited with status 174
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][child_handler] MPI process (rank: 31, pid: 111798) exited with status 174
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][child_handler] MPI process (rank: 106, pid: 168316) exited with status 174
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][child_handler] MPI process (rank: 43, pid: 203299) exited with status 174
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][child_handler] MPI process (rank: 60, pid: 113697) exited with status 174
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][child_handler] MPI process (rank: 109, pid: 241273) exited with status 174
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][readline] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][child_handler] MPI process (rank: 53, pid: 218628) exited with status 174
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 15. MPI process died?
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][child_handler] MPI process (rank: 113, pid: 60341) exited with status 174
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][mtpmi_processops] Error while reading PMI socket. MPI process died?
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B775FD8B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B776228E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B77626C13D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][child_handler] MPI process (rank: 32, pid: 120440) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD2AC74B3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD2AEC4E5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD2AF0813D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0A5FF543BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0A624575D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0A6288A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][child_handler] MPI process (rank: 20, pid: 53651) exited with status 174
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 3, pid: 204907) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF65505A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF65755D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF6579903D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1D636723BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1D65B755D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1D65FA83D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB04159C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB043A9F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AB043ED23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][readline] Unexpected End-Of-File on file descriptor 12. MPI process died?
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][child_handler] MPI process (rank: 25, pid: 123505) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B2E8D0463BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B2E8F5495D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B2E8F97C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF3C50B03BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF3C75B35D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF3C79E63D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABD3481C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ABD36D1F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABD371523D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1DFC81D3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1DFED205D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1DFF1533D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][readline] Unexpected End-Of-File on file descriptor 17. MPI process died?
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][mtpmi_processops] Error while reading PMI socket. MPI process died?
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9684D4C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B968724F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B96876823D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][child_handler] MPI process (rank: 19, pid: 133531) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8DD61C43BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8DD86C75D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B8DD8AFA3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c435-054.stampede2.tacc.utexas.edu:mpispawn_21][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c435-054.stampede2.tacc.utexas.edu:mpispawn_21][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 7, pid: 205614) exited with status 174
+[c471-094.stampede2.tacc.utexas.edu:mpispawn_24][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c471-094.stampede2.tacc.utexas.edu:mpispawn_24][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c473-104.stampede2.tacc.utexas.edu:mpispawn_30][child_handler] MPI process (rank: 121, pid: 171406) exited with status 174
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c435-054.stampede2.tacc.utexas.edu:mpispawn_21][child_handler] MPI process (rank: 86, pid: 76984) exited with status 174
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][child_handler] MPI process (rank: 91, pid: 59439) exited with status 174
+[c471-094.stampede2.tacc.utexas.edu:mpispawn_24][child_handler] MPI process (rank: 97, pid: 37695) exited with status 174
+[c473-132.stampede2.tacc.utexas.edu:mpispawn_33][child_handler] MPI process (rank: 132, pid: 242880) exited with status 174
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 8, pid: 54186) exited with status 174
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][child_handler] MPI process (rank: 70, pid: 142039) exited with status 174
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][child_handler] MPI process (rank: 57, pid: 49385) exited with status 174
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][child_handler] MPI process (rank: 138, pid: 262994) exited with status 174
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][child_handler] MPI process (rank: 78, pid: 2749) exited with status 174
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][child_handler] MPI process (rank: 143, pid: 37913) exited with status 174
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][child_handler] MPI process (rank: 81, pid: 59254) exited with status 174
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][child_handler] MPI process (rank: 72, pid: 13708) exited with status 174
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][child_handler] MPI process (rank: 105, pid: 168315) exited with status 174
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][child_handler] MPI process (rank: 28, pid: 111795) exited with status 174
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][child_handler] MPI process (rank: 40, pid: 203296) exited with status 174
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][readline] Unexpected End-Of-File on file descriptor 15. MPI process died?
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][child_handler] MPI process (rank: 108, pid: 241272) exited with status 174
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][child_handler] MPI process (rank: 62, pid: 113699) exited with status 174
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][child_handler] MPI process (rank: 54, pid: 218629) exited with status 174
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 14, pid: 71879) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD2585513BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD25AA545D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AD25AE873D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9256EFD3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B92594005D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B92598333D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][child_handler] MPI process (rank: 112, pid: 60340) exited with status 174
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][child_handler] MPI process (rank: 33, pid: 120441) exited with status 174
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 1, pid: 204905) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B6DA52343BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B6DA77375D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6DA7B6A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B57D182A3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B57D3D2D5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B57D41603D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1201C483BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B120414B5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B120457E3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B770DFE73BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B77104EA5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B771091D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][child_handler] MPI process (rank: 24, pid: 123504) exited with status 174
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][child_handler] MPI process (rank: 21, pid: 53652) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0FD7B773BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0FDA07A5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0FDA4AD3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF4DC77C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF4DEC7F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF4DF0B23D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002ABF00FB33BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002ABF034B65D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002ABF038E93D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B57CE4B53BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B57D09B85D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B57D0DEB3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B3B3E4143BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B3B409175D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B3B40D4A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B0B4AB303BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B0B4D0335D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B0B4D4663D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B5D838F43BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B5D85DF75D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5D8622A3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][child_handler] MPI process (rank: 16, pid: 133528) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B852EC573BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B853115A5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B853158D3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c473-104.stampede2.tacc.utexas.edu:mpispawn_30][child_handler] MPI process (rank: 123, pid: 171408) exited with status 174
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 4, pid: 205611) exited with status 174
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9FE7A163BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B9FE9F195D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9FEA34C3D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B407993C3BC  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B407BE3F5D0  Unknown               Unknown  Unknown
+qqcd-testout       00000000005901BB  inverters_mp_powe       17943  inverters.f90
+qqcd-testout       000000000057BB0B  inverters_mp_ppmi       13613  inverters.f90
+qqcd-testout       00000000006AA4E0  disconloops_mp_ei        2659  disconloops.f90
+qqcd-testout       0000000000670732  disconloops_mp_te        2203  disconloops.f90
+qqcd-testout       00000000006F8A64  cfgsprops_mp_gene        1763  cfgsprops.f90
+qqcd-testout       0000000000711BA4  MAIN__                    782  cfgspropsmain.f90
+qqcd-testout       00000000004025AE  Unknown               Unknown  Unknown
+libc-2.17.so       00002B407C2723D5  __libc_start_main     Unknown  Unknown
+qqcd-testout       0000000000402499  Unknown               Unknown  Unknown
+[c435-054.stampede2.tacc.utexas.edu:mpispawn_21][child_handler] MPI process (rank: 84, pid: 76982) exited with status 174
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][child_handler] MPI process (rank: 88, pid: 59436) exited with status 174
+[c471-094.stampede2.tacc.utexas.edu:mpispawn_24][child_handler] MPI process (rank: 96, pid: 37694) exited with status 174
+[c473-132.stampede2.tacc.utexas.edu:mpispawn_33][child_handler] MPI process (rank: 135, pid: 242883) exited with status 174
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][readline] Unexpected End-Of-File on file descriptor 9. MPI process died?
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][child_handler] MPI process (rank: 58, pid: 49386) exited with status 174
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 10, pid: 54188) exited with status 174
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][child_handler] MPI process (rank: 68, pid: 142037) exited with status 174
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][child_handler] MPI process (rank: 79, pid: 2750) exited with status 174
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][child_handler] MPI process (rank: 139, pid: 262995) exited with status 174
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][child_handler] MPI process (rank: 140, pid: 37910) exited with status 174
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][child_handler] MPI process (rank: 83, pid: 59256) exited with status 174
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][child_handler] MPI process (rank: 75, pid: 13711) exited with status 174
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][child_handler] MPI process (rank: 67, pid: 74241) exited with status 174
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][child_handler] MPI process (rank: 30, pid: 111797) exited with status 174
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][child_handler] MPI process (rank: 107, pid: 168317) exited with status 174
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][child_handler] MPI process (rank: 42, pid: 203298) exited with status 174
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][child_handler] MPI process (rank: 63, pid: 113700) exited with status 174
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][child_handler] MPI process (rank: 55, pid: 218630) exited with status 174
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][child_handler] MPI process (rank: 110, pid: 241274) exited with status 174
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][child_handler] MPI process (rank: 114, pid: 60342) exited with status 174
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 12, pid: 71877) exited with status 174
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 2, pid: 204906) exited with status 174
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][child_handler] MPI process (rank: 34, pid: 120442) exited with status 174
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][child_handler] MPI process (rank: 22, pid: 53653) exited with status 174
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][child_handler] MPI process (rank: 27, pid: 123507) exited with status 174
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][child_handler] MPI process (rank: 18, pid: 133530) exited with status 174
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][child_handler] MPI process (rank: 50, pid: 55988) exited with status 174
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 6, pid: 205613) exited with status 174
+[c435-054.stampede2.tacc.utexas.edu:mpispawn_21][child_handler] MPI process (rank: 87, pid: 76985) exited with status 174
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][child_handler] MPI process (rank: 89, pid: 59437) exited with status 174
+[c471-094.stampede2.tacc.utexas.edu:mpispawn_24][child_handler] MPI process (rank: 98, pid: 37696) exited with status 174
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][child_handler] MPI process (rank: 71, pid: 142040) exited with status 174
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][child_handler] MPI process (rank: 141, pid: 37911) exited with status 174
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][child_handler] MPI process (rank: 64, pid: 74238) exited with status 174
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][readline] Unexpected End-Of-File on file descriptor 6. MPI process died?
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 15, pid: 71880) exited with status 174
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][child_handler] MPI process (rank: 119, pid: 96712) exited with status 174
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][child_handler] MPI process (rank: 124, pid: 66914) exited with status 174
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][child_handler] MPI process (rank: 47, pid: 52381) exited with status 174
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][child_handler] MPI process (rank: 48, pid: 55986) exited with status 174
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][child_handler] MPI process (rank: 66, pid: 74240) exited with status 174
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][readline] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][child_handler] MPI process (rank: 131, pid: 226778) exited with status 174
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][child_handler] MPI process (rank: 94, pid: 79404) exited with status 174
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][child_handler] MPI process (rank: 116, pid: 96709) exited with status 174
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][child_handler] MPI process (rank: 126, pid: 66916) exited with status 174
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][readline] Unexpected End-Of-File on file descriptor 7. MPI process died?
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][readline] Unexpected End-Of-File on file descriptor 8. MPI process died?
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][child_handler] MPI process (rank: 101, pid: 104615) exited with status 174
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][child_handler] MPI process (rank: 44, pid: 52378) exited with status 174
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][child_handler] MPI process (rank: 39, pid: 214245) exited with status 174
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][child_handler] MPI process (rank: 49, pid: 55987) exited with status 174
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][child_handler] MPI process (rank: 128, pid: 226775) exited with status 174
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][child_handler] MPI process (rank: 92, pid: 79402) exited with status 174
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][child_handler] MPI process (rank: 118, pid: 96711) exited with status 174
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][child_handler] MPI process (rank: 127, pid: 66917) exited with status 174
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][child_handler] MPI process (rank: 100, pid: 104614) exited with status 174
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][child_handler] MPI process (rank: 46, pid: 52380) exited with status 174
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][child_handler] MPI process (rank: 36, pid: 214242) exited with status 174
+[c473-104.stampede2.tacc.utexas.edu:mpispawn_30][child_handler] MPI process (rank: 122, pid: 171407) exited with status 174
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][child_handler] MPI process (rank: 59, pid: 49387) exited with status 174
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][child_handler] MPI process (rank: 136, pid: 262992) exited with status 174
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][child_handler] MPI process (rank: 74, pid: 13710) exited with status 174
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][child_handler] MPI process (rank: 11, pid: 54189) exited with status 174
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][child_handler] MPI process (rank: 41, pid: 203297) exited with status 174
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][child_handler] MPI process (rank: 77, pid: 2748) exited with status 174
+[c473-132.stampede2.tacc.utexas.edu:mpispawn_33][child_handler] MPI process (rank: 134, pid: 242882) exited with status 174
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][child_handler] MPI process (rank: 82, pid: 59255) exited with status 174
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][child_handler] MPI process (rank: 104, pid: 168314) exited with status 174
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][child_handler] MPI process (rank: 23, pid: 53654) exited with status 174
+[c471-094.stampede2.tacc.utexas.edu:mpispawn_24][child_handler] MPI process (rank: 99, pid: 37697) exited with status 174
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][child_handler] MPI process (rank: 29, pid: 111796) exited with status 174
+[c435-054.stampede2.tacc.utexas.edu:mpispawn_21][child_handler] MPI process (rank: 85, pid: 76983) exited with status 174
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][child_handler] MPI process (rank: 111, pid: 241275) exited with status 174
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][child_handler] MPI process (rank: 61, pid: 113698) exited with status 174
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][child_handler] MPI process (rank: 129, pid: 226776) exited with status 174
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][child_handler] MPI process (rank: 93, pid: 79403) exited with status 174
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][child_handler] MPI process (rank: 52, pid: 218627) exited with status 174
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][child_handler] MPI process (rank: 115, pid: 60343) exited with status 174
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][child_handler] MPI process (rank: 35, pid: 120443) exited with status 174
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][child_handler] MPI process (rank: 17, pid: 133529) exited with status 174
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][child_handler] MPI process (rank: 26, pid: 123506) exited with status 174
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][child_handler] MPI process (rank: 103, pid: 104617) exited with status 174
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][child_handler] MPI process (rank: 38, pid: 214244) exited with status 174
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 5, pid: 205612) exited with status 174
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][child_handler] MPI process (rank: 69, pid: 142038) exited with status 174
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][child_handler] MPI process (rank: 90, pid: 59438) exited with status 174
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][child_handler] MPI process (rank: 142, pid: 37912) exited with status 174
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][child_handler] MPI process (rank: 13, pid: 71878) exited with status 174
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][child_handler] MPI process (rank: 65, pid: 74239) exited with status 174
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][child_handler] MPI process (rank: 51, pid: 55989) exited with status 174
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][child_handler] MPI process (rank: 45, pid: 52379) exited with status 174
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][child_handler] MPI process (rank: 117, pid: 96710) exited with status 174
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][child_handler] MPI process (rank: 125, pid: 66915) exited with status 174
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][child_handler] MPI process (rank: 95, pid: 79405) exited with status 174
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][child_handler] MPI process (rank: 130, pid: 226777) exited with status 174
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][child_handler] MPI process (rank: 102, pid: 104616) exited with status 174
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][child_handler] MPI process (rank: 37, pid: 214243) exited with status 174
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 0, pid: 204904) exited with status 174
+[c405-034.stampede2.tacc.utexas.edu:mpispawn_3][report_error] connect() failed: Connection refused (111)
+[c475-022.stampede2.tacc.utexas.edu:mpispawn_35][report_error] connect() failed: Connection refused (111)
+[c420-053.stampede2.tacc.utexas.edu:mpispawn_16][report_error] connect() failed: Connection refused (111)
+[c415-112.stampede2.tacc.utexas.edu:mpispawn_12][report_error] connect() failed: Connection refused (111)
+[c415-024.stampede2.tacc.utexas.edu:mpispawn_11][report_error] connect() failed: Connection refused (111)
+[c473-112.stampede2.tacc.utexas.edu:mpispawn_31][report_error] connect() failed: Connection refused (111)
+[c473-094.stampede2.tacc.utexas.edu:mpispawn_29][report_error] connect() failed: Connection refused (111)
+[c473-113.stampede2.tacc.utexas.edu:mpispawn_32][report_error] connect() failed: Connection refused (111)
+[c471-124.stampede2.tacc.utexas.edu:mpispawn_25][report_error] connect() failed: Connection refused (111)
+[c469-092.stampede2.tacc.utexas.edu:mpispawn_23][report_error] connect() failed: Connection refused (111)
+[c409-021.stampede2.tacc.utexas.edu:mpispawn_9][report_error] connect() failed: Connection refused (111)
+[c405-084.stampede2.tacc.utexas.edu:mpispawn_5][report_error] connect() failed: Connection refused (111)
+[c432-012.stampede2.tacc.utexas.edu:mpispawn_20][report_error] connect() failed: Connection refused (111)
+[c474-004.stampede2.tacc.utexas.edu:mpispawn_34][report_error] connect() failed: Connection refused (111)
+[c417-011.stampede2.tacc.utexas.edu:mpispawn_14][report_error] connect() failed: Connection refused (111)
+[c406-062.stampede2.tacc.utexas.edu:mpispawn_7][report_error] connect() failed: Connection refused (111)
+[c423-114.stampede2.tacc.utexas.edu:mpispawn_17][report_error] connect() failed: Connection refused (111)
+[c420-004.stampede2.tacc.utexas.edu:mpispawn_15][report_error] connect() failed: Connection refused (111)
+[c472-024.stampede2.tacc.utexas.edu:mpispawn_27][report_error] connect() failed: Connection refused (111)
+[c429-043.stampede2.tacc.utexas.edu:mpispawn_18][report_error] connect() failed: Connection refused (111)
+[c472-014.stampede2.tacc.utexas.edu:mpispawn_26][report_error] connect() failed: Connection refused (111)
+[c414-124.stampede2.tacc.utexas.edu:mpispawn_10][report_error] connect() failed: Connection refused (111)
+[c472-053.stampede2.tacc.utexas.edu:mpispawn_28][report_error] connect() failed: Connection refused (111)
+[c469-082.stampede2.tacc.utexas.edu:mpispawn_22][report_error] connect() failed: Connection refused (111)
+[c407-084.stampede2.tacc.utexas.edu:mpispawn_8][report_error] connect() failed: Connection refused (111)
+[c417-004.stampede2.tacc.utexas.edu:mpispawn_13][report_error] connect() failed: Connection refused (111)
+[c430-081.stampede2.tacc.utexas.edu:mpispawn_19][report_error] connect() failed: Connection refused (111)
+[c405-121.stampede2.tacc.utexas.edu:mpispawn_6][report_error] connect() failed: Connection refused (111)
+[c405-063.stampede2.tacc.utexas.edu:mpispawn_4][report_error] connect() failed: Connection refused (111)
+[c404-004.stampede2.tacc.utexas.edu:mpispawn_1][report_error] connect() failed: Connection refused (111)
+[c404-053.stampede2.tacc.utexas.edu:mpispawn_2][report_error] connect() failed: Connection refused (111)
+[c401-101.stampede2.tacc.utexas.edu:mpispawn_0][report_error] connect() failed: Connection refused (111)

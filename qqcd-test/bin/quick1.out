@@ -1,0 +1,144 @@
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ before generator
+ myid,cfgfile=           1 
+ cfgfiles/G00001001qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=           4 
+ cfgfiles/G00001004qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=           6 
+ cfgfiles/G00001006qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=           5 
+ cfgfiles/G00001005qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=           3 
+ cfgfiles/G00001003qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ myid,cfgfile=           7 
+ cfgfiles/G00001007qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ myid,cfgfile=           2 
+ cfgfiles/G00001002qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ myid,cfgfile=           0 
+ cfgfiles/G00001000qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ myid,cfgfile=           8 
+ cfgfiles/G00001008qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ myid,cfgfile=          15 
+ cfgfiles/G00001015qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=          10 
+ cfgfiles/G00001010qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=          14 
+ cfgfiles/G00001014qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=           9 
+ cfgfiles/G00001009qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=          11 
+ cfgfiles/G00001011qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ myid,cfgfile=          13 
+ cfgfiles/G00001013qwilson-24-48-b6                                             
+                                                  
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ myid,cfgfile=          12 
+ cfgfiles/G00001012qwilson-24-48-b6                                             
+                                                  
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+          18        1512           4           2          16
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           1
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+ (icri, isite, ibl):            1           1           2
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 0 PID 111806 RUNNING AT n007
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 1 PID 111807 RUNNING AT n007
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 2 PID 111808 RUNNING AT n007
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 3 PID 111809 RUNNING AT n007
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 5 PID 111811 RUNNING AT n007
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 7 PID 111813 RUNNING AT n007
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================

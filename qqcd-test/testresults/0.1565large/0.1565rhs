@@ -1,0 +1,620 @@
+ 
+USER INPUTS:
+ 
+nx,ny,nz,nt =             24        24        24        32
+npx,npy,npz,npt =          3         3         6         8
+nk1 =                      1
+KI, KR, KR2 =              4         8         8
+newcalc =            2
+ifilesave =          1
+cfgfile =   cfgfiles/G00001000qwilson-8-8-b6-new                            
+iseed =             13
+ncold =              1
+nsweep =             1
+n0sweep =        20000
+n1sweep =         2000
+nhit =               1
+gaction =            1         1         1         1
+alat =       1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+beta =       6.0000000000E+00
+tad =        1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+tadupdate =          0
+tadpole =            1
+tadlandau =          0
+landimp =            0         0         0         0
+alpha =      1.0000000000E-01
+omega =      1.7000000000E+00
+thetamax =   1.0000000000E-05
+nwilo =              0
+npaths =             6
+nfuzz =              0
+epsfuzz =    3.0000000000E-01
+src(0,:) =           1         1         1         4
+bc =                 1         1         1         1
+resmax =     1.0000000000E-10
+itermin =           50
+nsmear =             0
+asmear =     1.0000000000E-01
+nkappa =             1
+wilsonmm =           0
+hopton =             2
+i,kappa(i) =       1 1.5000000000E-01
+omegaM3R =   1.0000000000E+00
+ntmqcd =             1
+i,mtmqcd(i,:) =      1 1.5650000000E-01 1.0000000000E-05
+i,src(i,:) =      1         1         1         1         4
+ ntmqcdloop =            0
+cSWtmqcd =   0.0000000000E+00
+inverter =           6
+nGMRES =            20         8
+opSST =              0
+tSST =              44
+pSST =               0         0         0
+nSST =               1         1
+i,mSST(i,:) =        1 1.5700000000E-01 0.0000000000E+00
+cSWSST =     0.0000000000E+00
+invSST =             0
+numnoises =          0
+kappaloop =  1.5700000000E-01 0.0000000000E+00
+cSWloop =    0.0000000000E+00
+docorr =             0
+nkappacorr =         1
+ntmqcdcorr =         1
+ntmqcdloop =         0
+nucleonparti         3
+gitest =             0
+nirloop=             1
+            
+OUTPUTS:    
+            
+ Just did GFread
+ Entering sweep loop
+ isweep =            1
+ Updated sweepnum
+    sweepnum =     1
+ Just did a read
+         1 plaq:        5.9358725857E-01
+         1 ux,uy,uz,ut: 8.7771847281E-01 8.7780866293E-01 8.7778321778E-01 8.7784188665E-01
+gmresdr-norm       20 1.6655694536E-01
+gmresdr-norm       32 6.5625201890E-02
+gmresdr-norm       44 2.8750093522E-02
+gmresdr-norm       56 1.3363614183E-02
+gmresdr-norm       68 6.0341823020E-03
+gmresdr-norm       80 2.7920400041E-03
+gmresdr-norm       92 1.2898144596E-03
+gmresdr-norm      104 6.0415589064E-04
+gmresdr-norm      116 2.5652276065E-04
+gmresdr-norm      128 1.1322600615E-04
+gmresdr-norm      140 4.8785963850E-05
+gmresdr-norm      152 2.0749372881E-05
+gmresdr-norm      164 8.1852320188E-06
+gmresdr-norm      176 3.5046472426E-06
+gmresdr-norm      188 1.5653723613E-06
+gmresdr-norm      200 7.3151985185E-07
+gmresdr-norm      212 3.2866427369E-07
+gmresdr-norm      224 1.3457806311E-07
+gmresdr-norm      236 5.4522478865E-08
+gmresdr-norm      248 2.2458481466E-08
+gmresdr-norm      260 9.0381214674E-09
+gmresdr-norm      272 3.8360325165E-09
+gmresdr-norm      284 1.5789615707E-09
+gmresdr-norm      296 6.1689289191E-10
+gmresdr-norm      308 2.4242188895E-10
+gmresdr-norm      320 9.5787817014E-11
+Dean - psc(n,k) iterations: itercoun       320
+               Time taken by fermprop in seconds:  2.1818683000E+01
+ gmresdrproject-rn          12  5.847836029691428E-003
+ gmresdrproject-gdr          12  6.419549112634212E-004
+ gmresdrproject-rn          24  1.940151804508561E-003
+ gmresdrproject-gdr          24  2.296679185410254E-004
+ gmresdrproject-rn          36  8.131430290940067E-004
+ gmresdrproject-gdr          36  9.627346234952710E-005
+ gmresdrproject-rn          48  3.223953486759351E-004
+ gmresdrproject-gdr          48  3.832082665097104E-005
+ gmresdrproject-rn          60  1.392488954580806E-004
+ gmresdrproject-gdr          60  1.647868045245077E-005
+ gmresdrproject-rn          72  5.581285587208535E-005
+ gmresdrproject-gdr          72  6.630139894904246E-006
+ gmresdrproject-rn          84  2.443681981312036E-005
+ gmresdrproject-gdr          84  2.915546466102527E-006
+ gmresdrproject-rn          96  1.091750800436057E-005
+ gmresdrproject-gdr          96  1.307396071786788E-006
+ gmresdrproject-rn         108  4.944849890859590E-006
+ gmresdrproject-gdr         108  5.887588586374432E-007
+ gmresdrproject-rn         120  2.073364173230325E-006
+ gmresdrproject-gdr         120  2.465525062589311E-007
+ gmresdrproject-rn         132  8.954431983849997E-007
+ gmresdrproject-gdr         132  1.070150009592068E-007
+ gmresdrproject-rn         144  3.763053275088489E-007
+ gmresdrproject-gdr         144  4.444419405863860E-008
+ gmresdrproject-rn         156  1.488176073209123E-007
+ gmresdrproject-gdr         156  1.766602417115169E-008
+ gmresdrproject-rn         168  5.551454480724969E-008
+ gmresdrproject-gdr         168  6.557646287917648E-009
+ gmresdrproject-rn         180  2.178783579324358E-008
+ gmresdrproject-gdr         180  2.591549137400721E-009
+ gmresdrproject-rn         192  9.018991671430332E-009
+ gmresdrproject-gdr         192  1.075946869518965E-009
+ gmresdrproject-rn         204  3.582840956349715E-009
+ gmresdrproject-gdr         204  4.261638695363276E-010
+ gmresdrproject-rn         216  1.535890936992210E-009
+ gmresdrproject-gdr         216  1.840736585677066E-010
+ gmresdrproject-rn         228  7.391796045014325E-010
+ gmresdrproject-gdr         228  8.845949361481324E-011
+ gmresdrproject-rn         240  3.110267924604745E-010
+ gmresdrproject-gdr         240  3.705167625644678E-011
+ gmresdrproject-rn         252  1.369288110651236E-010
+ gmresdrproject-gdr         252  1.638263846005879E-011
+ gmresdrproject-rn         264  6.221414889054452E-011
+ gmresdrproject-gdr         264  7.433555060887543E-012
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5878586000E+01
+ gmresdrproject-rn          12  8.515452583087607E-003
+ gmresdrproject-gdr          12  9.412184613224140E-004
+ gmresdrproject-rn          24  3.064729160451894E-003
+ gmresdrproject-gdr          24  3.603423428578200E-004
+ gmresdrproject-rn          36  1.239427333785715E-003
+ gmresdrproject-gdr          36  1.467406540063195E-004
+ gmresdrproject-rn          48  4.807829387625256E-004
+ gmresdrproject-gdr          48  5.718678854369061E-005
+ gmresdrproject-rn          60  2.007853616010149E-004
+ gmresdrproject-gdr          60  2.385129309696383E-005
+ gmresdrproject-rn          72  8.024753463306402E-005
+ gmresdrproject-gdr          72  9.494693835873202E-006
+ gmresdrproject-rn          84  3.332507502104418E-005
+ gmresdrproject-gdr          84  3.968751169942792E-006
+ gmresdrproject-rn          96  1.439833364408669E-005
+ gmresdrproject-gdr          96  1.715523383278613E-006
+ gmresdrproject-rn         108  6.674942649612383E-006
+ gmresdrproject-gdr         108  7.954562551717814E-007
+ gmresdrproject-rn         120  2.726601980329696E-006
+ gmresdrproject-gdr         120  3.223787766642973E-007
+ gmresdrproject-rn         132  1.054870864577552E-006
+ gmresdrproject-gdr         132  1.255320095013873E-007
+ gmresdrproject-rn         144  4.541738495152455E-007
+ gmresdrproject-gdr         144  5.420435630058740E-008
+ gmresdrproject-rn         156  1.952937749584164E-007
+ gmresdrproject-gdr         156  2.319494101990096E-008
+ gmresdrproject-rn         168  7.368994286591675E-008
+ gmresdrproject-gdr         168  8.730649390306667E-009
+ gmresdrproject-rn         180  3.157202280136575E-008
+ gmresdrproject-gdr         180  3.773693218912185E-009
+ gmresdrproject-rn         192  1.414641418744051E-008
+ gmresdrproject-gdr         192  1.680772496738785E-009
+ gmresdrproject-rn         204  6.108244009643100E-009
+ gmresdrproject-gdr         204  7.290322770126963E-010
+ gmresdrproject-rn         216  2.566958241721803E-009
+ gmresdrproject-gdr         216  3.063129948542531E-010
+ gmresdrproject-rn         228  1.099934938563833E-009
+ gmresdrproject-gdr         228  1.303558703892671E-010
+ gmresdrproject-rn         240  4.377881301888519E-010
+ gmresdrproject-gdr         240  5.215732888518500E-011
+ gmresdrproject-rn         252  1.806945850594232E-010
+ gmresdrproject-gdr         252  2.155568333517086E-011
+ gmresdrproject-rn         264  8.199296890095463E-011
+ gmresdrproject-gdr         264  9.788571704652786E-012
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5690614000E+01
+ gmresdrproject-rn          12  9.051432242010982E-003
+ gmresdrproject-gdr          12  1.023105278972213E-003
+ gmresdrproject-rn          24  3.277458233163290E-003
+ gmresdrproject-gdr          24  3.862249602676866E-004
+ gmresdrproject-rn          36  1.354833548641732E-003
+ gmresdrproject-gdr          36  1.609332351094148E-004
+ gmresdrproject-rn          48  5.276563820612118E-004
+ gmresdrproject-gdr          48  6.209871522352979E-005
+ gmresdrproject-rn          60  1.904314366323077E-004
+ gmresdrproject-gdr          60  2.260808426007914E-005
+ gmresdrproject-rn          72  8.244421363390190E-005
+ gmresdrproject-gdr          72  9.787767093525571E-006
+ gmresdrproject-rn          84  3.518875706110154E-005
+ gmresdrproject-gdr          84  4.175949383280302E-006
+ gmresdrproject-rn          96  1.415035462260541E-005
+ gmresdrproject-gdr          96  1.676998472604297E-006
+ gmresdrproject-rn         108  6.205478707442073E-006
+ gmresdrproject-gdr         108  7.403499259407818E-007
+ gmresdrproject-rn         120  2.736820064993650E-006
+ gmresdrproject-gdr         120  3.263567301185934E-007
+ gmresdrproject-rn         132  1.180229121517339E-006
+ gmresdrproject-gdr         132  1.405575069005470E-007
+ gmresdrproject-rn         144  5.085901025725165E-007
+ gmresdrproject-gdr         144  6.077203299395193E-008
+ gmresdrproject-rn         156  2.385099396349794E-007
+ gmresdrproject-gdr         156  2.849325131078440E-008
+ gmresdrproject-rn         168  1.031250472932704E-007
+ gmresdrproject-gdr         168  1.217435701020613E-008
+ gmresdrproject-rn         180  4.019979463655068E-008
+ gmresdrproject-gdr         180  4.781201745355903E-009
+ gmresdrproject-rn         192  1.618126029411301E-008
+ gmresdrproject-gdr         192  1.915682162113808E-009
+ gmresdrproject-rn         204  6.453691527852507E-009
+ gmresdrproject-gdr         204  7.651354418168850E-010
+ gmresdrproject-rn         216  2.566953798464553E-009
+ gmresdrproject-gdr         216  3.053918284408329E-010
+ gmresdrproject-rn         228  1.009514237867657E-009
+ gmresdrproject-gdr         228  1.197300466454012E-010
+ gmresdrproject-rn         240  4.041200063481378E-010
+ gmresdrproject-gdr         240  4.805795225912069E-011
+ gmresdrproject-rn         252  1.723351691228349E-010
+ gmresdrproject-gdr         252  2.061671022590849E-011
+ gmresdrproject-rn         264  7.509628605084141E-011
+ gmresdrproject-gdr         264  8.951315407515403E-012
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5681616000E+01
+ gmresdrproject-rn          12  8.314805714152728E-003
+ gmresdrproject-gdr          12  9.376375026880415E-004
+ gmresdrproject-rn          24  3.111884054775223E-003
+ gmresdrproject-gdr          24  3.685729060564311E-004
+ gmresdrproject-rn          36  1.355147227838118E-003
+ gmresdrproject-gdr          36  1.611600328554223E-004
+ gmresdrproject-rn          48  5.632251987615668E-004
+ gmresdrproject-gdr          48  6.680579057147002E-005
+ gmresdrproject-rn          60  2.261922186183148E-004
+ gmresdrproject-gdr          60  2.698602206417756E-005
+ gmresdrproject-rn          72  1.004015566985524E-004
+ gmresdrproject-gdr          72  1.195037819906277E-005
+ gmresdrproject-rn          84  4.065828661436197E-005
+ gmresdrproject-gdr          84  4.824165345011965E-006
+ gmresdrproject-rn          96  1.714966414167257E-005
+ gmresdrproject-gdr          96  2.048962000586811E-006
+ gmresdrproject-rn         108  7.892112199098257E-006
+ gmresdrproject-gdr         108  9.430718711695742E-007
+ gmresdrproject-rn         120  3.536021670733414E-006
+ gmresdrproject-gdr         120  4.212643266405798E-007
+ gmresdrproject-rn         132  1.549105229160921E-006
+ gmresdrproject-gdr         132  1.837959431944540E-007
+ gmresdrproject-rn         144  6.031079338917314E-007
+ gmresdrproject-gdr         144  7.152908079051951E-008
+ gmresdrproject-rn         156  2.516574272945958E-007
+ gmresdrproject-gdr         156  2.994322462735671E-008
+ gmresdrproject-rn         168  1.044617568317755E-007
+ gmresdrproject-gdr         168  1.238877503263316E-008
+ gmresdrproject-rn         180  4.035176226149004E-008
+ gmresdrproject-gdr         180  4.779994867154735E-009
+ gmresdrproject-rn         192  1.510633835064459E-008
+ gmresdrproject-gdr         192  1.782770823615488E-009
+ gmresdrproject-rn         204  5.642974018022360E-009
+ gmresdrproject-gdr         204  6.716194033620934E-010
+ gmresdrproject-rn         216  2.341191071365534E-009
+ gmresdrproject-gdr         216  2.796541700059552E-010
+ gmresdrproject-rn         228  9.990083324178734E-010
+ gmresdrproject-gdr         228  1.188984343314966E-010
+ gmresdrproject-rn         240  4.303299645472048E-010
+ gmresdrproject-gdr         240  5.125088368290157E-011
+ gmresdrproject-rn         252  1.997408468197086E-010
+ gmresdrproject-gdr         252  2.392007210579828E-011
+ gmresdrproject-rn         264  9.055953530445483E-011
+ gmresdrproject-gdr         264  1.082365244682736E-011
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5756604000E+01
+ gmresdrproject-rn          12  7.489369091642289E-003
+ gmresdrproject-gdr          12  8.408445434417219E-004
+ gmresdrproject-rn          24  2.811022244795898E-003
+ gmresdrproject-gdr          24  3.311886358675742E-004
+ gmresdrproject-rn          36  1.156616979087337E-003
+ gmresdrproject-gdr          36  1.371968702813747E-004
+ gmresdrproject-rn          48  5.263334993386543E-004
+ gmresdrproject-gdr          48  6.313130185222270E-005
+ gmresdrproject-rn          60  2.538350890629145E-004
+ gmresdrproject-gdr          60  3.015949879514627E-005
+ gmresdrproject-rn          72  1.038619288193146E-004
+ gmresdrproject-gdr          72  1.232957163197810E-005
+ gmresdrproject-rn          84  4.465347102968135E-005
+ gmresdrproject-gdr          84  5.311243581251534E-006
+ gmresdrproject-rn          96  1.900377560206089E-005
+ gmresdrproject-gdr          96  2.278728872666216E-006
+ gmresdrproject-rn         108  8.738579489394257E-006
+ gmresdrproject-gdr         108  1.039259918046382E-006
+ gmresdrproject-rn         120  3.435294107904407E-006
+ gmresdrproject-gdr         120  4.076378097385752E-007
+ gmresdrproject-rn         132  1.475774873795380E-006
+ gmresdrproject-gdr         132  1.757392394476135E-007
+ gmresdrproject-rn         144  5.957804006439642E-007
+ gmresdrproject-gdr         144  7.091155667792505E-008
+ gmresdrproject-rn         156  2.351850808099556E-007
+ gmresdrproject-gdr         156  2.788510860074610E-008
+ gmresdrproject-rn         168  9.293229228431910E-008
+ gmresdrproject-gdr         168  1.104924956628398E-008
+ gmresdrproject-rn         180  3.908332718070501E-008
+ gmresdrproject-gdr         180  4.676019929626851E-009
+ gmresdrproject-rn         192  1.731220144800407E-008
+ gmresdrproject-gdr         192  2.061315411090964E-009
+ gmresdrproject-rn         204  7.273596711849134E-009
+ gmresdrproject-gdr         204  8.639638056510071E-010
+ gmresdrproject-rn         216  3.127724604319184E-009
+ gmresdrproject-gdr         216  3.736024067939850E-010
+ gmresdrproject-rn         228  1.377354043254640E-009
+ gmresdrproject-gdr         228  1.642335599695817E-010
+ gmresdrproject-rn         240  5.810498128601040E-010
+ gmresdrproject-gdr         240  6.893465956967622E-011
+ gmresdrproject-rn         252  2.457278738199271E-010
+ gmresdrproject-gdr         252  2.934492430185143E-011
+ gmresdrproject-rn         264  1.098127585035826E-010
+ gmresdrproject-gdr         264  1.308670549316163E-011
+ gmresdrproject-rn         276  4.792412117303078E-011
+ gmresdrproject-gdr         276  5.714306727647977E-012
+Dean - psc(n,k) iterations: itercoun       276
+               Time taken by fermprop in seconds:  1.6390508000E+01
+ gmresdrproject-rn          12  8.399535560117589E-003
+ gmresdrproject-gdr          12  9.524075402409051E-004
+ gmresdrproject-rn          24  3.113207601794734E-003
+ gmresdrproject-gdr          24  3.686783569413079E-004
+ gmresdrproject-rn          36  1.282831884952529E-003
+ gmresdrproject-gdr          36  1.521979593561848E-004
+ gmresdrproject-rn          48  5.477640192100416E-004
+ gmresdrproject-gdr          48  6.534887757731529E-005
+ gmresdrproject-rn          60  2.439572173222620E-004
+ gmresdrproject-gdr          60  2.894465092964439E-005
+ gmresdrproject-rn          72  1.047841007678724E-004
+ gmresdrproject-gdr          72  1.243588872010148E-005
+ gmresdrproject-rn          84  4.419568887696183E-005
+ gmresdrproject-gdr          84  5.251734735405320E-006
+ gmresdrproject-rn          96  1.799240294922819E-005
+ gmresdrproject-gdr          96  2.138216446151240E-006
+ gmresdrproject-rn         108  7.990800194840705E-006
+ gmresdrproject-gdr         108  9.535317400205720E-007
+ gmresdrproject-rn         120  3.369294563611235E-006
+ gmresdrproject-gdr         120  4.021364490423167E-007
+ gmresdrproject-rn         132  1.466671762355946E-006
+ gmresdrproject-gdr         132  1.743258756007268E-007
+ gmresdrproject-rn         144  5.786867335435124E-007
+ gmresdrproject-gdr         144  6.856454112511429E-008
+ gmresdrproject-rn         156  2.365487283545115E-007
+ gmresdrproject-gdr         156  2.822095973695584E-008
+ gmresdrproject-rn         168  1.036618516166519E-007
+ gmresdrproject-gdr         168  1.233894470369514E-008
+ gmresdrproject-rn         180  4.448703073597947E-008
+ gmresdrproject-gdr         180  5.303485836810311E-009
+ gmresdrproject-rn         192  1.833293726211496E-008
+ gmresdrproject-gdr         192  2.173902939271127E-009
+ gmresdrproject-rn         204  7.005685006462861E-009
+ gmresdrproject-gdr         204  8.308621821374724E-010
+ gmresdrproject-rn         216  2.985245431407479E-009
+ gmresdrproject-gdr         216  3.559895645850324E-010
+ gmresdrproject-rn         228  1.280685239082136E-009
+ gmresdrproject-gdr         228  1.525588682687151E-010
+ gmresdrproject-rn         240  5.241907780014980E-010
+ gmresdrproject-gdr         240  6.221141832839052E-011
+ gmresdrproject-rn         252  2.199853076483266E-010
+ gmresdrproject-gdr         252  2.619521613205524E-011
+ gmresdrproject-rn         264  9.305391614085091E-011
+ gmresdrproject-gdr         264  1.108751126744268E-011
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5839592000E+01
+ gmresdrproject-rn          12  8.341738921761512E-003
+ gmresdrproject-gdr          12  9.450590351680994E-004
+ gmresdrproject-rn          24  3.129331472165317E-003
+ gmresdrproject-gdr          24  3.709883637021396E-004
+ gmresdrproject-rn          36  1.347999240703806E-003
+ gmresdrproject-gdr          36  1.596659915651134E-004
+ gmresdrproject-rn          48  6.137059043414401E-004
+ gmresdrproject-gdr          48  7.335527906197496E-005
+ gmresdrproject-rn          60  2.862312887635962E-004
+ gmresdrproject-gdr          60  3.395043699497644E-005
+ gmresdrproject-rn          72  1.208206636737278E-004
+ gmresdrproject-gdr          72  1.437279862849223E-005
+ gmresdrproject-rn          84  5.108197317921168E-005
+ gmresdrproject-gdr          84  6.063382360690297E-006
+ gmresdrproject-rn          96  2.075745299910692E-005
+ gmresdrproject-gdr          96  2.472967446812431E-006
+ gmresdrproject-rn         108  9.137960910496117E-006
+ gmresdrproject-gdr         108  1.090901757811849E-006
+ gmresdrproject-rn         120  3.609505609270342E-006
+ gmresdrproject-gdr         120  4.300788956145795E-007
+ gmresdrproject-rn         132  1.578206987628037E-006
+ gmresdrproject-gdr         132  1.878989551548562E-007
+ gmresdrproject-rn         144  6.310854131672011E-007
+ gmresdrproject-gdr         144  7.500490687763969E-008
+ gmresdrproject-rn         156  2.533800781898758E-007
+ gmresdrproject-gdr         156  3.013714430052720E-008
+ gmresdrproject-rn         168  1.078396827873007E-007
+ gmresdrproject-gdr         168  1.283115496949640E-008
+ gmresdrproject-rn         180  4.578708390861245E-008
+ gmresdrproject-gdr         180  5.471464165137629E-009
+ gmresdrproject-rn         192  1.960366642379921E-008
+ gmresdrproject-gdr         192  2.335456298225432E-009
+ gmresdrproject-rn         204  7.859427271959249E-009
+ gmresdrproject-gdr         204  9.325280133205184E-010
+ gmresdrproject-rn         216  3.430031014010583E-009
+ gmresdrproject-gdr         216  4.081993410640724E-010
+ gmresdrproject-rn         228  1.473843843067330E-009
+ gmresdrproject-gdr         228  1.759847282966882E-010
+ gmresdrproject-rn         240  6.390922557225837E-010
+ gmresdrproject-gdr         240  7.596426713979083E-011
+ gmresdrproject-rn         252  2.724588962954675E-010
+ gmresdrproject-gdr         252  3.253745780115456E-011
+ gmresdrproject-rn         264  1.139087777830137E-010
+ gmresdrproject-gdr         264  1.353713317296756E-011
+ gmresdrproject-rn         276  4.921313581506829E-011
+ gmresdrproject-gdr         276  5.861733337207060E-012
+Dean - psc(n,k) iterations: itercoun       276
+               Time taken by fermprop in seconds:  1.6520488000E+01
+ gmresdrproject-rn          12  8.509088184002318E-003
+ gmresdrproject-gdr          12  9.427748567738963E-004
+ gmresdrproject-rn          24  3.173577054907914E-003
+ gmresdrproject-gdr          24  3.713786062850632E-004
+ gmresdrproject-rn          36  1.252410501854112E-003
+ gmresdrproject-gdr          36  1.485177550711147E-004
+ gmresdrproject-rn          48  5.284570382819136E-004
+ gmresdrproject-gdr          48  6.284163100431075E-005
+ gmresdrproject-rn          60  2.198049597839010E-004
+ gmresdrproject-gdr          60  2.625392863145268E-005
+ gmresdrproject-rn          72  1.008494180430870E-004
+ gmresdrproject-gdr          72  1.200483328299353E-005
+ gmresdrproject-rn          84  4.215745621513441E-005
+ gmresdrproject-gdr          84  5.012008184720956E-006
+ gmresdrproject-rn          96  1.793963132267707E-005
+ gmresdrproject-gdr          96  2.146070396444379E-006
+ gmresdrproject-rn         108  7.739863141859139E-006
+ gmresdrproject-gdr         108  9.152560797919237E-007
+ gmresdrproject-rn         120  2.973710377469091E-006
+ gmresdrproject-gdr         120  3.517106513032195E-007
+ gmresdrproject-rn         132  1.260261995998965E-006
+ gmresdrproject-gdr         132  1.507245055799545E-007
+ gmresdrproject-rn         144  5.156986268192307E-007
+ gmresdrproject-gdr         144  6.105397542830316E-008
+ gmresdrproject-rn         156  2.024286418920952E-007
+ gmresdrproject-gdr         156  2.395149934135478E-008
+ gmresdrproject-rn         168  7.734933339732560E-008
+ gmresdrproject-gdr         168  9.207920221628366E-009
+ gmresdrproject-rn         180  3.286418657500200E-008
+ gmresdrproject-gdr         180  3.918459429694532E-009
+ gmresdrproject-rn         192  1.409159030379977E-008
+ gmresdrproject-gdr         192  1.675923677379238E-009
+ gmresdrproject-rn         204  6.066848660952653E-009
+ gmresdrproject-gdr         204  7.254873735355741E-010
+ gmresdrproject-rn         216  2.677538611361865E-009
+ gmresdrproject-gdr         216  3.192916846755318E-010
+ gmresdrproject-rn         228  1.156777315441412E-009
+ gmresdrproject-gdr         228  1.378531989316214E-010
+ gmresdrproject-rn         240  4.941309668810745E-010
+ gmresdrproject-gdr         240  5.871261589814598E-011
+ gmresdrproject-rn         252  2.073601837752542E-010
+ gmresdrproject-gdr         252  2.484063607340786E-011
+ gmresdrproject-rn         264  9.702610363558371E-011
+ gmresdrproject-gdr         264  1.156349987704803E-011
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5816596000E+01
+ gmresdrproject-rn          12  6.689394709907581E-003
+ gmresdrproject-gdr          12  7.394148107634930E-004
+ gmresdrproject-rn          24  2.289195140005503E-003
+ gmresdrproject-gdr          24  2.701149862606080E-004
+ gmresdrproject-rn          36  9.034327478011734E-004
+ gmresdrproject-gdr          36  1.072226060548785E-004
+ gmresdrproject-rn          48  3.582731192734702E-004
+ gmresdrproject-gdr          48  4.248306576117998E-005
+ gmresdrproject-rn          60  1.501782516408293E-004
+ gmresdrproject-gdr          60  1.788190729399677E-005
+ gmresdrproject-rn          72  6.169062227331313E-005
+ gmresdrproject-gdr          72  7.325542760429502E-006
+ gmresdrproject-rn          84  2.402806571807840E-005
+ gmresdrproject-gdr          84  2.838563831883925E-006
+ gmresdrproject-rn          96  9.389713551529772E-006
+ gmresdrproject-gdr          96  1.117548325350286E-006
+ gmresdrproject-rn         108  4.263754643886675E-006
+ gmresdrproject-gdr         108  5.091994987671758E-007
+ gmresdrproject-rn         120  1.932059819572557E-006
+ gmresdrproject-gdr         120  2.298063547575164E-007
+ gmresdrproject-rn         132  8.073913210332474E-007
+ gmresdrproject-gdr         132  9.564723082213461E-008
+ gmresdrproject-rn         144  3.234781217310119E-007
+ gmresdrproject-gdr         144  3.843438337164617E-008
+ gmresdrproject-rn         156  1.284990773257350E-007
+ gmresdrproject-gdr         156  1.522598387732557E-008
+ gmresdrproject-rn         168  4.874119786324008E-008
+ gmresdrproject-gdr         168  5.768699251672491E-009
+ gmresdrproject-rn         180  1.844281978747049E-008
+ gmresdrproject-gdr         180  2.197130048979356E-009
+ gmresdrproject-rn         192  7.306510557842997E-009
+ gmresdrproject-gdr         192  8.680290424008075E-010
+ gmresdrproject-rn         204  3.112376810330369E-009
+ gmresdrproject-gdr         204  3.714890045390149E-010
+ gmresdrproject-rn         216  1.320778803378004E-009
+ gmresdrproject-gdr         216  1.572018804260533E-010
+ gmresdrproject-rn         228  5.565308460640032E-010
+ gmresdrproject-gdr         228  6.642737273268083E-011
+ gmresdrproject-rn         240  2.601911051252302E-010
+ gmresdrproject-gdr         240  3.110229443499368E-011
+ gmresdrproject-rn         252  1.137525605225779E-010
+ gmresdrproject-gdr         252  1.360756520264942E-011
+ gmresdrproject-rn         264  4.891041885384330E-011
+ gmresdrproject-gdr         264  5.826261868015429E-012
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5801598000E+01
+ gmresdrproject-rn          12  7.159620058528802E-003
+ gmresdrproject-gdr          12  8.020751144244153E-004
+ gmresdrproject-rn          24  2.576484061550022E-003
+ gmresdrproject-gdr          24  3.054047348255637E-004
+ gmresdrproject-rn          36  1.116451631697261E-003
+ gmresdrproject-gdr          36  1.329169274257941E-004
+ gmresdrproject-rn          48  4.512379987302510E-004
+ gmresdrproject-gdr          48  5.371672541658337E-005
+ gmresdrproject-rn          60  1.894441791927703E-004
+ gmresdrproject-gdr          60  2.248742597078825E-005
+ gmresdrproject-rn          72  7.538999013531665E-005
+ gmresdrproject-gdr          72  8.926292283511493E-006
+ gmresdrproject-rn          84  3.093513801902218E-005
+ gmresdrproject-gdr          84  3.673318786273927E-006
+ gmresdrproject-rn          96  1.309100748809253E-005
+ gmresdrproject-gdr          96  1.558851254839852E-006
+ gmresdrproject-rn         108  5.581807792363788E-006
+ gmresdrproject-gdr         108  6.633842891771783E-007
+ gmresdrproject-rn         120  2.320014588847095E-006
+ gmresdrproject-gdr         120  2.762693770343596E-007
+ gmresdrproject-rn         132  9.704813302050920E-007
+ gmresdrproject-gdr         132  1.156148368610172E-007
+ gmresdrproject-rn         144  3.977624333837650E-007
+ gmresdrproject-gdr         144  4.734075411258466E-008
+ gmresdrproject-rn         156  1.628820458929963E-007
+ gmresdrproject-gdr         156  1.932651237776771E-008
+ gmresdrproject-rn         168  6.609323925461948E-008
+ gmresdrproject-gdr         168  7.864305846432257E-009
+ gmresdrproject-rn         180  2.642744270889932E-008
+ gmresdrproject-gdr         180  3.143499531480542E-009
+ gmresdrproject-rn         192  1.081522239419824E-008
+ gmresdrproject-gdr         192  1.288000346928603E-009
+ gmresdrproject-rn         204  4.710573851762657E-009
+ gmresdrproject-gdr         204  5.611147139646207E-010
+ gmresdrproject-rn         216  1.938827823318224E-009
+ gmresdrproject-gdr         216  2.310704073830061E-010
+ gmresdrproject-rn         228  8.742492039581397E-010
+ gmresdrproject-gdr         228  1.047713712041610E-010
+ gmresdrproject-rn         240  3.944178323729629E-010
+ gmresdrproject-gdr         240  4.709263023968833E-011
+ gmresdrproject-rn         252  1.734524264493445E-010
+ gmresdrproject-gdr         252  2.059250396507721E-011
+ gmresdrproject-rn         264  7.393080913889153E-011
+ gmresdrproject-gdr         264  8.844461468481043E-012
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5817595000E+01
+ gmresdrproject-rn          12  7.826043488697507E-003
+ gmresdrproject-gdr          12  8.785288496434601E-004
+ gmresdrproject-rn          24  2.820715379825955E-003
+ gmresdrproject-gdr          24  3.319966315338094E-004
+ gmresdrproject-rn          36  1.090227085434875E-003
+ gmresdrproject-gdr          36  1.294050477191696E-004
+ gmresdrproject-rn          48  4.531051587009506E-004
+ gmresdrproject-gdr          48  5.388489775426123E-005
+ gmresdrproject-rn          60  2.049238933215701E-004
+ gmresdrproject-gdr          60  2.446694801935506E-005
+ gmresdrproject-rn          72  9.281017111980080E-005
+ gmresdrproject-gdr          72  1.106069539867548E-005
+ gmresdrproject-rn          84  3.961940629674041E-005
+ gmresdrproject-gdr          84  4.712777579430783E-006
+ gmresdrproject-rn          96  1.689398339455661E-005
+ gmresdrproject-gdr          96  2.019340499784515E-006
+ gmresdrproject-rn         108  7.647369799173410E-006
+ gmresdrproject-gdr         108  9.094432211885237E-007
+ gmresdrproject-rn         120  3.115880376455726E-006
+ gmresdrproject-gdr         120  3.713723428047883E-007
+ gmresdrproject-rn         132  1.315991344443913E-006
+ gmresdrproject-gdr         132  1.567920060748414E-007
+ gmresdrproject-rn         144  5.124095183451347E-007
+ gmresdrproject-gdr         144  6.064000425707187E-008
+ gmresdrproject-rn         156  2.007503336773186E-007
+ gmresdrproject-gdr         156  2.381194475408380E-008
+ gmresdrproject-rn         168  8.256721783482788E-008
+ gmresdrproject-gdr         168  9.819826477985492E-009
+ gmresdrproject-rn         180  3.583980575494029E-008
+ gmresdrproject-gdr         180  4.284049943484194E-009
+ gmresdrproject-rn         192  1.519220743076870E-008
+ gmresdrproject-gdr         192  1.804549757566196E-009
+ gmresdrproject-rn         204  6.245575635140906E-009
+ gmresdrproject-gdr         204  7.452455287509255E-010
+ gmresdrproject-rn         216  2.755649940369068E-009
+ gmresdrproject-gdr         216  3.296686101160530E-010
+ gmresdrproject-rn         228  1.215463556282245E-009
+ gmresdrproject-gdr         228  1.447996565718287E-010
+ gmresdrproject-rn         240  5.195622955905774E-010
+ gmresdrproject-gdr         240  6.177151837441414E-011
+ gmresdrproject-rn         252  2.228394573713156E-010
+ gmresdrproject-gdr         252  2.664521766229598E-011
+ gmresdrproject-rn         264  9.840435800086455E-011
+ gmresdrproject-gdr         264  1.172464250268317E-011
+Dean - psc(n,k) iterations: itercoun       264
+               Time taken by fermprop in seconds:  1.5867587000E+01
+        ikappa,pion [tmU] =  1  3.5690737050E-01 6.6412354755E-01 2.1428071844E+00 1.5865961962E+01 2.0931164742E+00 6.2456132747E-01 3.1739399323E-01 2.1588567891E-01 1.6891934331E-01 1.4013886990E-01 1.1785322641E-01 1.0228710080E-01 9.0339163173E-02 7.7044592136E-02 6.4848683791E-02 5.5833452024E-02 4.9185884364E-02 4.3359768407E-02 3.9482928848E-02 3.9030243063E-02 4.0295350227E-02 4.2413450042E-02 4.5489914851E-02 4.9901595465E-02 5.8487874533E-02 7.1976778752E-02 8.7027416068E-02 1.0258772224E-01 1.2223306868E-01 1.5193888566E-01 1.9275835175E-01 2.4752399609E-01
+ikappa,rho [tmU] =   1 -1.0695297021E-03-6.4097126660E-04 6.5544390849E-03-8.6039970144E-03-1.6607178571E-04-1.6307196613E-04-2.2798413447E-04-1.1255780164E-03-1.5067433073E-03-1.2429159267E-03-1.1581389497E-03-1.0843135537E-03-1.1584207620E-03-8.6973571313E-04-5.8620852888E-04-4.9222351073E-04-4.7088101069E-04-4.7791385254E-04-4.2746212626E-04-3.7740436783E-04-2.6921776131E-04-2.3907008530E-04-1.3541070729E-04-1.8265748720E-04-3.2550681229E-04-3.3054737281E-04-2.6445874492E-05 1.9907559228E-04 2.1685142936E-04 3.4709769805E-05 1.7813453073E-04 1.4498269201E-04
+ikappa,decay [tmU] = 1 -5.1128241710E-02-1.0310986295E-01-4.9209735754E-01 3.8357736411E-02 4.3740445897E-01 9.5188527609E-02 3.0499846811E-02 1.6008937270E-02 1.6873213486E-02 1.6158592387E-02 1.2842617540E-02 1.1264915983E-02 8.1571725801E-03 5.7992014244E-03 3.9779639473E-03 3.1411184771E-03 2.4026242177E-03 1.5949973523E-03 2.2038510035E-03 2.2774662685E-03 4.9388405824E-04-2.0473331583E-03-4.7966248231E-03-5.5435683906E-03-6.1281849666E-03-7.7289745423E-03-1.1249405224E-02-1.3981785149E-02-1.4091972488E-02-1.4788195636E-02-2.4858388006E-02-3.0937610533E-02
+TIMING:          1for mass          2 sweeps performed in 2.1352923989E+02 seconds
+                    Time for the entire run(sec.)=    0.2065735960D+03

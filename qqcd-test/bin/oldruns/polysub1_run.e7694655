@@ -1,0 +1,94 @@
+slurmstepd: error: *** JOB 7694655 ON c401-053 CANCELLED AT 2021-05-07T06:40:51 DUE TO TIME LIMIT ***
+[proxy:0:0@c401-053.stampede2.tacc.utexas.edu] HYDT_bscu_wait_for_completion (../../tools/bootstrap/utils/bscu_wait.c:151): one of the processes terminated badly; aborting
+[proxy:0:0@c401-053.stampede2.tacc.utexas.edu] HYDT_bsci_wait_for_completion (../../tools/bootstrap/src/bsci_wait.c:36): launcher returned error waiting for completion
+[proxy:0:0@c401-053.stampede2.tacc.utexas.edu] HYD_pmci_wait_for_childs_completion (../../pm/pmiserv/pmip_utils.c:2002): bootstrap server returned error waiting for completion
+[proxy:0:0@c401-053.stampede2.tacc.utexas.edu] main (../../pm/pmiserv/pmip.c:534): error waiting for event children completion
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B11B12263EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B11B0D945D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B11B0D914C0  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B65B69FB3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B65B65695D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B65B65664CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B955059E3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B955010C5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B95501094CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AFEC45093EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AFEC40775D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AFEC40744D0  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B9F2750F3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B9F2707D5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9F2707A4CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8DAC0F83EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8DABC665D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B8DABC634CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B385E9513EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B385E4BF5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B385E4BC4C0  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB1CF9283EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB1CF4965D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB1CF4934CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AF01946C3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AF018FDA5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AF018FD74C5  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AB39BACA3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB39B6385D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002AB39B6354CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA1B40A83EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA1B3C165D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA1B3C134CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B8EF540D3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B8EF4F7B5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B8EF4F784CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1545BF93EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B15457675D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B15457644CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B90183A03EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B9017F0E5D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9017F0B4C0  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002BA0218233EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002BA0213915D0  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002BA02138E4CB  pthread_spin_tryl     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002AD2A863C3EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AD2A81AA5D0  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AD2A719DAA8  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00002B1B994693EF  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1B98FD75D0  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B1B97FCAAA8  Unknown               Unknown  Unknown
+[mpiexec@c401-053.stampede2.tacc.utexas.edu] control_cb (../../pm/pmiserv/pmiserv_cb.c:864): connection to proxy 0 at host c401-053 failed
+[mpiexec@c401-053.stampede2.tacc.utexas.edu] HYDT_dmxu_poll_wait_for_event (../../tools/demux/demux_poll.c:76): callback returned error status
+[mpiexec@c401-053.stampede2.tacc.utexas.edu] HYD_pmci_wait_for_completion (../../pm/pmiserv/pmiserv_pmci.c:520): error waiting for event
+[mpiexec@c401-053.stampede2.tacc.utexas.edu] main (../../ui/mpich/mpiexec.c:1149): process manager error waiting for completion

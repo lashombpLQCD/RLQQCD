@@ -1,0 +1,15 @@
+Finished outputting nodelist
+Requested processors: 
+Node(s):
+uniq: c476-034,c477-054,c478-[004,112],c479-[011,052,122,124],c480-[011,024,113,123,133],c481-012,c482-[051,062],c483-[053,061,063,102],c486-[022,041],c487-[023,062,123],c488-042,c489-[014,044,083,092],c491-[071,102,121],c492-[002,043,073]: No such file or directory
+
+Cleaning scratch files
+
+Job starting at Wed Sep  4 19:53:35 CDT 2019
+
+srun: cluster configuration lacks support for cpu binding
+srun: fatal: No command given to execute.
+
+Job finished at Wed Sep  4 19:53:35 CDT 2019
+
+Total Execution time: 0 seconds

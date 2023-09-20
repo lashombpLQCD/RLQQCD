@@ -1,0 +1,19 @@
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmkl_core.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libiomp5.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libiomp5.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmpifort.so.12: cannot map zero-fill pages: Cannot allocate memory
+[proxy:0:7@c415-061.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmpi.so.12: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmkl_core.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmkl_core.so: failed to map segment from shared object: Cannot allocate memory
+[proxy:0:13@c447-034.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout (Argument list too long)
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmkl_intel_lp64.so: cannot map zero-fill pages: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libiomp5.so: failed to map segment from shared object: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmkl_intel_thread.so: cannot map zero-fill pages: Cannot allocate memory
+/home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout: error while loading shared libraries: libmpifort.so.12: cannot create shared object descriptor: Cannot allocate memory
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
+[proxy:0:21@c464-101.stampede2.tacc.utexas.edu] HYDU_create_process (../../utils/launch/launch.c:825): execvp error on file /home1/00526/tg457765/submethodsppminresdr/andyworkinglagfib10/qqcd-test/bin/qqcd-testout (Argument list too long)
+[mpiexec@c401-121.stampede2.tacc.utexas.edu] control_cb (../../pm/pmiserv/pmiserv_cb.c:864): connection to proxy 28 at host c467-044 failed
+[mpiexec@c401-121.stampede2.tacc.utexas.edu] HYDT_dmxu_poll_wait_for_event (../../tools/demux/demux_poll.c:76): callback returned error status
+[mpiexec@c401-121.stampede2.tacc.utexas.edu] HYD_pmci_wait_for_completion (../../pm/pmiserv/pmiserv_pmci.c:520): error waiting for event
+[mpiexec@c401-121.stampede2.tacc.utexas.edu] main (../../ui/mpich/mpiexec.c:1149): process manager error waiting for completion

@@ -1,0 +1,141 @@
+ 
+USER INPUTS:
+ 
+nx,ny,nz,nt =              8         8         8         8
+npx,npy,npz,npt =          2         2         2         2
+nk1 =                      1
+KI, KR, KR2 =              4         8         8
+newcalc =            2
+ifilesave =          1
+cfgfile =   cfgfiles/G00001000qwilson-8-8-b6-new                            
+iseed =             13
+ncold =              1
+nsweep =             1
+n0sweep =        20000
+n1sweep =         2000
+nhit =               1
+gaction =            1         1         1         1
+alat =       1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+beta =       6.0000000000E+00
+tad =        1.0000000000E+00 1.0000000000E+00 1.0000000000E+00 1.0000000000E+00
+tadupdate =          0
+tadpole =            1
+tadlandau =          0
+landimp =            0         0         0         0
+alpha =      1.0000000000E-01
+omega =      1.7000000000E+00
+thetamax =   1.0000000000E-05
+nwilo =              0
+npaths =             6
+nfuzz =              0
+epsfuzz =    3.0000000000E-01
+src(0,:) =           1         1         1         4
+bc =                 1         1         1         1
+resmax =     1.0000000000E-15
+itermin =           50
+nsmear =             0
+asmear =     1.0000000000E-01
+nkappa =             1
+wilsonmm =           0
+hopton =             2
+i,kappa(i) =       1 1.4000000000E-01
+omegaM3R =   1.0000000000E+00
+ntmqcd =             6
+i,mtmqcd(i,:) =      1 1.5300000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      2 1.5500000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      3 1.5580000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      4 1.6500000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      5 1.6750000000E-01 1.0000000000E-05
+i,mtmqcd(i,:) =      6 1.7000000000E-01 1.0000000000E-05
+i,src(i,:) =      1         1         1         1         4
+i,src(i,:) =      2         1         1         1         4
+i,src(i,:) =      3         1         1         1         4
+i,src(i,:) =      4         1         1         1         4
+i,src(i,:) =      5         1         1         1         4
+i,src(i,:) =      6         1         1         1         4
+ ntmqcdloop =            0
+cSWtmqcd =   0.0000000000E+00
+inverter =           4
+nGMRES =           100        60
+opSST =              0
+tSST =              44
+pSST =               0         0         0
+nSST =               1         1
+i,mSST(i,:) =        1 1.5700000000E-01 0.0000000000E+00
+cSWSST =     0.0000000000E+00
+invSST =             0
+numnoises =         20
+kappaloop =  1.5700000000E-01 0.0000000000E+00
+cSWloop =    0.0000000000E+00
+docorr =             0
+nkappacorr =         1
+ntmqcdcorr =         6
+ntmqcdloop =         0
+nucleonparti         3
+gitest =             0
+nirloop=             1
+            
+OUTPUTS:    
+            
+ Just did GFread
+ Entering sweep loop
+ isweep =            1
+ Updated sweepnum
+    sweepnum =     1
+ Just did a read
+         1 plaq:        5.9551977928E-01
+         1 ux,uy,uz,ut: 8.8096420625E-01 8.7892862700E-01 8.8104834723E-01 8.7521351547E-01
+       gmres        0 6.8349779999E+02
+       gmres        1 3.9258951266E-10
+       gmres        2 1.5862029881E-20
+       gmres        3 5.1595161403E-28
+       gmres        4 4.0210864514E-29
+       gmres        5 2.7429790030E-29
+       gmres        6 2.8577939155E-29
+       gmres        7 2.5174244175E-29
+       gmres        8 2.7267735731E-29
+       gmres        9 2.5708761409E-29
+       gmres       10 2.6599738649E-29
+       gmres       11 2.9993205382E-29
+       gmres       12 2.7327819613E-29
+       gmres       13 2.9173848024E-29
+       gmres       14 2.8066241851E-29
+       gmres       15 2.8859759299E-29
+       gmres       16 2.8928561564E-29
+       gmres       17 2.6207824104E-29
+       gmres       18 2.8502325556E-29
+       gmres       19 2.6949849546E-29
+       gmres       20 3.2609423485E-29
+       gmres       21 2.6850739791E-29
+       gmres       22 2.8206906224E-29
+       gmres       23 2.8007918803E-29
+       gmres       24 2.6123964315E-29
+       gmres       25 2.6152116949E-29
+       gmres       26 2.6578341851E-29
+       gmres       27 2.7006204400E-29
+       gmres       28 2.7843391538E-29
+       gmres       29 2.2309223205E-29
+       gmres       30 2.5840680994E-29
+       gmres       31 2.5480571995E-29
+       gmres       32 2.6521071908E-29
+       gmres       33 2.7686948193E-29
+       gmres       34 2.9315749397E-29
+       gmres       35 2.4398249757E-29
+       gmres       36 2.7620014388E-29
+       gmres       37 2.6537879390E-29
+       gmres       38 2.6785105980E-29
+       gmres       39 2.6317792461E-29
+       gmres       40 2.8491707039E-29
+       gmres       41 2.6953835594E-29
+       gmres       42 3.1512560065E-29
+       gmres       43 2.7524390718E-29
+       gmres       44 3.0651014992E-29
+       gmres       45 2.4231402330E-29
+       gmres       46 2.6542874918E-29
+       gmres       47 2.8858431101E-29
+       gmres       48 2.7104173319E-29
+       gmres       49 2.9248431750E-29
+       gmres       50 3.0764507183E-29
+gmres(n) iterations: itercount =        50
+gmres(n) LU inversions: LUcount =         0
+               Time taken by fermprop in seconds:  2.8217710000E+01
